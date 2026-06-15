@@ -848,15 +848,16 @@ if (typeof IntersectionObserver === 'undefined') return;
 if (!document.getElementById('wm-ent-css')) {
 var st = document.createElement('style');
 st.id = 'wm-ent-css';
+// Keyframes 1-op-1 als Elementor/Animate.css op de referentie: 100% van de elementhoogte.
 st.textContent =
 '@keyframes wmEntFadeIn{from{opacity:0}to{opacity:1}}' +
-'@keyframes wmEntFadeInUp{from{opacity:0;transform:translateY(45px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntFadeInDown{from{opacity:0;transform:translateY(-45px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntFadeInLeft{from{opacity:0;transform:translateX(-45px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntFadeInRight{from{opacity:0;transform:translateX(45px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntSlideInUp{from{opacity:0;transform:translateY(70px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntSlideInDown{from{opacity:0;transform:translateY(-70px)}to{opacity:1;transform:none}}' +
-'@keyframes wmEntZoomIn{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}';
+'@keyframes wmEntFadeInUp{from{opacity:0;transform:translate3d(0,100%,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInDown{from{opacity:0;transform:translate3d(0,-100%,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInLeft{from{opacity:0;transform:translate3d(-100%,0,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInRight{from{opacity:0;transform:translate3d(100%,0,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntSlideInUp{from{opacity:0;transform:translate3d(0,100%,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntSlideInDown{from{opacity:0;transform:translate3d(0,-100%,0)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntZoomIn{from{opacity:0;transform:scale3d(.5,.5,.5)}to{opacity:1;transform:none}}';
 (document.head || document.documentElement).appendChild(st);
 }
 var KF = { fadeIn:'wmEntFadeIn', fadeInUp:'wmEntFadeInUp', fadeInDown:'wmEntFadeInDown',
@@ -899,6 +900,9 @@ var r = el.getBoundingClientRect();
 if (r.width === 0 && r.height === 0) return;
 el._wmName = name;
 el._wmDelay = pickDelay(s);
+// duur zoals Elementor: animated-slow=2s (site-default), animated-fast=.75s, anders 1.25s
+el._wmDur = el.classList.contains('animated-fast') ? '0.75s'
+          : el.classList.contains('animated-slow') ? '2s' : '1.25s';
 el._wmAbove = r.top < vh * 0.95 && r.bottom > 0;
 targets.push(el);
 });
@@ -909,8 +913,8 @@ el.setAttribute('data-anim', 'entrance');        // escape *:not([data-anim]) ki
 el.setAttribute('data-ms-anim', 'entrance');     // escape .animated:not([data-ms-anim]) rule
 var s2 = el.style;
 s2.animationName = el._wmName;
-s2.animationDuration = '0.85s';
-s2.animationTimingFunction = 'cubic-bezier(.22,.61,.36,1)';
+s2.animationDuration = el._wmDur || '1.25s';
+s2.animationTimingFunction = 'ease';
 s2.animationFillMode = 'both';
 s2.animationPlayState = 'paused';                // toont 'from'-state (verborgen) tot trigger
 s2.willChange = 'opacity, transform';
@@ -1012,9 +1016,10 @@ var base = ids.map(function (id) { return 'html body .elementor-element-' + id; 
 var hidden = ids.map(function (id) { return 'html body .elementor-element-' + id + ':not(.ms-anim-go)'; }).join(',');
 var st = document.createElement('style');
 st.id = 'wm-card-css';
+// Zelfde gevoel als de referentie: animated-slow (2s) + fadeInUp (100% van de elementhoogte), ease.
 st.textContent =
-base + '{transition:opacity .9s cubic-bezier(.16,1,.3,1),transform .9s cubic-bezier(.16,1,.3,1)!important;will-change:opacity,transform}' +
-hidden + '{opacity:0!important;transform:translateY(56px) scale(.985)!important}';
+base + '{transition:opacity 2s ease,transform 2s ease!important;will-change:opacity,transform}' +
+hidden + '{opacity:0!important;transform:translate3d(0,100%,0)!important}';
 (document.head || document.documentElement).appendChild(st);
 }
 } catch (e) {}
