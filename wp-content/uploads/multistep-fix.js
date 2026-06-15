@@ -1061,6 +1061,45 @@ if (ns && col) ns.style.stroke = col;
 });
 } catch (e) {}
 }
+// Extra entrees: (a) stappen-timeline "Onze stappen" (f9c0d1a) — elke stap schuift zijdelings
+// in (left-part van links, right-part van rechts) + fade; (b) contactsectie "Neem contact op"
+// (19941bd8) vliegt steviger omhoog binnen. data-anim escaped de globale transition-kill;
+// hoge specificiteit verslaat de bdt/per-ID hidden-regels.
+function initExtraEntrances() {
+try {
+if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+// (a) stappen-timeline
+var steps = document.querySelector('.elementor-element-f9c0d1a');
+if (steps) {
+if (!document.getElementById('wm-steps-css')) {
+var ss = document.createElement('style'); ss.id = 'wm-steps-css';
+ss.textContent =
+'html body .elementor-element-f9c0d1a .wm-step{transition:opacity 1s ease,transform 1s ease!important;will-change:opacity,transform}' +
+'html body .elementor-element-f9c0d1a .wm-step:not(.wm-step-in){opacity:0!important}' +
+'html body .elementor-element-f9c0d1a .left-part .wm-step:not(.wm-step-in){transform:translate3d(-60px,0,0)!important}' +
+'html body .elementor-element-f9c0d1a .right-part .wm-step:not(.wm-step-in){transform:translate3d(60px,0,0)!important}';
+(document.head || document.documentElement).appendChild(ss);
+}
+if (typeof IntersectionObserver !== 'undefined') {
+var conts = [].slice.call(steps.querySelectorAll('.bdt-timeline-item-main-container'));
+conts.forEach(function (c) { c.setAttribute('data-anim', 'step'); c.classList.add('wm-step'); });
+var sio = new IntersectionObserver(function (entries) {
+entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('wm-step-in'); sio.unobserve(e.target); } });
+}, { rootMargin: '0px 0px -12% 0px', threshold: 0.15 });
+conts.forEach(function (c) { sio.observe(c); });
+setTimeout(function () { conts.forEach(function (c) { c.classList.add('wm-step-in'); }); }, 7000);
+}
+}
+// (b) contactsectie steviger laten binnenvliegen (blijft in waterval; alleen hidden-state opvoeren)
+if (document.querySelector('.elementor-element-19941bd8') && !document.getElementById('wm-contact-css')) {
+var cs = document.createElement('style'); cs.id = 'wm-contact-css';
+cs.textContent =
+'html body .elementor-element.elementor-element-19941bd8{transition:opacity 1.2s cubic-bezier(.16,1,.3,1),transform 1.2s cubic-bezier(.16,1,.3,1)!important;will-change:opacity,transform}' +
+'html body .elementor-element.elementor-element-19941bd8:not(.ms-anim-go):not(.ms-anim-go){opacity:0!important;transform:translate3d(0,90px,0)!important}';
+(document.head || document.documentElement).appendChild(cs);
+}
+} catch (e) {}
+}
 function bootAll() {
 init(); initVideos(); initSlideshow(); initNavMenu(); initCounters();
 initServiceCardLinks(); initTrustindexFallback();
@@ -1071,6 +1110,7 @@ initCardEntrance();
 initEntranceAnimations();
 initHomeMotion();
 initFooterContactIcons();
+initExtraEntrances();
 initFormSubmit();
 }
 if (document.readyState === 'loading') {
