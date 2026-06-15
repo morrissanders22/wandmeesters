@@ -676,16 +676,16 @@ var WATERFALL = [
 ['41c0c334', 200, true],  // USP LINKS ("Vakmanschap")
 ['a972fb5',  340, true],  // USP MIDDEN ("Van A tot Z")
 ['cc2edd4',  480, true],  // USP RECHTS ("Heldere communicatie")
-// Uniek cards: wachten tot ze in beeld scrollen
+// Uniek cards: wachten tot ze in beeld scrollen (ruimere stagger voor een rustigere cascade)
 ['dbe1d46', 0,   false],
-['6b0f285', 120, false],
-['9ec4910', 240, false],
-['5f075fa', 360, false],
+['6b0f285', 170, false],
+['9ec4910', 340, false],
+['5f075fa', 510, false],
 // Diensten cards: 4 parent columns met foto+blok samen
 ['f7b37d4', 0,   false],
-['e504656', 120, false],
-['a6c5855', 240, false],
-['38a7dde', 360, false],
+['e504656', 170, false],
+['a6c5855', 340, false],
+['38a7dde', 510, false],
 // Overige homepage-secties: fade-up op scroll-into-view
 ['3cba875c', 0, false],   // Witte blok "Experts in wand- en plafondafwerking" (kolom binnen cce5420)
 ['1931bb4',  0, false],   // "15+ jaren ervaring"
@@ -994,12 +994,38 @@ setTimeout(go, 6000);
 }
 } catch (e) {}
 }
+// Soepelere entree voor de uniek- + diensten-kaarten. De uniek-kaarten hadden .animated-slow
+// ZONDER data-ms-anim, waardoor de baseline-regel .animated-slow:not([data-ms-anim]) hun
+// transition op none zette → abrupt snappen. data-ms-anim (+ data-anim) heft dat op; de eigen
+// CSS-override geeft alle 8 kaarten een langere, vloeiende rise-in (combineert met de grotere
+// stagger-delays in de WATERFALL-config hierboven). Moet vóór de 150ms waterval-trigger draaien.
+function initCardEntrance() {
+try {
+if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+var ids = ['dbe1d46','6b0f285','9ec4910','5f075fa','f7b37d4','e504656','a6c5855','38a7dde'];
+ids.forEach(function (id) {
+var el = document.querySelector('.elementor-element-' + id);
+if (el) { el.setAttribute('data-anim', 'card'); el.setAttribute('data-ms-anim', 'card'); }
+});
+if (!document.getElementById('wm-card-css')) {
+var base = ids.map(function (id) { return 'html body .elementor-element-' + id; }).join(',');
+var hidden = ids.map(function (id) { return 'html body .elementor-element-' + id + ':not(.ms-anim-go)'; }).join(',');
+var st = document.createElement('style');
+st.id = 'wm-card-css';
+st.textContent =
+base + '{transition:opacity .9s cubic-bezier(.16,1,.3,1),transform .9s cubic-bezier(.16,1,.3,1)!important;will-change:opacity,transform}' +
+hidden + '{opacity:0!important;transform:translateY(56px) scale(.985)!important}';
+(document.head || document.documentElement).appendChild(st);
+}
+} catch (e) {}
+}
 function bootAll() {
 init(); initVideos(); initSlideshow(); initNavMenu(); initCounters();
 initServiceCardLinks(); initTrustindexFallback();
 initMarqueesBuild();
 keepRailAlive();
 initScrollAnimations();
+initCardEntrance();
 initEntranceAnimations();
 initHomeMotion();
 initFormSubmit();
