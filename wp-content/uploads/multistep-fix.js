@@ -1024,25 +1024,28 @@ hidden + '{opacity:0!important;transform:translate3d(0,100%,0)!important}';
 }
 } catch (e) {}
 }
-// Footer-contacticonen → dunne outline-stijl (zoals de referentie): handset-telefoon,
+// Contacticonen (header-topbar + footer) → dunne outline-stijl: handset-telefoon,
 // envelope-outline, locatie-pin. Behoudt per icoon de huidige kleur (leest de fill uit).
-function initFooterContactIcons() {
+// Footer 24px (luchtig); header behoudt zijn eigen grootte zodat de topbar uitgelijnd blijft.
+function initContactIcons() {
 try {
-var footer = document.querySelector('.elementor-location-footer, [data-elementor-type="footer"], footer');
-if (!footer) return;
 var S = 'viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
 var MAIL  = '<svg ' + S + '><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 5L2 7"/></svg>';
 var PHONE = '<svg ' + S + '><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>';
 var PIN   = '<svg ' + S + '><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
-if (!document.getElementById('wm-footer-ico-css')) {
-var st = document.createElement('style');
-st.id = 'wm-footer-ico-css';
-st.textContent = '.wm-footer-ico{display:inline-flex;align-items:center;justify-content:center;line-height:0}'
-+ 'html body .wm-footer-ico svg{width:24px!important;height:24px!important;display:block}';
+if (!document.getElementById('wm-line-ico-css')) {
+var st = document.createElement('style'); st.id = 'wm-line-ico-css';
+st.textContent = '.wm-line-ico{display:inline-flex;align-items:center;justify-content:center;line-height:0}.wm-line-ico svg{display:block}';
 (document.head || document.documentElement).appendChild(st);
 }
-footer.querySelectorAll('.elementor-icon-list-icon').forEach(function (span) {
-if (span.dataset.wmFico) return;
+var scopes = [
+{ root: document.querySelector('.elementor-location-footer, [data-elementor-type="footer"], footer'), size: 24 },
+{ root: document.querySelector('.elementor-location-header, [data-elementor-type="header"], header'), size: 0 }
+];
+scopes.forEach(function (sc) {
+if (!sc.root) return;
+sc.root.querySelectorAll('.elementor-icon-list-icon').forEach(function (span) {
+if (span.dataset.wmLineIco) return;
 var cur = span.querySelector('svg,i');
 if (!cur) return;
 var cls = cur.getAttribute('class') || '';
@@ -1050,14 +1053,16 @@ var svg = /phone/.test(cls) ? PHONE
         : /envelope|mail/.test(cls) ? MAIL
         : /map-marker|map-pin|marker|location/.test(cls) ? PIN : null;
 if (!svg) return;
-// huidige kleur overnemen (fill van de oude svg, of color)
-var col = '';
+// huidige kleur + grootte overnemen
+var col = '', sz = sc.size;
 try { var ccs = getComputedStyle(cur); col = (ccs.fill && ccs.fill !== 'none' && ccs.fill !== 'rgb(0, 0, 0)') ? ccs.fill : ccs.color; } catch (e) {}
-span.dataset.wmFico = '1';
-span.classList.add('wm-footer-ico');
+if (!sz) { sz = Math.round(cur.getBoundingClientRect().width) || 20; }
+span.dataset.wmLineIco = '1';
+span.classList.add('wm-line-ico');
 span.innerHTML = svg;
 var ns = span.querySelector('svg');
-if (ns && col) ns.style.stroke = col;
+if (ns) { if (col) ns.style.stroke = col; ns.style.width = sz + 'px'; ns.style.height = sz + 'px'; }
+});
 });
 } catch (e) {}
 }
@@ -1109,7 +1114,7 @@ initScrollAnimations();
 initCardEntrance();
 initEntranceAnimations();
 initHomeMotion();
-initFooterContactIcons();
+initContactIcons();
 initExtraEntrances();
 initFormSubmit();
 }
