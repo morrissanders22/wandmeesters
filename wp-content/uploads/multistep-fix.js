@@ -834,12 +834,174 @@ if (btn) { btn.disabled = false; }
 });
 });
 }
+// Getrouwe Elementor entrance-animaties — site-breed. Leest per element de in Elementor
+// geconfigureerde _animation (fadeInUp/fadeInDown/slideInUp/…) + _animation_delay uit
+// data-settings en speelt die af bij scroll-into-view (above-the-fold direct, zoals Elementor
+// zelf op de live WordPress-site). Matcht het concept op concepten-mhsmedia.nl.
+// De getunede homepage-waterval (21 IDs, data-ms-anim-delay) wordt overgeslagen om dubbele
+// animatie te vermijden. data-anim + data-ms-anim escapen beide globale kill-rules; een
+// keyframe-animatie wint van statische !important opacity-regels en loopt betrouwbaar.
+function initEntranceAnimations() {
+try {
+if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+if (typeof IntersectionObserver === 'undefined') return;
+if (!document.getElementById('wm-ent-css')) {
+var st = document.createElement('style');
+st.id = 'wm-ent-css';
+st.textContent =
+'@keyframes wmEntFadeIn{from{opacity:0}to{opacity:1}}' +
+'@keyframes wmEntFadeInUp{from{opacity:0;transform:translateY(45px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInDown{from{opacity:0;transform:translateY(-45px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInLeft{from{opacity:0;transform:translateX(-45px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntFadeInRight{from{opacity:0;transform:translateX(45px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntSlideInUp{from{opacity:0;transform:translateY(70px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntSlideInDown{from{opacity:0;transform:translateY(-70px)}to{opacity:1;transform:none}}' +
+'@keyframes wmEntZoomIn{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}';
+(document.head || document.documentElement).appendChild(st);
+}
+var KF = { fadeIn:'wmEntFadeIn', fadeInUp:'wmEntFadeInUp', fadeInDown:'wmEntFadeInDown',
+fadeInLeft:'wmEntFadeInLeft', fadeInRight:'wmEntFadeInRight', slideInUp:'wmEntSlideInUp',
+slideInDown:'wmEntSlideInDown', zoomIn:'wmEntZoomIn', zoomInUp:'wmEntZoomIn' };
+var vw = window.innerWidth || 1024;
+var mode = vw <= 767 ? 'mobile' : (vw <= 1024 ? 'tablet' : 'desktop');
+function pickAnim(s) {
+if (!s) return null;
+var v;
+if (mode === 'mobile') v = s._animation_mobile;
+else if (mode === 'tablet') v = s._animation_tablet;
+if (v === undefined || v === '') v = s._animation;
+if (!v || v === 'none') return null;
+return KF[v] || 'wmEntFadeInUp';
+}
+function pickDelay(s) {
+if (!s) return 0;
+var d = s._animation_delay;
+if (mode === 'mobile' && s._animation_delay_mobile != null) d = s._animation_delay_mobile;
+else if (mode === 'tablet' && s._animation_delay_tablet != null) d = s._animation_delay_tablet;
+d = parseInt(d, 10);
+return isNaN(d) ? 0 : Math.max(0, Math.min(d, 2000));
+}
+var vh = window.innerHeight || 800;
+var targets = [];
+document.querySelectorAll('[data-settings]').forEach(function (el) {
+if (el.dataset.wmEnt) return;
+var raw = el.getAttribute('data-settings');
+if (!raw || raw.indexOf('_animation') === -1) return;                 // snelle pre-filter
+if (el.closest('#homeSection')) return;                               // hero (eigen Ken Burns)
+if (el.hasAttribute('data-ms-anim-delay') || el.closest('[data-ms-anim-delay]')) return; // homepage-waterval
+if (el.classList.contains('ms-anim-go') || el.classList.contains('ms-anim-skip')) return;
+if (el.closest('header,footer,.elementor-location-header,.elementor-location-footer')) return;
+if (el.closest('.swiper,.swiper-container,.slick-slider,.bdt-marquee,[data-aos],.ms-reviews-track,.ms-partners-track,[class*="bdt-anim"]')) return;
+var s = getAnimSettings(el);
+var name = pickAnim(s);
+if (!name) return;
+var r = el.getBoundingClientRect();
+if (r.width === 0 && r.height === 0) return;
+el._wmName = name;
+el._wmDelay = pickDelay(s);
+el._wmAbove = r.top < vh * 0.95 && r.bottom > 0;
+targets.push(el);
+});
+if (!targets.length) return;
+targets.forEach(function (el) {
+el.dataset.wmEnt = '1';
+el.setAttribute('data-anim', 'entrance');        // escape *:not([data-anim]) kill-rule
+el.setAttribute('data-ms-anim', 'entrance');     // escape .animated:not([data-ms-anim]) rule
+var s2 = el.style;
+s2.animationName = el._wmName;
+s2.animationDuration = '0.85s';
+s2.animationTimingFunction = 'cubic-bezier(.22,.61,.36,1)';
+s2.animationFillMode = 'both';
+s2.animationPlayState = 'paused';                // toont 'from'-state (verborgen) tot trigger
+s2.willChange = 'opacity, transform';
+if (el._wmDelay) s2.animationDelay = (el._wmDelay / 1000) + 's';
+});
+function play(el) { el.style.animationPlayState = 'running'; }
+var io = new IntersectionObserver(function (entries) {
+entries.forEach(function (e) {
+if (!e.isIntersecting) return;
+io.unobserve(e.target);
+play(e.target);
+});
+}, { rootMargin: '0px 0px -8% 0px', threshold: 0.12 });
+targets.forEach(function (el) {
+if (el._wmAbove) play(el);                        // above-the-fold → direct (zoals Elementor bij load)
+else io.observe(el);
+});
+// Safety-net: na 6s alles afspelen (mocht de observer falen)
+setTimeout(function () { targets.forEach(play); }, 6000);
+} catch (e) {}
+}
+// Extra beweging — hover-microinteracties (kaarten liften, klikbare thumbnails zoomen) +
+// entree voor de statische "Onze projecten"-sectie. Additief; raakt de getunede waterval niet.
+// data-anim escaped de globale transition:none!important kill-rule (smooth hover beide kanten op).
+function initHomeMotion() {
+try {
+if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+if (!document.getElementById('wm-motion-css')) {
+var ms = document.createElement('style');
+ms.id = 'wm-motion-css';
+ms.textContent =
+'@keyframes wmHomeUp{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}' +
+'html body .wm-hoverable{transition:transform .35s cubic-bezier(.22,.61,.36,1),box-shadow .35s cubic-bezier(.22,.61,.36,1)!important}' +
+'html body .wm-hoverable:hover{transform:translateY(-7px)!important}' +
+'html body .wm-card.wm-hoverable:hover{box-shadow:0 18px 42px rgba(10,30,60,.13)!important}' +
+'html body .wm-zoom{overflow:hidden!important}' +
+'html body .wm-zoom img{transition:transform .6s cubic-bezier(.22,.61,.36,1)!important;will-change:transform}' +
+'html body .wm-zoom:hover img{transform:scale(1.06)!important}';
+(document.head || document.documentElement).appendChild(ms);
+}
+var skip = 'header,footer,.elementor-location-header,.elementor-location-footer';
+// kaarten liften
+document.querySelectorAll('.elementor-widget-icon-box,.elementor-widget-image-box,.elementor-widget-call-to-action').forEach(function (el) {
+if (el.dataset.wmHover || el.closest(skip)) return;
+el.dataset.wmHover = '1';
+el.setAttribute('data-anim', 'hover');
+el.setAttribute('data-ms-anim', 'hover');
+el.classList.add('wm-hoverable', 'wm-card');
+});
+// klikbare image-thumbnails zoomen
+document.querySelectorAll('.elementor-widget-image').forEach(function (el) {
+if (el.dataset.wmHover || !el.querySelector('img')) return;
+if (el.closest(skip + ',.bdt-marquee,.ms-partners-track,.ms-reviews-track')) return;
+if (!el.closest('a') && !el.querySelector('a')) return;   // alleen klikbare thumbnails
+el.dataset.wmHover = '1';
+el.setAttribute('data-anim', 'hover');
+el.classList.add('wm-zoom');
+});
+// statische "Onze projecten"-sectie laten infaden met lichte stagger
+if (typeof IntersectionObserver !== 'undefined') {
+var proj = document.querySelector('.elementor-element-a77d7f4');
+if (proj && !proj.dataset.wmHomeDone) {
+proj.dataset.wmHomeDone = '1';
+var items = [].slice.call(proj.querySelectorAll('.elementor-widget-heading,.elementor-widget-text-editor,.elementor-widget-button,.elementor-widget-loop-grid,.elementor-widget-image')).slice(0, 10);
+items.forEach(function (el, i) {
+el.setAttribute('data-anim', 'entrance');
+el.setAttribute('data-ms-anim', 'entrance');
+var s = el.style;
+s.animationName = 'wmHomeUp'; s.animationDuration = '0.7s';
+s.animationTimingFunction = 'cubic-bezier(.22,.61,.36,1)';
+s.animationFillMode = 'both'; s.animationPlayState = 'paused';
+s.animationDelay = (i * 0.12) + 's'; s.willChange = 'opacity, transform';
+});
+var go = function () { items.forEach(function (el) { el.style.animationPlayState = 'running'; }); };
+var pio = new IntersectionObserver(function (entries) {
+entries.forEach(function (e) { if (e.isIntersecting) { go(); pio.disconnect(); } });
+}, { rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
+pio.observe(proj);
+setTimeout(go, 6000);
+}
+}
+} catch (e) {}
+}
 function bootAll() {
 init(); initVideos(); initSlideshow(); initNavMenu(); initCounters();
 initServiceCardLinks(); initTrustindexFallback();
 initMarqueesBuild();
 keepRailAlive();
 initScrollAnimations();
+initEntranceAnimations();
+initHomeMotion();
 initFormSubmit();
 }
 if (document.readyState === 'loading') {
@@ -1040,11 +1202,10 @@ else label();
   function processNode(el) {
     if (!el || el.dataset === undefined) return;
     if (el.tagName === 'A' && (el.getAttribute('href') || '').toLowerCase().indexOf('tel:') === 0) {
-      // tel: link → behoud href, swap display text
-      if (el.dataset.phoneOrig === undefined) el.dataset.phoneOrig = el.textContent;
-      el.textContent = mq.matches
-        ? formatToMobile(el.dataset.phoneOrig)
-        : el.dataset.phoneOrig;
+      // tel: link → ALLEEN de tekst-nodes in de link herschrijven.
+      // NIET el.textContent zetten: dat vervangt alle children door één tekstnode
+      // en verwijdert daarmee het telefoon-icoon (<svg>) uit de link.
+      walkTextNodes(el);
     }
   }
 
