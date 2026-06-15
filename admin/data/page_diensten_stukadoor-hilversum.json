@@ -1,0 +1,460 @@
+{
+  "slug": "diensten/stukadoor-hilversum",
+  "title": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+  "status": "published",
+  "template": "stukadoor-stad",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.955518Z",
+  "updated_at": "2026-06-01T15:01:32.955518Z",
+  "published_at": "2026-06-01T15:01:32.955518Z",
+  "meta": {
+    "title": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+    "description": "Stukadoor in Hilversum nodig? Glad afgewerkte muren en plafonds in Hilversum. ✓ Transparante tarieven ✓ Snel een gratis offerte ✓ Heldere communicatie",
+    "canonical": "https://wandmeesters.nl/diensten/stukadoor-hilversum/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+    "og_description": "Stukadoor in Hilversum nodig? Glad afgewerkte muren en plafonds in Hilversum. ✓ Transparante tarieven ✓ Snel een gratis offerte ✓ Heldere communicatie",
+    "og_image": "/wp-content/uploads/2026/04/woonkamer-2-768x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/woonkamer-2-768x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/woonkamer-2.webp",
+          "url": "/wp-content/uploads/2026/04/woonkamer-2.webp",
+          "width": "1536",
+          "height": "2048",
+          "caption": "Stukadoor",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stukadoor-hilversum/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stukadoor-hilversum/",
+                "name": "Stukadoor Hilversum"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stukadoor-hilversum/#webpage",
+          "url": "/diensten/stukadoor-hilversum/",
+          "name": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+          "datePublished": "2026-05-27T06:54:00+00:00",
+          "dateModified": "2026-05-27T13:07:01+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/woonkamer-2.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stukadoor-hilversum/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+          "keywords": "stukadoor in hilversum",
+          "datePublished": "2026-05-27T06:54:00+00:00",
+          "dateModified": "2026-05-27T13:07:01+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Stukadoor in Hilversum nodig? Glad afgewerkte muren en plafonds in Hilversum. ✓ Transparante tarieven ✓ Snel een gratis offerte ✓ Heldere communicatie",
+          "name": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+          "@id": "/diensten/stukadoor-hilversum/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stukadoor-hilversum/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/woonkamer-2.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stukadoor-hilversum/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Stukadoor Hilversum"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Professionele stukadoors"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Volledige ontzorging"
+    },
+    {
+      "type": "heading-h4",
+      "text": "15+ jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak stucwerk nodig voor woningen in Hilversum?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Professioneel stukadoorsbedrijf in Hilversum"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Vakwerk voor muren en plafonds"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze afwerkingsdiensten in Hilversum"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Latex verfspuiten combineren met stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister laten aanbrengen in Hilversum"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat kost een stukadoor in Hiversum?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Kies voor betrouwbaar stucwerk en schilderdiensten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Hilversum Ben je op zoek naar een ervaren stukadoor in Hilversum voor strak afgewerkte muren en plafonds? Van glad stucwerk tot dunpleister en latex spuiten: wij realiseren een afwerking die past bij de uitstraling van jouw woning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professionele stukadoors Glad stucwerk, zonder strepen of banen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stucwerk, dunpleister en latex spuiten in eigen beheer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Liefde voor het vak en jouw resultaat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Hilversum Ben je op zoek naar een ervaren stukadoor in Hilversum voor strak afgewerkte muren en plafonds? Wij realiseren een afwerking die past bij de uitstraling van jouw woning!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Een professionele stukadoor levert niet alleen strak werk af, maar zorgt ook voor duidelijke communicatie en een nette werkwijze. Vraag vandaag nog een gratis offerte aan en ontdek hoe wij je ontzorgen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goed stucwerk bepaalt de uitstraling van een woning. Oneffen muren, oud structuurwerk of beschadigde plafonds kunnen ervoor zorgen dat een interieur rommelig oogt. Met professioneel aangebracht pleisterwerk ontstaat juist een strak geheel dat rust en kwaliteit uitstraalt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters verzorgt complete wand- en plafondafwerking voor woningen in Hilversum. Daarbij richten wij ons op hoogwaardige afwerking die aansluit bij moderne woonstijlen en luxe interieurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doordat wij meerdere werkzaamheden combineren, sluiten alle afwerkingen perfect op elkaar aan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect gladde muren voor moderne interieurs met veel lichtinval. Complete wand- en plafondafwerking uitgevoerd door één partij. Geschikt voor zowel nieuwbouw als renovatieprojecten. Latex spuitwerk zonder zichtbare strepen of rollerstructuur. Wat we voor u kunnen doen Onze afwerkingsdiensten in Hilversum Bekijk hieronder onze diensten voor strak stucwerk en complete afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bekijk onze interessante combi-deal voor latex spuiten en stucwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Na het glad maken van de muren brengen wij de latexverf professioneel aan met spuittechniek. Daardoor ontstaan geen strepen, rollerbanen of zichtbare aanzetten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voordelen van latex spuiten:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister is een populaire oplossing voor nieuwbouwwoningen waarbij de muren al relatief vlak zijn. Met een dunne egalisatielaag maken wij de ondergrond volledig glad en geschikt voor verdere afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voordelen van dunpleister:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vooral in moderne woningen met strakke interieurs wordt dunpleister veel toegepast."
+    },
+    {
+      "type": "paragraph",
+      "text": "De prijs van stucwerk verschilt per woning en hangt onder andere af van de ondergrond, het aantal vierkante meters en de gekozen afwerking. Vraag vrijblijvend een offerte aan en ontvang snel inzicht in de kosten voor jouw project in Hilversum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor woningen ouder dan 2 jaar geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerkzaamheden. Bij nieuwbouwprojecten is doorgaans het standaardtarief van 21% btw van toepassing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zijn actief in Hilversum en omliggende plaatsen zoals Bussum, Laren, Blaricum, Huizen en Naarden. Van appartementen in het centrum van Hilversum tot moderne nieuwbouwwoningen verzorgen wij complete wand- en plafondafwerking met een strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Veelgestelde vragen Werken jullie ook in omliggende plaatsen van Hilversum? Ja, wij zijn actief in heel Nederland. Rondom Hilversum zijn we ook vaak te vinden in Bussum, Laren, Blaricum, Huizen en omliggende plaatsen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor woningen ouder dan 2 jaar in Hilversum geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerkzaamheden. Dit tarief is meestal van toepassing op de arbeidskosten bij bestaande woningen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij nieuwbouwwoningen geldt het standaard btw-tarief van 21%. In de offerte maken wij altijd duidelijk welk btw-tarief van toepassing is op jouw project in Hilversum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister werkt vooral goed bij vlakke muren in nieuwbouwprojecten. Benieuwd of het geschikt is voor jouw woning? Vraag dan een offerte aan of neem contact met ons op."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten. Voor woningen in Hilversum proberen wij altijd snel duidelijkheid te geven over de beschikbare startdatum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dat hangt af van wanneer we starten en de droogtijd van het stucwerk. Goed voor je om te weten dat we dit vooraf altijd duidelijk met je bespreken."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Specialist in bestaande en nieuwbouw",
+        "Duidelijke planning en nette uitvoering",
+        "15+ jaar ervaring in regio Hilversum"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect gladde muren voor moderne interieurs met veel lichtinval.",
+        "Complete wand- en plafondafwerking uitgevoerd door één partij.",
+        "Geschikt voor zowel nieuwbouw als renovatieprojecten.",
+        "Latex spuitwerk zonder zichtbare strepen of rollerstructuur."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Egaal eindresultaat",
+        "Geen zichtbare banen",
+        "Strakke uitstraling",
+        "Snelle verwerking",
+        "Ideaal voor plafonds",
+        "Mooie lichtreflectie bij daglicht"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Glad oppervlak zonder structuur",
+        "Snelle verwerking",
+        "Perfect voor nieuwbouwmuren",
+        "Ideaal voor latex spuiten",
+        "Moderne uitstraling",
+        "Efficiënte afwerking voor grote oppervlaktes"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "Stucwerk in Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+      "alt": "Stukadoor Wandmeesters"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": "Stucwerk Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister"
+    },
+    {
+      "type": "faq-group",
+      "items": [
+        {
+          "question": "Werken jullie ook in omliggende plaatsen van Hilversum?",
+          "answer": "Ja, wij zijn actief in heel Nederland. Rondom Hilversum zijn we ook vaak te vinden in Bussum, Laren, Blaricum, Huizen en omliggende plaatsen."
+        },
+        {
+          "question": "Geldt het 9% btw-tarief ook voor mij in Hilversum?",
+          "answer": "Voor woningen ouder dan 2 jaar in Hilversum geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerkzaamheden. Dit tarief is meestal van toepassing op de arbeidskosten bij bestaande woningen.Bij nieuwbouwwoningen geldt het standaard btw-tarief van 21%. In de offerte maken wij altijd duidelijk welk btw-tarief van toepassing is op jouw project in Hilversum."
+        },
+        {
+          "question": "Is dunpleister geschikt voor mijn woning?",
+          "answer": "Dunpleister werkt vooral goed bij vlakke muren in nieuwbouwprojecten. Benieuwd of het geschikt is voor jouw woning? Vraag dan een offerte aan of neem contact met ons op."
+        },
+        {
+          "question": "Hoe snel kunnen jullie starten in Hilversum?",
+          "answer": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten. Voor woningen in Hilversum proberen wij altijd snel duidelijkheid te geven over de beschikbare startdatum."
+        },
+        {
+          "question": "Wanneer kan er geschilderd worden?",
+          "answer": "Dat hangt af van wanneer we starten en de droogtijd van het stucwerk. Goed voor je om te weten dat we dit vooraf altijd duidelijk met je bespreken."
+        }
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stukadoor-hilversum/index.html"
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "algemene-voorwaarden",
+    "title": "Algemene Voorwaarden",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.912517Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "author/admin",
+    "title": "admin, Author at Wandmeesters",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.915735Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "author/websitebeheerder",
+    "title": "Website Beheerder, Author at Wandmeesters",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.917120Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "bedankpagina",
+    "title": "Bedankpagina",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.918432Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "category/niet-gecategoriseerd",
+    "title": "Niet gecategoriseerd Archives",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.919696Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "contact",
+    "title": "Contact",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.922642Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "cookiebeleid",
+    "title": "Cookiebeleid",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.926637Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/betoncire",
+    "title": "Betoncire",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.929971Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/dunpleisterwerk",
+    "title": "Dunpleisterwerk",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.932734Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/houtschilderwerk",
+    "title": "Houtschilderwerk",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.935307Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten",
+    "title": "Diensten",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.937353Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/latex-spuitwerk",
+    "title": "Latex spuitwerk",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.939642Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stucwerk",
+    "title": "Stucwerk",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.941990Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-alkmaar",
+    "title": "Stukadoor in Alkmaar | 15+ Jaar Ervaring | Snel &amp; Strak",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.946330Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-almere",
+    "title": "Stukadoor in Almere | Voor muren &amp; plafonds",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.950887Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-hilversum",
+    "title": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.955518Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-hoorn",
+    "title": "Stukadoor in Hoorn voor muren &amp; plafonds",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.960108Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-lelystad",
+    "title": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.964486Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/stukadoor-purmerend",
+    "title": "Stukadoor in Hoorn | Gratis offerte",
+    "status": "published",
+    "template": "stukadoor-stad",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.970176Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "diensten/zolderplaten-afwerken",
+    "title": "Zolderplaten afwerken",
+    "status": "published",
+    "template": "dienst",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.973749Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "dunpleister-latexspuiten",
+    "title": "Dunpleisterwerk + latex spuiten",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.977036Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "",
+    "title": "Homepagina",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.984454Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "over-ons",
+    "title": "Over Ons",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.988948Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.990798Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "projecten",
+    "title": "Projecten",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.992850Z",
+    "seo_score": 0
+  },
+  {
+    "slug": "stucwerk-latexspuiten",
+    "title": "Stucwerk + latex spuiten",
+    "status": "published",
+    "template": "basic-page",
+    "locale": "nl",
+    "updated_at": "2026-06-01T15:01:32.995700Z",
+    "seo_score": 0
+  }
+]

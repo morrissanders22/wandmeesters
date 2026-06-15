@@ -1,0 +1,137 @@
+[
+  {
+    "name": "stukadoor-stad",
+    "slug_pattern": "stukadoor-{stad_slug}",
+    "description": "Lokale stukadoor-pagina per stad. Hoofd-SEO-driver voor local search.",
+    "variables": [
+      {"name": "stad",                "type": "text",   "default": "Amsterdam", "required": true,  "help": "Stadnaam zoals getoond in koppen."},
+      {"name": "stad_slug",           "type": "text",   "default": "amsterdam", "required": true,  "help": "URL-slug van de stad (lowercase, geen spaties)."},
+      {"name": "provincie",           "type": "text",   "default": "Noord-Holland", "required": false, "help": "Provincie voor structured data."},
+      {"name": "prijs_range_m2",      "type": "text",   "default": "€18 - €32 per m²", "required": false, "help": "Indicatieprijs per m² voor de stad."},
+      {"name": "service_radius_km",   "type": "number", "default": 25, "required": false, "help": "Service radius in km vanaf de stad."},
+      {"name": "lokale_referenties",  "type": "text",   "default": "", "required": false, "help": "Korte zin met lokale klanten/projecten."},
+      {"name": "buurten",             "type": "list",   "default": [], "required": false, "help": "Lijst van buurten/wijken in de stad."},
+      {"name": "intro_paragraph",     "type": "text",   "default": "", "required": false, "help": "Korte intro-paragraaf bovenaan."},
+      {"name": "hero_image_id",       "type": "text",   "default": "", "required": false, "help": "Media-id voor de hero afbeelding."},
+      {"name": "testimonial_quote",   "type": "text",   "default": "", "required": false, "help": "Klantcitaat."},
+      {"name": "testimonial_author",  "type": "text",   "default": "", "required": false, "help": "Naam onder klantcitaat."}
+    ],
+    "default_meta": {
+      "title": "Stukadoor in {{stad}} | Wandmeesters",
+      "description": "Wandmeesters is dé stukadoor in {{stad}}. Strakke muren en plafonds, professioneel uitgevoerd. Vraag een vrijblijvende offerte aan.",
+      "canonical": "/stukadoor-{{stad_slug}}/",
+      "robots": "index,follow",
+      "og_title": "Stukadoor {{stad}} | Wandmeesters",
+      "og_description": "Professioneel stukwerk in {{stad}} en omgeving. Vraag direct uw offerte aan.",
+      "keyword": "stukadoor {{stad}}",
+      "hreflang": [{"lang": "nl", "url": "/stukadoor-{{stad_slug}}/"}]
+    },
+    "content_blocks": [
+      {"type": "heading-h1", "props": {"text": "Stukadoor in {{stad}} voor muren & plafonds | Wandmeesters"}},
+      {"type": "paragraph",  "props": {"text": "Op zoek naar een betrouwbare stukadoor in {{stad}}? Wandmeesters verzorgt al jarenlang strak stucwerk, latexspuitwerk en betoncire in {{stad}} en omgeving (service-radius ca. {{service_radius_km}} km). {{intro_paragraph}}"}},
+      {"type": "cta-banner", "props": {"headline": "Direct een offerte voor {{stad}}", "subline": "Prijsindicatie: {{prijs_range_m2}}. Reactie binnen 1 werkdag.", "cta_label": "Vraag offerte aan", "cta_url": "/contact/"}},
+      {"type": "heading-h2", "props": {"text": "Onze diensten in {{stad}}"}},
+      {"type": "section-3col", "props": {
+        "col1": [
+          {"type": "heading-h3", "props": {"text": "Stucwerk"}},
+          {"type": "paragraph",  "props": {"text": "Strak stucwerk op muren en plafonds in {{stad}}, klaar voor verf of behang."}},
+          {"type": "link",       "props": {"label": "Meer over stucwerk", "url": "/diensten/stucwerk/"}}
+        ],
+        "col2": [
+          {"type": "heading-h3", "props": {"text": "Latexspuiten"}},
+          {"type": "paragraph",  "props": {"text": "Spuitwerk met latex voor een perfect egaal eindresultaat, ook in {{stad}}."}},
+          {"type": "link",       "props": {"label": "Meer over latex spuiten", "url": "/diensten/latex-spuiten/"}}
+        ],
+        "col3": [
+          {"type": "heading-h3", "props": {"text": "Betoncire"}},
+          {"type": "paragraph",  "props": {"text": "Naadloze betonlook-afwerking voor moderne woningen in {{stad}}."}},
+          {"type": "link",       "props": {"label": "Meer over betoncire", "url": "/diensten/betoncire/"}}
+        ]
+      }},
+      {"type": "heading-h2", "props": {"text": "Werkgebied rond {{stad}}"}},
+      {"type": "paragraph",  "props": {"text": "Wij werken in heel {{stad}} en alle omliggende buurten. {{lokale_referenties}}"}},
+      {"type": "testimonial", "props": {"quote": "{{testimonial_quote}}", "author": "{{testimonial_author}}", "role": "Klant uit {{stad}}"}},
+      {"type": "heading-h2", "props": {"text": "Veelgestelde vragen over stucwerk in {{stad}}"}},
+      {"type": "faq-group",  "props": {"items": [
+        {"q": "Wat kost een stukadoor in {{stad}}?", "a": "De prijs hangt af van het type werk en de oppervlakte. Voor {{stad}} hanteren wij een indicatief tarief van {{prijs_range_m2}}. Vraag een offerte aan voor exacte prijs."},
+        {"q": "Hoe snel kunnen jullie aan de slag in {{stad}}?", "a": "Doorgaans plannen wij projecten in {{stad}} binnen 1-3 weken in, afhankelijk van het seizoen."},
+        {"q": "Werken jullie ook in de omliggende plaatsen?", "a": "Ja, we werken in een straal van ca. {{service_radius_km}} km rond {{stad}} en hanteren geen voorrijkosten binnen ons werkgebied."}
+      ]}},
+      {"type": "heading-h2", "props": {"text": "Vraag een offerte aan"}},
+      {"type": "paragraph",  "props": {"text": "Vul het offerteformulier in en wij nemen binnen 1 werkdag contact met u op voor een vrijblijvende prijsopgave."}},
+      {"type": "button",     "props": {"label": "Offerte aanvragen", "url": "/contact/", "style": "primary"}}
+    ]
+  },
+  {
+    "name": "dienst",
+    "slug_pattern": "diensten/{dienst_slug}",
+    "description": "Detail-pagina per dienst (stucwerk, latex-spuitwerk, betoncire, etc.).",
+    "variables": [
+      {"name": "dienst",            "type": "text",   "default": "Stucwerk", "required": true,  "help": "Naam van de dienst."},
+      {"name": "dienst_slug",       "type": "text",   "default": "stucwerk", "required": true,  "help": "URL-slug van de dienst."},
+      {"name": "korte_omschrijving","type": "text",   "default": "", "required": false, "help": "Eén-zins beschrijving onder hero."},
+      {"name": "prijs_indicatie",   "type": "text",   "default": "vanaf €18,- per m²", "required": false, "help": "Indicatieprijs."},
+      {"name": "doorlooptijd",      "type": "text",   "default": "1-3 dagen", "required": false, "help": "Typische doorlooptijd."},
+      {"name": "voor_wie",          "type": "text",   "default": "particulieren en bedrijven", "required": false, "help": "Doelgroep."},
+      {"name": "stappenplan_steps", "type": "list",   "default": [], "required": false, "help": "Lijst van uitvoeringsstappen."},
+      {"name": "hero_image_id",     "type": "text",   "default": "", "required": false, "help": "Hero media-id."},
+      {"name": "gallery_image_ids", "type": "list",   "default": [], "required": false, "help": "Media-ids voor galerij."},
+      {"name": "related_dienst_slugs","type": "list", "default": [], "required": false, "help": "Slugs van gerelateerde diensten."}
+    ],
+    "default_meta": {
+      "title": "{{dienst}} door professionals | Wandmeesters",
+      "description": "Wandmeesters verzorgt {{dienst}} professioneel en op maat. {{korte_omschrijving}} Vraag een offerte aan.",
+      "canonical": "/diensten/{{dienst_slug}}/",
+      "robots": "index,follow",
+      "og_title": "{{dienst}} | Wandmeesters",
+      "og_description": "{{korte_omschrijving}}",
+      "keyword": "{{dienst}}"
+    },
+    "content_blocks": [
+      {"type": "heading-h1", "props": {"text": "{{dienst}}"}},
+      {"type": "paragraph",  "props": {"text": "{{korte_omschrijving}} Wandmeesters levert {{dienst}} op maat voor {{voor_wie}}."}},
+      {"type": "cta-banner", "props": {"headline": "Direct {{dienst}} aanvragen", "subline": "Prijs: {{prijs_indicatie}} · Doorlooptijd: {{doorlooptijd}}", "cta_label": "Offerte aanvragen", "cta_url": "/contact/"}},
+      {"type": "heading-h2", "props": {"text": "Wat houdt {{dienst}} in?"}},
+      {"type": "paragraph",  "props": {"text": "{{dienst}} is een afwerking die wordt toegepast om muren en plafonds strak, egaal en onderhoudsvriendelijk te maken. Wandmeesters voert {{dienst}} uit volgens een vast stappenplan voor een gegarandeerd resultaat."}},
+      {"type": "heading-h2", "props": {"text": "Onze werkwijze"}},
+      {"type": "list-ol",    "props": {"items": [
+        "Vrijblijvende offerte en inmeting op locatie",
+        "Voorbereiding en afplakken van de werkruimte",
+        "Uitvoering van het {{dienst}}",
+        "Eindcontrole en oplevering"
+      ]}},
+      {"type": "heading-h2", "props": {"text": "Tarieven {{dienst}}"}},
+      {"type": "paragraph",  "props": {"text": "Onze tarieven voor {{dienst}} starten bij {{prijs_indicatie}}. De exacte prijs hangt af van oppervlakte, voorbereiding en locatie."}},
+      {"type": "heading-h2", "props": {"text": "Veelgestelde vragen"}},
+      {"type": "faq-group",  "props": {"items": [
+        {"q": "Wat kost {{dienst}}?", "a": "Onze tarieven beginnen vanaf {{prijs_indicatie}}. Vraag een offerte aan voor de exacte prijs op uw situatie."},
+        {"q": "Hoe lang duurt {{dienst}}?", "a": "Doorgaans duurt {{dienst}} {{doorlooptijd}}, afhankelijk van het oppervlak."},
+        {"q": "Voor wie is {{dienst}} geschikt?", "a": "{{dienst}} is geschikt voor {{voor_wie}}."}
+      ]}},
+      {"type": "heading-h2", "props": {"text": "Vraag direct een offerte aan"}},
+      {"type": "button",     "props": {"label": "Offerte voor {{dienst}}", "url": "/contact/", "style": "primary"}}
+    ]
+  },
+  {
+    "name": "basic-page",
+    "slug_pattern": "{slug}",
+    "description": "Algemene content-pagina zonder vaste structuur (over-ons, contact, beleid).",
+    "variables": [
+      {"name": "title",       "type": "text", "default": "Nieuwe pagina", "required": true,  "help": "Pagina titel (verschijnt als H1)."},
+      {"name": "slug",        "type": "text", "default": "nieuwe-pagina", "required": true,  "help": "URL-slug."},
+      {"name": "intro",       "type": "text", "default": "",              "required": false, "help": "Intro-paragraaf bovenaan."},
+      {"name": "body",        "type": "text", "default": "",              "required": false, "help": "Hoofdtekst (paragraaf)."}
+    ],
+    "default_meta": {
+      "title": "{{title}} | Wandmeesters",
+      "description": "{{intro}}",
+      "canonical": "/{{slug}}/",
+      "robots": "index,follow"
+    },
+    "content_blocks": [
+      {"type": "heading-h1", "props": {"text": "{{title}}"}},
+      {"type": "paragraph",  "props": {"text": "{{intro}}"}},
+      {"type": "paragraph",  "props": {"text": "{{body}}"}}
+    ]
+  }
+]

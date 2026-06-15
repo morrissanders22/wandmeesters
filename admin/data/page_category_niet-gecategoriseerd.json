@@ -1,0 +1,104 @@
+{
+  "slug": "category/niet-gecategoriseerd",
+  "title": "Niet gecategoriseerd Archives",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.919696Z",
+  "updated_at": "2026-06-01T15:01:32.919696Z",
+  "published_at": "2026-06-01T15:01:32.919696Z",
+  "meta": {
+    "title": "Niet gecategoriseerd Archives - Wandmeesters",
+    "description": "Wandmeesters - Stucadoors &amp; verfspuitbedrijf in Monnickendam. Specialist in stucwerk, dunpleister, latex spuiten en houtschilderwerk.",
+    "canonical": "https://wandmeesters.nl/category/niet-gecategoriseerd/",
+    "robots": "noindex, nofollow",
+    "og_title": "Niet gecategoriseerd Archives - Wandmeesters",
+    "og_description": "Wandmeesters - Stucadoors &amp; verfspuitbedrijf in Monnickendam. Specialist in stucwerk, dunpleister, latex spuiten en houtschilderwerk.",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/category/niet-gecategoriseerd/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/category/niet-gecategoriseerd/",
+                "name": "Niet gecategoriseerd"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "/category/niet-gecategoriseerd/#webpage",
+          "url": "/category/niet-gecategoriseerd/",
+          "name": "Niet gecategoriseerd Archives - Wandmeesters",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/category/niet-gecategoriseerd/#breadcrumb"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Categorie: Niet gecategoriseerd"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geen berichten beschikbaar."
+    }
+  ],
+  "migrated_from": "category/niet-gecategoriseerd/index.html"
+}

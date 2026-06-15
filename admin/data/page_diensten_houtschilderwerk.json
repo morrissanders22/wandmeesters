@@ -1,0 +1,277 @@
+{
+  "slug": "diensten/houtschilderwerk",
+  "title": "Houtschilderwerk",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.935307Z",
+  "updated_at": "2026-06-01T15:01:32.935307Z",
+  "published_at": "2026-06-01T15:01:32.935307Z",
+  "meta": {
+    "title": "Houtschilderwerk - Wandmeesters",
+    "description": "Houtschilderwerk binnen en buiten: deuren, kozijnen en lijstwerk strak in de verf door vakkundige schilders.",
+    "canonical": "https://wandmeesters.nl/diensten/houtschilderwerk/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Houtschilderwerk - Wandmeesters",
+    "og_description": "Wilt u houtwerk dat er niet alleen mooi uitziet, maar ook langdurig beschermd is? Wandmeesters verzorgt professioneel houtschilderwerk voor een strak, duurzaam en perfect afgewerkt resultaat. Wandmeesters Wilt u uw houtwerk professioneel laten schilderen? Wij zorgen voor een strak eindresultaat en optimale bescherming van uw hout. Vraag direct uw offerte aan Wat is houtschilderwerk? Houtschilderwerk […]",
+    "og_image": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp",
+          "url": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp",
+          "width": "1200",
+          "height": "1600",
+          "caption": "houtschilderwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/houtschilderwerk/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/houtschilderwerk/",
+                "name": "Houtschilderwerk"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/houtschilderwerk/#webpage",
+          "url": "/diensten/houtschilderwerk/",
+          "name": "Houtschilderwerk - Wandmeesters",
+          "datePublished": "2026-03-19T11:03:42+00:00",
+          "dateModified": "2026-05-05T11:48:42+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/houtschilderwerk/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Houtschilderwerk - Wandmeesters",
+          "keywords": "houtschilderwerk",
+          "datePublished": "2026-03-19T11:03:42+00:00",
+          "dateModified": "2026-05-05T11:48:42+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wilt u houtwerk dat er niet alleen mooi uitziet, maar ook langdurig beschermd is? Wandmeesters verzorgt professioneel houtschilderwerk voor een strak, duurzaam en perfect afgewerkt resultaat.",
+          "name": "Houtschilderwerk - Wandmeesters",
+          "@id": "/diensten/houtschilderwerk/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/houtschilderwerk/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/476eafcd-dcab-4ad9-9fc6-8480f5fb9e88.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/houtschilderwerk/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u uw houtwerk professioneel laten schilderen?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat is houtschilderwerk?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak en duurzaam afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voordelen van professioneel houtschilderwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Houtschilderwerk voor nieuwbouw en renovatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voor welke toepassingen is houtschilderwerk geschikt?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw specialist in houtschilderwerk"
+    },
+    {
+      "type": "paragraph",
+      "text": "Houtschilderwerk Wilt u houtwerk dat er niet alleen mooi uitziet, maar ook langdurig beschermd is? Wandmeesters verzorgt professioneel houtschilderwerk voor een strak, duurzaam en perfect afgewerkt resultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zorgen voor een strak eindresultaat en optimale bescherming van uw hout."
+    },
+    {
+      "type": "paragraph",
+      "text": "Houtschilderwerk is het zorgvuldig voorbereiden en schilderen van houten onderdelen zoals deuren, kozijnen, plinten en trappen. Het doel is niet alleen een mooie uitstraling, maar ook bescherming tegen slijtage, vocht en veroudering."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters zorgen wij voor een grondige voorbereiding, zoals reinigen, schuren en herstellen van het houtwerk. Daarna brengen wij hoogwaardige verf aan voor een strak en duurzaam eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfecte dekking en strakke afwerking Bescherming tegen slijtage en vocht Hoogwaardige verf en materialen Ideaal voor nieuwbouw en renovatie Vakmanschap tot in detail Houtschilderwerk Voordelen van professioneel houtschilderwerk Goed uitgevoerd houtschilderwerk verlengt de levensduur van uw houtwerk en voorkomt vroegtijdige slijtage. Door te kiezen voor professioneel schilderwerk blijft uw woning er verzorgd uitzien en bespaart u op lange termijn onderhoudskosten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daarnaast zorgt een strakke afwerking voor een frisse en hoogwaardige uitstraling van uw interieur. Wij werken met duurzame materialen en technieken die zorgen voor een langdurig mooi resultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Houtschilderwerk is essentieel voor zowel de uitstraling als de bescherming van uw woning. Bij nieuwbouw zorgt het voor een strakke en verzorgde afwerking, terwijl het bij renovatie bijdraagt aan het behoud en de levensduur van bestaand houtwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters combineren wij vakmanschap met hoogwaardige materialen. Wij zorgen voor een grondige voorbereiding van het hout, zodat verf optimaal hecht en het eindresultaat langdurig mooi blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Van deuren en kozijnen tot plinten en trappen: wij leveren strak schilderwerk met oog voor detail en duurzaamheid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professioneel houtschilderwerk is ideaal voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Deuren en kozijnen✔ Trappen en balustrades✔ Plinten en aftimmering✔ Binnenhoutwerk in nieuwbouw en renovatie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Of het nu gaat om het opfrissen van bestaand houtwerk of het strak afwerken van nieuwe elementen, wij zorgen voor een duurzaam en esthetisch resultaat dat perfect past bij uw interieur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is dé specialist in houtschilderwerk voor zowel nieuwbouw als renovatie. Met onze werkwijze zorgen wij voor een strak, dekkend en duurzaam eindresultaat dat bestand is tegen dagelijks gebruik."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door aandacht te besteden aan voorbereiding, materiaalkeuze en afwerking creëren wij schilderwerk dat niet alleen mooi oogt, maar ook langdurig bescherming biedt aan uw houtwerk."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Houtschilderwerk"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfecte dekking en strakke afwerking",
+        "Bescherming tegen slijtage en vocht",
+        "Hoogwaardige verf en materialen",
+        "Ideaal voor nieuwbouw en renovatie",
+        "Vakmanschap tot in detail"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "diensten/houtschilderwerk/index.html"
+}

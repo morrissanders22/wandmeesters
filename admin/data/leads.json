@@ -1,0 +1,134 @@
+[
+  {
+    "id": "78cd59a2d377",
+    "created": "2026-05-29T14:00:58",
+    "stage": "gebeld",
+    "name": "Martijn Bakker",
+    "email": "martijn@example.com",
+    "telefoon": "+31611223344",
+    "woonplaats": "Monnickendam",
+    "soort_woning": "Platdak",
+    "m2": "",
+    "pakket": "Latex spuiten",
+    "startdatum": "",
+    "note": "",
+    "source": "/",
+    "history": [
+      {
+        "ts": "2026-05-29T14:00:58",
+        "stage": "ontvangen",
+        "by": "form"
+      },
+      {
+        "ts": "2026-05-29T14:00:58",
+        "from": "ontvangen",
+        "stage": "gebeld",
+        "by": "admin"
+      }
+    ],
+    "emails": [
+      {
+        "to": "customer",
+        "ok": false,
+        "msg": "SMTP nog niet geconfigureerd of geen ontvanger",
+        "ts": "2026-05-29T14:00:58"
+      }
+    ]
+  },
+  {
+    "id": "501de50b735c",
+    "created": "2026-05-29T14:00:58",
+    "stage": "ingepland",
+    "name": "Anja Kroes",
+    "email": "anja@example.com",
+    "telefoon": "+31687654321",
+    "woonplaats": "Edam",
+    "soort_woning": "Puntdak",
+    "m2": "120",
+    "pakket": "Dunpleister",
+    "startdatum": "",
+    "note": "",
+    "source": "/",
+    "history": [
+      {
+        "ts": "2026-05-29T14:00:58",
+        "stage": "ontvangen",
+        "by": "form"
+      },
+      {
+        "ts": "2026-05-29T14:00:58",
+        "from": "ontvangen",
+        "stage": "ingepland",
+        "by": "admin"
+      }
+    ],
+    "emails": [
+      {
+        "to": "customer",
+        "ok": false,
+        "msg": "SMTP nog niet geconfigureerd of geen ontvanger",
+        "ts": "2026-05-29T14:00:58"
+      }
+    ]
+  },
+  {
+    "id": "e8e37d581ca9",
+    "created": "2026-05-29T14:00:58",
+    "stage": "ontvangen",
+    "name": "Jens van der Berg",
+    "email": "jens@example.com",
+    "telefoon": "+31612345678",
+    "woonplaats": "Volendam",
+    "soort_woning": "Appartement",
+    "m2": "",
+    "pakket": "Stucwerk + latex",
+    "startdatum": "",
+    "note": "",
+    "source": "/",
+    "history": [
+      {
+        "ts": "2026-05-29T14:00:58",
+        "stage": "ontvangen",
+        "by": "form"
+      }
+    ],
+    "emails": [
+      {
+        "to": "customer",
+        "ok": false,
+        "msg": "SMTP nog niet geconfigureerd of geen ontvanger",
+        "ts": "2026-05-29T14:00:58"
+      }
+    ]
+  },
+  {
+    "id": "00f9b21bb17c",
+    "created": "2026-05-29T14:00:36",
+    "stage": "ontvangen",
+    "name": "Testpersoon",
+    "email": "test@example.com",
+    "telefoon": "+31612345678",
+    "woonplaats": "Amsterdam",
+    "soort_woning": "",
+    "m2": "",
+    "pakket": "Stucwerk",
+    "startdatum": "",
+    "note": "",
+    "source": "/",
+    "history": [
+      {
+        "ts": "2026-05-29T14:00:36",
+        "stage": "ontvangen",
+        "by": "form"
+      }
+    ],
+    "emails": [
+      {
+        "to": "customer",
+        "ok": false,
+        "msg": "SMTP nog niet geconfigureerd of geen ontvanger",
+        "ts": "2026-05-29T14:00:36"
+      }
+    ]
+  }
+]

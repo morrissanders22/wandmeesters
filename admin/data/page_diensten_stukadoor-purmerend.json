@@ -1,0 +1,440 @@
+{
+  "slug": "diensten/stukadoor-purmerend",
+  "title": "Stukadoor in Hoorn | Gratis offerte",
+  "status": "published",
+  "template": "stukadoor-stad",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.970176Z",
+  "updated_at": "2026-06-01T15:01:32.970176Z",
+  "published_at": "2026-06-01T15:01:32.970176Z",
+  "meta": {
+    "title": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters",
+    "description": "Wandmeesters verzorgt strak stucwerk in regio Hoorn. Vraag een gratis offerte aan. ✓ 15+ jaar ervaring ✓ Duidelijke afspraken vooraf ✓ Liefde voor ons vak",
+    "canonical": "https://wandmeesters.nl/diensten/stukadoor-purmerend/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters",
+    "og_description": "Wandmeesters verzorgt strak stucwerk in regio Hoorn. Vraag een gratis offerte aan. ✓ 15+ jaar ervaring ✓ Duidelijke afspraken vooraf ✓ Liefde voor ons vak",
+    "og_image": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+          "url": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+          "width": "738",
+          "height": "987",
+          "caption": "Stukadoor Wandmeesters",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stukadoor-purmerend/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stukadoor-purmerend/",
+                "name": "Stukadoor Purmerend"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stukadoor-purmerend/#webpage",
+          "url": "/diensten/stukadoor-purmerend/",
+          "name": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters",
+          "datePublished": "2026-05-27T08:21:16+00:00",
+          "dateModified": "2026-05-27T13:21:15+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stukadoor-purmerend/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters",
+          "keywords": "stukadoor in hoorn",
+          "datePublished": "2026-05-27T08:21:16+00:00",
+          "dateModified": "2026-05-27T13:21:15+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wandmeesters verzorgt strak stucwerk in regio Hoorn. Vraag een gratis offerte aan. ✓ 15+ jaar ervaring ✓ Duidelijke afspraken vooraf ✓ Liefde voor ons vak",
+          "name": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters",
+          "@id": "/diensten/stukadoor-purmerend/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stukadoor-purmerend/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stukadoor-purmerend/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Stukadoor Purmerend"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Complete afwerking"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Nette werkwijze"
+    },
+    {
+      "type": "heading-h4",
+      "text": "15+ jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Professioneel stucwerk in Purmerend nodig?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stukadoorsbedrijf in Purmerend"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Complete wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wandmeesters diensten voor iedere ruimte"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Latex verfspuiten combineren met stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister & latex verfspuiten combineren"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat kost een stukadoor in Purmerend?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wandafwerking en schilderdiensten voor in Purmerend"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Purmerend Ben je op zoek naar een ervaren stukadoor in Purmerend voor strak afgewerkte muren en plafonds? Wandmeesters verzorgt hoogwaardige wandafwerking voor nieuwbouw, renovaties en complete interieurprojecten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete afwerking Alles verzorgd onder één dak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Schoon, zorgvuldig én transparant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vakkundig uitgevoerd stuc- en houtschilderwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Purmerend Ben je op zoek naar een ervaren stukadoor in Purmerend voor strak afgewerkte muren en plafonds? Wandmeesters verzorgt complete wandafwerking voor nieuwbouw, en renovaties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ga voor strak stucwerk met glad afgewerkte muren en plafonds die zorgen voor een moderne en verzorgde uitstraling. Ideaal als basis voor schilderwerk, latex spuiten of verdere wandafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goed stucwerk bepaalt de uitstraling van een woning. Oneffen muren, beschadigingen of oud structuurwerk kunnen ervoor zorgen dat een interieur onrustig oogt. Met professioneel aangebracht stucwerk ontstaat juist een strak geheel dat rust en kwaliteit uitstraalt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doordat wij meerdere werkzaamheden combineren, verloopt het hele traject efficiënter en sluit alles perfect op elkaar aan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geschikt voor zowel nieuwbouwwoningen als renovatieprojecten. Een strakke basis voor latex spuiten of schilderwerk. Nieuwbouwwanden direct schilderklaar gemaakt Glad pleisterwerk met duurzame kwaliteit Wat we voor u kunnen doen Wandmeesters diensten voor iedere ruimte oor iedere ruimte bieden wij een passende oplossing op het gebied van wand- en plafondafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Steeds meer klanten in Purmerend kiezen ervoor om stucwerk direct te combineren met latex verfspuiten. Deze combinatie zorgt voor een complete afwerking van muren en plafonds met een strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Na het egaliseren van de muren brengen wij latexverf egaal aan met professionele spuittechniek. Hierdoor ontstaan geen strepen, aanzetten of rollerbanen zoals bij traditioneel schilderwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze combinatie zorgt voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Een egaal resultaat Geen strepen of banen Snelle verwerking Strakke afwerking Moderne uitstraling Stucwerk Dunpleister & latex verfspuiten combineren Het combineren van dunpleister en latex spuiten is vooral populair bij nieuwbouwwoningen en strak afgewerkte renovaties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Met dunpleister maken we muren volledig glad, waarna latex spuitwerk zorgt voor een egaal eindresultaat zonder strepen of banen. Ideaal voor behangklare nieuwbouwwanden met lichte oneffenheden of zichtbare naden."
+    },
+    {
+      "type": "paragraph",
+      "text": "De prijs van stucwerk is afhankelijk van de woning, de ondergrond en het type afwerking dat nodig is. Vraag vrijblijvend een offerte aan en ontvang snel duidelijkheid over de mogelijkheden en kosten voor jouw project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij woningen ouder dan 2 jaar geldt het verlaagde btw-tarief van 9% op stucwerkzaamheden. Voor nieuwbouwwoningen geldt doorgaans het standaardtarief van 21% btw."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zijn actief in Purmerend en omliggende plaatsen zoals Edam, Volendam, Monnickendam, Landsmeer en Zaandam. Van appartementen daar in het centrum tot moderne nieuwbouwwoningen verzorgen wij complete wand- en plafondafwerking met een strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Veelgestelde vragen Werken jullie ook in omliggende plaatsen rond Purmerend? Jazeker. Wij zijn actief in heel Nederland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij woningen ouder dan 2 jaar geldt vaak het verlaagde btw-tarief van 9%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor nieuwbouwwoningen geldt meestal het 21% btw-tarief. Tijdens het offertetraject geven wij altijd helder aan welk btw-percentage van toepassing is op jouw woning of project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dat verschilt per project en hangt af van de grootte van de woning. Dit laten we je altijd vooraf netjes weten en passen ons aan aan jouw planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten. Voor projecten in Purmerend proberen wij altijd snel duidelijkheid te geven over de beschikbare startdatum."
+    },
+    {
+      "type": "paragraph",
+      "text": "In principe niet. Als je ervoor zorgt dat wij toegang hebben tot de woning, of even contact met ons opneemt vooraf, dan kunnen wij ons werk snel en efficiënt uitvoeren."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Professioneel stucwerk en dunpleister",
+        "Duidelijke afspraken en betrouwbare uitvoering",
+        "Wij geven altijd eerlijk advies afgestemd op de woning"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Geschikt voor zowel nieuwbouwwoningen als renovatieprojecten.",
+        "Een strakke basis voor latex spuiten of schilderwerk.",
+        "Nieuwbouwwanden direct schilderklaar gemaakt",
+        "Glad pleisterwerk met duurzame kwaliteit"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Een egaal resultaat",
+        "Geen strepen of banen",
+        "Snelle verwerking",
+        "Strakke afwerking",
+        "Moderne uitstraling"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "Stucwerk in Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+      "alt": "Stukadoor Wandmeesters"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": "Stucwerk Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister"
+    },
+    {
+      "type": "faq-group",
+      "items": [
+        {
+          "question": "Werken jullie ook in omliggende plaatsen rond Purmerend?",
+          "answer": "Jazeker. Wij zijn actief in heel Nederland."
+        },
+        {
+          "question": "Geldt het 9% btw-tarief ook voor stucwerk ook in Purmerend.",
+          "answer": "Bij woningen ouder dan 2 jaar geldt vaak het verlaagde btw-tarief van 9%.Voor nieuwbouwwoningen geldt meestal het 21% btw-tarief. Tijdens het offertetraject geven wij altijd helder aan welk btw-percentage van toepassing is op jouw woning of project."
+        },
+        {
+          "question": "Hoe lang duurt het stucen van een woning?",
+          "answer": "Dat verschilt per project en hangt af van de grootte van de woning. Dit laten we je altijd vooraf netjes weten en passen ons aan aan jouw planning."
+        },
+        {
+          "question": "Hoe snel kunnen jullie starten in Purmerend?",
+          "answer": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten. Voor projecten in Purmerend proberen wij altijd snel duidelijkheid te geven over de beschikbare startdatum."
+        },
+        {
+          "question": "Moet ik thuis zijn tijdens het project?",
+          "answer": "In principe niet. Als je ervoor zorgt dat wij toegang hebben tot de woning, of even contact met ons opneemt vooraf, dan kunnen wij ons werk snel en efficiënt uitvoeren."
+        }
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stukadoor-purmerend/index.html"
+}

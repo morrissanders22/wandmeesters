@@ -1,0 +1,271 @@
+{
+  "slug": "diensten",
+  "title": "Diensten",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.937353Z",
+  "updated_at": "2026-06-01T15:01:32.937353Z",
+  "published_at": "2026-06-01T15:01:32.937353Z",
+  "meta": {
+    "title": "Diensten - Wandmeesters",
+    "description": "Onze diensten: stucwerk, dunpleister, latex spuiten, houtschilderwerk, betoncire en zolderplaten afwerken in heel Nederland.",
+    "canonical": "https://wandmeesters.nl/diensten/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Diensten - Wandmeesters",
+    "og_description": "De juiste plek voor hoogwaardige afwerkingen met precisie en betrouwbaarheid. wandmeesters Pagina Wat we voor u kunnen doen Uitgebreid aanbod aan stuc- en schilderdiensten Wandmeesters biedt een breed scala aan stuc- en schilderdiensten, perfect afgestemd op de unieke eisen en wensen van uw project, met focus op precisie en kwaliteit. Dunpleisterwerk – Wandafwerking met glad […]",
+    "og_image": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp",
+          "url": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/#webpage",
+          "url": "/diensten/",
+          "name": "Diensten - Wandmeesters",
+          "datePublished": "2024-06-23T12:36:46+00:00",
+          "dateModified": "2026-03-23T12:00:28+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Diensten - Wandmeesters",
+          "datePublished": "2024-06-23T12:36:46+00:00",
+          "dateModified": "2026-03-23T12:00:28+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "De juiste plek voor hoogwaardige afwerkingen met precisie en betrouwbaarheid.",
+          "name": "Diensten - Wandmeesters",
+          "@id": "/diensten/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Diensten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uitgebreid aanbod aan stuc- en schilderdiensten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Traditioneel stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Combinatie pakket: Stuc- en verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Combinatie pakket: Dunpleister and Latex"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolder afwerkingsoplossingen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw bouwpartner"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diensten De juiste plek voor hoogwaardige afwerkingen met precisie en betrouwbaarheid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters biedt een breed scala aan stuc- en schilderdiensten, perfect afgestemd op de unieke eisen en wensen van uw project, met focus op precisie en kwaliteit."
+    },
+    {
+      "type": "paragraph",
+      "text": "- Wandafwerking met glad pleister 0-2mm, uitgevoerd naar uw wensen.- Inclusief materialen en bescherming van uw omgeving.- Schoon en professioneel opgeleverd."
+    },
+    {
+      "type": "paragraph",
+      "text": "- Beste producten voor een naadloos resultaat.- Volledige bescherming en opgeruimd opgeleverd.- Met aandacht voor detail en afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "- Wandafwerking met pleister 2-6mm, aangepast aan uw muren.- Inclusief voorbereiding en bescherming tegen schade.- Perfecte afwerking en opgeruimd opgeleverd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maak uw woning af met ons complete pakket voor wanden en plafonds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister en latex verfspuiten bieden een strak en duurzaam resultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zorgen dat uw zolder professioneel wordt afgewerkt voor jarenlang mooi gebruik."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters streven we naar perfectie in elk aspect van onze diensten. Onze vakkennis zorgt voor oplossingen die naadloos passen bij uw wensen."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Diensten"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/Kosten-stucwerk.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/worker-painting-wall-with-spray-gun-in-white-color-2025-03-3.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/StucwerkCaan3-1024x603.webp",
+      "alt": "Stuccen"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/Tips_om_schilderwerk_te_onderhouden.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/StucWerk_6-1303x800-1-1024x629.webp",
+      "alt": "Profesionele stukadoors"
+    }
+  ],
+  "migrated_from": "diensten/index.html"
+}

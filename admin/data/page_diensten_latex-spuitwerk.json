@@ -1,0 +1,292 @@
+{
+  "slug": "diensten/latex-spuitwerk",
+  "title": "Latex spuitwerk",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.939642Z",
+  "updated_at": "2026-06-01T15:01:32.939642Z",
+  "published_at": "2026-06-01T15:01:32.939642Z",
+  "meta": {
+    "title": "Latex spuitwerk - Wandmeesters",
+    "description": "Latex spuiten voor een strak, streeploos en professioneel eindresultaat op muren en plafonds.",
+    "canonical": "https://wandmeesters.nl/diensten/latex-spuitwerk/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Latex spuitwerk - Wandmeesters",
+    "og_description": "Op zoek naar strak en professioneel latex spuitwerk? Bij Wandmeesters bent u verzekerd van een egaal en streeploos eindresultaat voor wanden en plafonds. Snel uitgevoerd, duurzaam en perfect afgewerkt. Wandmeesters Schilderwerk Wilt u strak en streeploos latex spuitwerk? Kies voor professioneel latex spuitwerk en geniet van perfect egale wanden en plafonds zonder strepen of banen. […]",
+    "og_image": "/wp-content/uploads/2026/04/IMG_0316-1024x768.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/IMG_0316-1024x768.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/IMG_0316.webp",
+          "url": "/wp-content/uploads/2026/04/IMG_0316.webp",
+          "width": "2048",
+          "height": "1536",
+          "caption": "latex spuitwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/latex-spuitwerk/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/latex-spuitwerk/",
+                "name": "Latex spuitwerk"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/latex-spuitwerk/#webpage",
+          "url": "/diensten/latex-spuitwerk/",
+          "name": "Latex spuitwerk - Wandmeesters",
+          "datePublished": "2026-02-27T11:22:31+00:00",
+          "dateModified": "2026-05-05T11:49:16+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/IMG_0316.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/latex-spuitwerk/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Latex spuitwerk - Wandmeesters",
+          "keywords": "latex spuitwerk",
+          "datePublished": "2026-02-27T11:22:31+00:00",
+          "dateModified": "2026-05-05T11:49:16+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Op zoek naar strak en professioneel latex spuitwerk? Bij Wandmeesters bent u verzekerd van een egaal en streeploos eindresultaat voor wanden en plafonds. Snel uitgevoerd, duurzaam en perfect afgewerkt.",
+          "name": "Latex spuitwerk - Wandmeesters",
+          "@id": "/diensten/latex-spuitwerk/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/latex-spuitwerk/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/IMG_0316.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/latex-spuitwerk/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Latex spuitwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u strak en streeploos latex spuitwerk?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "De perfecte afwerking voor wanden en plafonds"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak en streeploos afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Welke tinten latex moet ik nemen?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Mooi én duurzaam spuitwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Meer dan alleen schilderwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Jouw partner voor latex spuitwerk"
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuitwerk Op zoek naar strak en professioneel latex spuitwerk? Bij Wandmeesters bent u verzekerd van een egaal en streeploos eindresultaat voor wanden en plafonds. Snel uitgevoerd, duurzaam en perfect afgewerkt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kies voor professioneel latex spuitwerk en geniet van perfect egale wanden en plafonds zonder strepen of banen. Snel, netjes en met een hoogwaardig eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuitwerk is dé oplossing voor het strak en egaal afwerken van wanden en plafonds. Door de verf machinaal aan te brengen ontstaat een volledig streeploos resultaat dat met traditionele schildermethodes lastig te evenaren is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strak afgewerkte wanden en plafonds zorgen voor rust en een hoogwaardige uitstraling in uw interieur. Het vormt de basis van elke ruimte en bepaalt in grote mate de sfeer en beleving."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij nieuwbouw en renovaties is latex spuiten ideaal voor grote oppervlakken. Het wordt snel aangebracht en zorgt direct voor een strak en uniform eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters zorgen we dat de ondergrond perfect wordt voorbereid, zodat het spuitwerk optimaal hecht en langdurig mooi blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect egale wanden en plafonds zonder strepen of banen. Latex wordt professioneel en gelijkmatig gespoten voor een strak eindresultaat. Snelle uitvoering met minimale overlast. Ideaal voor nieuwbouw, renovatie en gestucte ondergronden. Latex spuitwerk Welke tinten latex moet ik nemen? De juiste kleurkeuze heeft veel invloed op de uitstraling van uw ruimte. Dankzij latex spuitwerk komen kleuren extra egaal en strak tot hun recht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lichte kleuren zoals wit, crème en zachte grijstinten zorgen voor een frisse en ruimtelijke uitstraling. Ze reflecteren daglicht optimaal en laten ruimtes groter ogen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Warmere tinten creëren juist een gezellige en uitnodigende sfeer, terwijl koelere tinten zorgen voor een moderne en rustige uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij denken graag met u mee over de juiste kleur en afwerking, passend bij uw woning en wensen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vakmanschap is essentieel bij latex spuitwerk. Een strak eindresultaat begint bij een goede voorbereiding van de ondergrond."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij controleren en egaliseren de ondergrond waar nodig, zodat de latexverf perfect kan worden aangebracht. Oneffenheden worden aangepakt om een zo strak mogelijk eindresultaat te garanderen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door onze werkwijze voorkomen we strepen, aanzetten en kleurverschillen. Zo bent u verzekerd van een duurzame en hoogwaardige afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuitwerk is vaak onderdeel van een groter afwerkingsproces. Daarom kijken wij altijd naar de totale staat van uw wanden en plafonds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of het nu gaat om nieuwbouw of renovatie: wij zorgen dat het spuitwerk perfect aansluit op de ondergrond en het gewenste eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Met oog voor detail leveren wij een afwerking die niet alleen strak oogt, maar ook langdurig mooi blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is gespecialiseerd in professioneel latex spuitwerk voor woningen en projecten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij leveren een strak, streeploos en duurzaam resultaat voor wanden en plafonds. Met onze ervaring en efficiënte werkwijze bent u verzekerd van kwaliteit en een nette uitvoering."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Schilderwerk"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect egale wanden en plafonds zonder strepen of banen.",
+        "Latex wordt professioneel en gelijkmatig gespoten voor een strak eindresultaat.",
+        "Snelle uitvoering met minimale overlast.",
+        "Ideaal voor nieuwbouw, renovatie en gestucte ondergronden."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "diensten/latex-spuitwerk/index.html"
+}

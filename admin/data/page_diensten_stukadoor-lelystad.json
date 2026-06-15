@@ -1,0 +1,453 @@
+{
+  "slug": "diensten/stukadoor-lelystad",
+  "title": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+  "status": "published",
+  "template": "stukadoor-stad",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.964486Z",
+  "updated_at": "2026-06-01T15:01:32.964486Z",
+  "published_at": "2026-06-01T15:01:32.964486Z",
+  "meta": {
+    "title": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+    "description": "Professionele stukadoor in Alkmaar voor nieuwbouw en renovatie ✓ 15+ jaar ervaring ✓ Snel een gratis offerte ✓ Transparante prijzen",
+    "canonical": "https://wandmeesters.nl/diensten/stukadoor-lelystad/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+    "og_description": "Professionele stukadoor in Alkmaar voor nieuwbouw en renovatie ✓ 15+ jaar ervaring ✓ Snel een gratis offerte ✓ Transparante prijzen",
+    "og_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "url": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "width": "1536",
+          "height": "2048",
+          "caption": "stucwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stukadoor-lelystad/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stukadoor-lelystad/",
+                "name": "Stukadoor Lelystad"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stukadoor-lelystad/#webpage",
+          "url": "/diensten/stukadoor-lelystad/",
+          "name": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+          "datePublished": "2026-05-27T09:46:39+00:00",
+          "dateModified": "2026-05-27T13:04:15+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stukadoor-lelystad/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+          "keywords": "stukadoor in lelystad",
+          "datePublished": "2026-05-27T09:46:39+00:00",
+          "dateModified": "2026-05-27T13:04:15+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Professionele stukadoor in Alkmaar voor nieuwbouw en renovatie ✓ 15+ jaar ervaring ✓ Snel een gratis offerte ✓ Transparante prijzen",
+          "name": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat",
+          "@id": "/diensten/stukadoor-lelystad/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stukadoor-lelystad/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stukadoor-lelystad/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Stukadoor Lelystad"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Strakke afwerking"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Alles in eigen beheer"
+    },
+    {
+      "type": "heading-h4",
+      "text": "15+ jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Vind een professionele stukadoor in Lelystad"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stukadoorsbedrijf in Lelystad"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stucwerk in Lelystad voor renovatie en nieuwbouw"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Bekijk onze diensten in Lelystad"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Latex verfspuiten combineren met stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister in Lelystad"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat kost een stukadoor in Lelystad?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak stuc- en schilderwerk voor alle woonruimten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Lelystad Zoek je een ervaren stukadoor in Lelystad voor strak afgewerkte muren, gladde plafonds en moderne wandafwerking? Wij zorgen voor een hoogwaardige afwerking die perfect aansluit bij jouw woonwensen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strakke afwerking Glad stucwerk en pefect eindresultaat. Dat beloven we."
+    },
+    {
+      "type": "paragraph",
+      "text": "Van stucwerk tot latex spuitwerk: één partij voor complete afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Veel ervaring opgebouwd en gaan nog lang door."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters verzorgt professioneel stucwerk en moderne wandafwerking voor woningen in Lelystad. Van nieuwbouwwoningen tot renovatieprojecten: alles strak, egaal en duurzaam afgewerkt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al 15+ jaar werken we voor tevreden klanten. Wij zijn trots op ons werk. Wij begrijpen goed dat goed stucwerk de uitstraling van de woning bepaalt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij ontzorgen je volledig met complete wand- en plafondafwerking voor woningen in lelystad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Combinatie van stucwerk en latex spuiten mogelijk Één partij voor complete afwerking. Wij werken uitsluitend met professionele materialen voor duurzaam resultaat. Glad afgewerkte muren zonder zichtbare naden of structuur. Wat we voor u kunnen doen Bekijk onze diensten in Lelystad Bekijk hieronder onze diensten voor strak stucwerk en complete afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bekijk ook onze interessante combi-deal voor latex spuiten en stucwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Veel woningbezitters kiezen voor het combineren van stucwerk met latex verfspuiten. Zo krijg je een complete wandafwerking waarbij muren en platfornds volledig egaal afgewerkt zijn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Na het glad maken van de ondergrond brengen wij latexverf professioneel aan met spuittechniek. Hierdoor ontstaan geen zichtbare rollerbanen of strepen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vooral in woningen met veel daglicht zorgt dit voor een luxe uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister is ideaal voor nieuwbouwwoningen waarbij de muren al relatief vlak zijn. Met een dunne egalisatielaag zorgen wij voor een glad oppervlak dat perfect geschikt is voor verdere afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voordelen van dunpleister:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bekijk onze interessante combideal van dunpleister met latex verfspuiten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij werken altijd met een duidelijke offerte op maat, zodat je vooraf precies weet waar je aan toe bent. Geen verborgen kosten, maar heldere afspraken en transparante communicatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor woningen ouder dan 2 jaar geldt in veel gevallen het 9% btw-tarief op stucwerk. Bij nieuwbouw geldt doorgaans 21% btw."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zijn actief in Lelystad en omliggende plaatsen zoals Dronten, Zeewolde en Almere. Van appartementen in het centrum tot moderne nieuwbouwwoningen in wijken zoals Warande en Hanzepark verzorgen wij complete wand- en plafondafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Veelgestelde vragen Werken jullie veel in nieuwbouwwijken zoals Warande? Ja, wij werken regelmatig in Warande, Hanzepark, Botter, Landerijen en andere woonwijken in Lelystad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verder werkenwij door heel Noord-Holland en andere plekken in Nederland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ja, maar als je daarover wil bellen mag dat. Voor woningen ouder dan 2 jaar in Lelysatd geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerkzaamheden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij nieuwbouwwoningen geldt het standaard btw-tarief van 21%. In de offerte maken wij altijd duidelijk welk btw-tarief van toepassing is op jouw project in Lelystad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuiten zorgt voor een veel egaler resultaat zonder zichtbare strepen of rollerstructuur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Voor woningen in Lelystad proberen wij altijd snel duidelijkheid te geven over beschikbare startdata."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dat hangt af van de grootte van het project en het type afwerking. Dit laten we altijd vooraf tijdig weten, zodat je weet waar je aan toe bent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ja, wij werken regelmatig in Warande, Hanzepark, Botter, Landerijen en andere woonwijken in Lelystad."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Dé expert in bestaande en nieuwbouw",
+        "Geen verrassingen, en volledig transparant",
+        "Al 15+ jaar liefde voor ons vak"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Combinatie van stucwerk en latex spuiten mogelijk",
+        "Één partij voor complete afwerking.",
+        "Wij werken uitsluitend met professionele materialen voor duurzaam resultaat.",
+        "Glad afgewerkte muren zonder zichtbare naden of structuur."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Strakke afwerking zonder structuur",
+        "Ideaal voor nieuwbouwmuren",
+        "Snelle verwerking",
+        "Perfecte basis voor latex spuiten",
+        "Moderne uitstraling",
+        "Geschikt voor grote wandoppervlakken"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "Stucwerk in Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+      "alt": "Stukadoor Wandmeesters"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": "Stucwerk Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister"
+    },
+    {
+      "type": "faq-group",
+      "items": [
+        {
+          "question": "Werken jullie veel in nieuwbouwwijken zoals Warande?",
+          "answer": "Ja, wij werken regelmatig in Warande, Hanzepark, Botter, Landerijen en andere woonwijken in Lelystad.Verder werkenwij door heel Noord-Holland en andere plekken in Nederland."
+        },
+        {
+          "question": "Geldt het 9% btw-tarief ook voor mij in Lelystad?",
+          "answer": "Ja, maar als je daarover wil bellen mag dat. Voor woningen ouder dan 2 jaar in Lelysatd geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerkzaamheden. Bij nieuwbouwwoningen geldt het standaard btw-tarief van 21%. In de offerte maken wij altijd duidelijk welk btw-tarief van toepassing is op jouw project in Lelystad."
+        },
+        {
+          "question": "Is latex spuiten beter dan rollen?",
+          "answer": "Latex spuiten zorgt voor een veel egaler resultaat zonder zichtbare strepen of rollerstructuur."
+        },
+        {
+          "question": "Hoe snel kunnen jullie langskomen Lelystad?",
+          "answer": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Voor woningen in Lelystad proberen wij altijd snel duidelijkheid te geven over beschikbare startdata."
+        },
+        {
+          "question": "Hoe lang duurt het stucen van een woning?",
+          "answer": "Dat hangt af van de grootte van het project en het type afwerking. Dit laten we altijd vooraf tijdig weten, zodat je weet waar je aan toe bent."
+        }
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stukadoor-lelystad/index.html"
+}

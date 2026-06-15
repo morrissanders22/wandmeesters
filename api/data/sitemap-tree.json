@@ -1,0 +1,215 @@
+{
+  "name": "/",
+  "url": "/",
+  "children": {
+    "algemene-voorwaarden": {
+      "name": "algemene-voorwaarden",
+      "url": "/algemene-voorwaarden/",
+      "children": {},
+      "title": "Algemene Voorwaarden - Wandmeesters"
+    },
+    "author": {
+      "name": "author",
+      "url": "/author/",
+      "children": {
+        "admin": {
+          "name": "admin",
+          "url": "/author/admin/",
+          "children": {},
+          "title": "admin, Author at Wandmeesters"
+        },
+        "websitebeheerder": {
+          "name": "websitebeheerder",
+          "url": "/author/websitebeheerder/",
+          "children": {},
+          "title": "Website Beheerder, Author at Wandmeesters"
+        }
+      },
+      "title": null
+    },
+    "bedankpagina": {
+      "name": "bedankpagina",
+      "url": "/bedankpagina/",
+      "children": {},
+      "title": "Bedankpagina - Wandmeesters"
+    },
+    "category": {
+      "name": "category",
+      "url": "/category/",
+      "children": {
+        "niet-gecategoriseerd": {
+          "name": "niet-gecategoriseerd",
+          "url": "/category/niet-gecategoriseerd/",
+          "children": {},
+          "title": "Niet gecategoriseerd Archives - Wandmeesters"
+        }
+      },
+      "title": null
+    },
+    "contact": {
+      "name": "contact",
+      "url": "/contact/",
+      "children": {},
+      "title": "Contact - Wandmeesters"
+    },
+    "cookiebeleid": {
+      "name": "cookiebeleid",
+      "url": "/cookiebeleid/",
+      "children": {},
+      "title": "Cookiebeleid - Wandmeesters"
+    },
+    "diensten": {
+      "name": "diensten",
+      "url": "/diensten/",
+      "children": {
+        "betoncire": {
+          "name": "betoncire",
+          "url": "/diensten/betoncire/",
+          "children": {},
+          "title": "Betoncire - Wandmeesters"
+        },
+        "dunpleisterwerk": {
+          "name": "dunpleisterwerk",
+          "url": "/diensten/dunpleisterwerk/",
+          "children": {},
+          "title": "Dunpleisterwerk - Wandmeesters"
+        },
+        "houtschilderwerk": {
+          "name": "houtschilderwerk",
+          "url": "/diensten/houtschilderwerk/",
+          "children": {},
+          "title": "Houtschilderwerk - Wandmeesters"
+        },
+        "latex-spuitwerk": {
+          "name": "latex-spuitwerk",
+          "url": "/diensten/latex-spuitwerk/",
+          "children": {},
+          "title": "Latex spuitwerk - Wandmeesters"
+        },
+        "stucwerk": {
+          "name": "stucwerk",
+          "url": "/diensten/stucwerk/",
+          "children": {},
+          "title": "Stucwerk - Wandmeesters"
+        },
+        "stukadoor-alkmaar": {
+          "name": "stukadoor-alkmaar",
+          "url": "/diensten/stukadoor-alkmaar/",
+          "children": {},
+          "title": "Stukadoor in Alkmaar | 15+ Jaar Ervaring | Snel &amp; Strak"
+        },
+        "stukadoor-almere": {
+          "name": "stukadoor-almere",
+          "url": "/diensten/stukadoor-almere/",
+          "children": {},
+          "title": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters"
+        },
+        "stukadoor-hilversum": {
+          "name": "stukadoor-hilversum",
+          "url": "/diensten/stukadoor-hilversum/",
+          "children": {},
+          "title": "Stukadoor in Hilversum | Al 15+ jaar Strak Stucwerk"
+        },
+        "stukadoor-hoorn": {
+          "name": "stukadoor-hoorn",
+          "url": "/diensten/stukadoor-hoorn/",
+          "children": {},
+          "title": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters"
+        },
+        "stukadoor-lelystad": {
+          "name": "stukadoor-lelystad",
+          "url": "/diensten/stukadoor-lelystad/",
+          "children": {},
+          "title": "Stukadoor in Lelystad nodig? | Al 15+ Jaar strak resultaat"
+        },
+        "stukadoor-purmerend": {
+          "name": "stukadoor-purmerend",
+          "url": "/diensten/stukadoor-purmerend/",
+          "children": {},
+          "title": "Stukadoor in Hoorn | Gratis offerte | Wandmeesters"
+        },
+        "zolderplaten-afwerken": {
+          "name": "zolderplaten-afwerken",
+          "url": "/diensten/zolderplaten-afwerken/",
+          "children": {},
+          "title": "Zolderplaten afwerken - Wandmeesters"
+        }
+      },
+      "title": "Diensten - Wandmeesters"
+    },
+    "dunpleister-latexspuiten": {
+      "name": "dunpleister-latexspuiten",
+      "url": "/dunpleister-latexspuiten/",
+      "children": {},
+      "title": "Dunpleisterwerk + latex spuiten - Wandmeesters"
+    },
+    "over-ons": {
+      "name": "over-ons",
+      "url": "/over-ons/",
+      "children": {},
+      "title": "Over Ons - Wandmeesters"
+    },
+    "privacy-policy": {
+      "name": "privacy-policy",
+      "url": "/privacy-policy/",
+      "children": {},
+      "title": "Privacy Policy - Wandmeesters"
+    },
+    "project": {
+      "name": "project",
+      "url": "/project/",
+      "children": {
+        "almere": {
+          "name": "almere",
+          "url": "/project/almere/",
+          "children": {},
+          "title": "Almere - Wandmeesters"
+        },
+        "blokker": {
+          "name": "blokker",
+          "url": "/project/blokker/",
+          "children": {},
+          "title": "Blokker - Wandmeesters"
+        },
+        "ede": {
+          "name": "ede",
+          "url": "/project/ede/",
+          "children": {},
+          "title": "Ede - Wandmeesters"
+        },
+        "haarlem": {
+          "name": "haarlem",
+          "url": "/project/haarlem/",
+          "children": {},
+          "title": "Haarlem - Wandmeesters"
+        },
+        "rijnsaterwoude": {
+          "name": "rijnsaterwoude",
+          "url": "/project/rijnsaterwoude/",
+          "children": {},
+          "title": "Rijnsaterwoude - Wandmeesters"
+        },
+        "rotterdam": {
+          "name": "rotterdam",
+          "url": "/project/rotterdam/",
+          "children": {},
+          "title": "Rotterdam - Wandmeesters"
+        }
+      },
+      "title": null
+    },
+    "projecten": {
+      "name": "projecten",
+      "url": "/projecten/",
+      "children": {},
+      "title": "Projecten - Wandmeesters"
+    },
+    "stucwerk-latexspuiten": {
+      "name": "stucwerk-latexspuiten",
+      "url": "/stucwerk-latexspuiten/",
+      "children": {},
+      "title": "Stucwerk + latex spuiten - Wandmeesters"
+    }
+  },
+  "title": "Homepagina - Wandmeesters"
+}

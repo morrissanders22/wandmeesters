@@ -1,0 +1,498 @@
+{
+  "slug": "contact",
+  "title": "Contact",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.804844Z",
+  "updated_at": "2026-06-01T15:03:34.804844Z",
+  "published_at": "2026-06-01T15:03:34.804844Z",
+  "meta": {
+    "title": "Contact - Wandmeesters",
+    "description": "Neem contact op met Wandmeesters in Monnickendam. Bel +31 6 36306402 of e-mail naar info@wandmeesters.nl.",
+    "canonical": "https://wandmeesters.nl/contact/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Contact - Wandmeesters",
+    "og_description": "Heeft u vragen of wilt u advies over uw project? Neem gerust contact met ons op, wij denken graag met u mee. U kunt ons ook eenvoudig bereiken via WhatsApp voor direct contact en snelle antwoorden. Wandmeesters Pagina Onze gegevens We staan voor u klaar info@wandmeesters.nl +31 6 36306402 Zwaluwtong 112, 1141 KS Monnickendam Stuur […]",
+    "og_image": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp",
+          "url": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp",
+          "width": "720",
+          "height": "1280",
+          "caption": "contact Wandmeesters",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/contact/",
+                "name": "Contact"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/contact/#webpage",
+          "url": "/contact/",
+          "name": "Contact - Wandmeesters",
+          "datePublished": "2026-02-27T12:04:16+00:00",
+          "dateModified": "2026-05-12T09:27:25+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/contact/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Contact - Wandmeesters",
+          "keywords": "contact Wandmeesters",
+          "datePublished": "2026-02-27T12:04:16+00:00",
+          "dateModified": "2026-05-12T09:27:25+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Heeft u vragen of wilt u advies over uw project? Neem gerust contact met ons op, wij denken graag met u mee. U kunt ons ook eenvoudig bereiken via WhatsApp voor direct contact en snelle antwoorden.",
+          "name": "Contact - Wandmeesters",
+          "@id": "/contact/#richSnippet",
+          "isPartOf": {
+            "@id": "/contact/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/IMG_1322-frame-at-0m4s-dp-fr.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/contact/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Contact Wandmeesters"
+    },
+    {
+      "type": "heading-h2",
+      "text": "We staan voor u klaar!"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen en antwoorden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact Wandmeesters Contact Wandmeesters. Heeft u vragen of wilt u advies over uw project? Neem gerust contact met ons op, wij denken graag met u mee. U kunt ons ook eenvoudig bereiken via WhatsApp voor direct contact en snelle antwoorden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lees hieronder de meest gestelde vragen van onze klanten en de bijbehorende antwoorden."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Één aanspreekpunt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Je hoeft niet met meerdere bedrijven te schakelen. Eén team regelt alles van het glad maken van de muren tot de afwerking met verf of latex. Dat scheelt verwarring en dubbele afspraken."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Betere planning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Als dezelfde partij alles doet, lopen de werkzaamheden vloeiend in elkaar over. Geen vertraging door wachten op een andere vakman, alles gebeurt in één keer efficiënt."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Strakker eindresultaat"
+    },
+    {
+      "type": "paragraph",
+      "text": "De specialist die het stucwerk of dunpleister aanbrengt weet precies wat nodig is voor een perfecte verfafwerking. Het resultaat is mooier en consistenter dan wanneer twee verschillende partijen werken."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Duidelijke afspraken & betrouwbaarheid"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eén partij betekent ook één contract en één verantwoordelijkheid. Je weet dat afspraken worden nagekomen en er niemand “tussen wal en schip valt”."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Tijd- en kostenbesparing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geen extra communicatie, geen overlappende werkzaamheden, en minder risico op fouten. Uiteindelijk scheelt het vaak tijd, stress en soms ook geld."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wat maakt dunpleister aantrekkelijk? Dunpleister is aantrekkelijk voor veel klanten omdat het snel, strak en efficiënt is. Hier zijn de belangrijkste voordelen:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Snelle afwerking"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister wordt in een dunne laag aangebracht en is vaak direct schilderklaar. Dit betekent dat een muur snel klaar is voor latex of verf, waardoor de totale klus minder tijd kost."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Glad en strak resultaat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Het egaliseert lichte oneffenheden en zorgt voor een perfect vlak oppervlak, ideaal voor een moderne, strakke afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Kostenbesparend"
+    },
+    {
+      "type": "paragraph",
+      "text": "Omdat de laag dun is en het werk sneller gaat dan traditioneel stucwerk, bespaar je op materiaalkosten en arbeidsuren."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Minder overlast"
+    },
+    {
+      "type": "paragraph",
+      "text": "Minder stof en minder zware materialen maken het werk netter en schoner, wat vooral fijn is bij renovaties of nieuwbouwprojecten."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Ideaal voor nieuwbouw"
+    },
+    {
+      "type": "paragraph",
+      "text": "Op al vrij rechte muren zorgt dunpleister voor een perfect schilderklaar resultaat, zonder dat een dikke stuclaag nodig is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Waarom kiezen voor dunpleister i.p.v. renovliesbehang? 1. Strakker en gladder eindresultaat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister wordt naadloos aangebracht.Bij renovlies heb je altijd:"
+    },
+    {
+      "type": "paragraph",
+      "text": "naden (hoe goed ook geplakt)"
+    },
+    {
+      "type": "paragraph",
+      "text": "kans dat je ze bij strijklicht blijft zien"
+    },
+    {
+      "type": "paragraph",
+      "text": "👉 Dunpleister oogt daarom luxer en strakker."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Geen risico op loslatende naden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Renovlies is behang:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister zit vast op de muur en kan niet loskomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Beter bestand tegen stoten en beschadigingen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Renovlies is kwetsbaarder, zeker in druk belopen ruimtes."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Mooier bij strijklicht"
+    },
+    {
+      "type": "paragraph",
+      "text": "In nieuwbouwwoningen valt vaak veel daglicht langs de muren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Renovlies laat sneller structuur, naden en imperfecties zien"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister blijft ook bij strijklicht rustig en egaal"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Direct sausklaar, geen extra lagen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Renovlies vereist:"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Hogere en duurzamere uitstraling"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister wordt gezien als:"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Langere levensduur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kan latex direct op nieuwbouwmuren zonder dunpleister? Waarom is dat geen goed idee?1. Nieuwbouwmuren zijn niet strak genoeg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beton- en gipswanden in nieuwbouw:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex is dun en volgt elke oneffenheid, waardoor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Grote kans op zichtbaar strijklicht"
+    },
+    {
+      "type": "paragraph",
+      "text": "In nieuwbouwwoningen is veel daglicht. Zonder dunpleister zie je bij strijklicht:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Met dunpleister worden muren eerst optisch vlak gemaakt."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Ongelijke zuiging van de ondergrond"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nieuwbouwmuren zuigen verf niet overal even sterk op.Gevolg:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister zorgt voor een egale ondergrond."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Meer kans op scheurtjes in de verflaag"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nieuwbouw werkt (krimp, zetting).Zonder dunpleister:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister vangt kleine spanningen beter op."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Geen écht sausklaar resultaat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ook al staat er “sausklaar” op de muur:"
+    },
+    {
+      "type": "paragraph",
+      "text": "dat betekent niet strak genoeg om te schilderen"
+    },
+    {
+      "type": "paragraph",
+      "text": "alleen geschikt voor standaard afwerking, niet voor strak schilderwerk"
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Contact"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "info@wandmeesters.nl",
+        "+31 6 36306402",
+        "Zwaluwtong 112, 1141 KS Monnickendam",
+        "Stuur ons een whatsapp bericht"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "kan op termijn loslaten",
+        "vooral bij hoeken, naden en plafondaansluitingen"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "harder dan renovlies",
+        "minder gevoelig voor deukjes, scheuren en beschadigingen"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "wordt glad afgewerkt",
+        "kan direct worden geschilderd"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "plakken",
+        "naden wegwerken",
+        "meerdere lagen latex"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "hoogwaardigere afwerking",
+        "betere keuze bij verkoop of waardevermeerdering van de woning"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "gaat jaren mee",
+        "kan meerdere keren worden overgeschilderd"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "hebben poriën, kleine gaatjes en structuur",
+        "zijn vaak niet perfect vlak"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "vlekken",
+        "aanzetten",
+        "banen zichtbaar blijven"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "rolbanen",
+        "structuurverschillen",
+        "oneffenheden extra sterk"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "kleurverschillen",
+        "vlekkerig resultaat",
+        "extra lagen latex nodig"
+      ]
+    }
+  ],
+  "migrated_from": "contact/index.html"
+}

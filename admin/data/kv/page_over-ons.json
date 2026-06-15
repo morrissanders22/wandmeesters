@@ -1,0 +1,235 @@
+{
+  "slug": "over-ons",
+  "title": "Over Ons",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.868153Z",
+  "updated_at": "2026-06-01T15:03:34.868153Z",
+  "published_at": "2026-06-01T15:03:34.868153Z",
+  "meta": {
+    "title": "Over Ons - Wandmeesters",
+    "description": "Wandmeesters - Stucadoors &amp; verfspuitbedrijf in Monnickendam. Specialist in stucwerk, dunpleister, latex spuiten en houtschilderwerk.",
+    "canonical": "https://wandmeesters.nl/over-ons/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Over Ons - Wandmeesters",
+    "og_description": "Met jarenlange ervaring in wand- en plafondafwerking realiseert Wandmeesters gladde muren en strakke plafonds voor nieuwbouw en renovatie. Leer ons kennen en ontdek wat wij voor jouw woning kunnen betekenen. Wandmeesters Pagina Ons verhaal Over Wandmeesters Wij van Wandmeesters (Kevin &amp; Jordy) zijn al meer dan 10 jaar bezig in het stucadoors vak. Na alle […]",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/over-ons/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/over-ons/",
+                "name": "Over Ons"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/over-ons/#webpage",
+          "url": "/over-ons/",
+          "name": "Over Ons - Wandmeesters",
+          "datePublished": "2024-06-11T16:11:37+00:00",
+          "dateModified": "2026-04-24T12:14:45+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/over-ons/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Over Ons - Wandmeesters",
+          "datePublished": "2024-06-11T16:11:37+00:00",
+          "dateModified": "2026-04-24T12:14:45+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Met jarenlange ervaring in wand- en plafondafwerking realiseert Wandmeesters gladde muren en strakke plafonds voor nieuwbouw en renovatie. Leer ons kennen en ontdek wat wij voor jouw woning kunnen betekenen.",
+          "name": "Over Ons - Wandmeesters",
+          "@id": "/over-ons/#richSnippet",
+          "isPartOf": {
+            "@id": "/over-ons/#webpage"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/over-ons/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Over Ons"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Over Wandmeesters"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Ik ben Kevin"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Ik ben Jordy"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Klanten aan het woord"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over Ons Met jarenlange ervaring in wand- en plafondafwerking realiseert Wandmeesters gladde muren en strakke plafonds voor nieuwbouw en renovatie. Leer ons kennen en ontdek wat wij voor jouw woning kunnen betekenen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij van Wandmeesters (Kevin & Jordy) zijn al meer dan 10 jaar bezig in het stucadoors vak. Na alle jaren zijn wij tot de conclussie gekomen dat de opgeleverde nieuwbouw ons het meeste trekt. Dit neemt niet weg dat we alle andere varianten aan klussen ook doen. Maar dit meer onze passie is. Het ontzorgen van de nieuwe huizen bezitters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij weten als geen ander hoeveel dingen er allemaal komen kijken bij een nieuwe woning, dan is het fijn om met een betrouwbare partij in zee te gaan die je helpt met het nadenken van dingen en net zo graag als jou het strakste resultaat wil behalen in de woning. En hoe fijn is het als je met een goed gevoel je sleutel afgeeft en vaak binne een week een prachtig afgewerkte woning krijgt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Omdat wij weten wat we afleveren betaalt de klant natuurlijk altijd achteraf als hij volledig tevreden is. Maar dat komt natuurlijk helemaal goed!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geboren in 1993 in Monnickendam. Ik woon samen met mijn vrouw en 2 prachtige dochters in Monnickendam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Het ondernemen zit mij in mijn bloed en is dan ook het gene wat ik het allerliefste doe. 14 jaar geleden ben ik mijn eigen bedrijf gestart en sindsdien heb ik aan prachtige en bijzondere projecten mogen werken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nu bundel ik mijn krachten met mijn compagnon Jordy om samen nog meer moois te creëren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mijn streven ligt altijd naar perfectie, zodat ik de klant kan garanderen dat het eindresultaat niet alleen mooi is, maar ook echt een belevenis is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geboren in 1996 in Monnickendam. Ik ben spontaan, open en ik kijk met kritisch oog naar mijn werk. Sinds jonge leeftijd ben ik al actief in de bouwsector."
+    },
+    {
+      "type": "paragraph",
+      "text": "Er zijn verschillende dingen binnen de bouw die mij aanspreken, maar mijn hart en plek ligt toch echt bij het schilderwerk en stuken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wat ik het mooiste vind aan mijn werk, is dat ik iets moois kan creëren of renoveren en het resultaat echt zichtbaar is, iets waar zowel de klant als ik trots op kunnen zijn. Dat geeft me elke keer weer enorm veel voldoening."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lees wat onze klanten zeggen over hun ervaringen met Wand Meesters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeer tevreden met het werk, professioneel gedaan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Top werk geleverd. Zeer tevreden!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geweldige resultaten, zou ze aan iedereen aanraden!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect afgewerkt, zeer professioneel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aanrader: snel en strak werk!"
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Over Ons"
+      ]
+    }
+  ],
+  "migrated_from": "over-ons/index.html"
+}

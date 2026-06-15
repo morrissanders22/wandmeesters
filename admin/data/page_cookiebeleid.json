@@ -1,0 +1,328 @@
+{
+  "slug": "cookiebeleid",
+  "title": "Cookiebeleid",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.926637Z",
+  "updated_at": "2026-06-01T15:01:32.926637Z",
+  "published_at": "2026-06-01T15:01:32.926637Z",
+  "meta": {
+    "title": "Cookiebeleid - Wandmeesters",
+    "description": "Het cookiebeleid van Wandmeesters: welke cookies wij plaatsen en hoe je ze beheert.",
+    "canonical": "https://wandmeesters.nl/cookiebeleid/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Cookiebeleid - Wandmeesters",
+    "og_description": "Cookiebeleid wandmeesters Dit is het cookiebeleid van wandmeesters (hierna te noemen “wandmeesters”,”wij,” “ons” of “onze”), een onderneming met adres Zwaluwtong 112 1141KS, monnickendam. wandmeesters is ingeschreven bij de Kamer van Koophandel onder nummer 93832125. Dit cookiebeleid legt uit hoe wij cookies gebruiken en hoe wij uw gegevens delen en beschermen in relatie tot onze website […]",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm­afbeelding-2025-05-27-om-17.38.00-e1748360306236-836x1024.jpg",
+          "url": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm­afbeelding-2025-05-27-om-17.38.00-e1748360306236-836x1024.jpg",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/cookiebeleid/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/cookiebeleid/",
+                "name": "Cookiebeleid"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/cookiebeleid/#webpage",
+          "url": "/cookiebeleid/",
+          "name": "Cookiebeleid - Wandmeesters",
+          "datePublished": "2025-05-27T15:30:23+00:00",
+          "dateModified": "2026-02-27T09:05:17+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm­afbeelding-2025-05-27-om-17.38.00-e1748360306236-836x1024.jpg"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/cookiebeleid/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/",
+          "url": "/author/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "inLanguage": "nl-NL"
+          },
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Cookiebeleid - Wandmeesters",
+          "datePublished": "2025-05-27T15:30:23+00:00",
+          "dateModified": "2026-02-27T09:05:17+00:00",
+          "author": {
+            "@id": "/author/"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Dit is het cookiebeleid van wandmeesters (hierna te noemen \"wandmeesters”,”wij,\" \"ons\" of \"onze\"), een onderneming met adres Zwaluwtong 112 1141KS, monnickendam. wandmeesters is ingeschreven bij de Kamer van Koophandel onder nummer 93832125.",
+          "name": "Cookiebeleid - Wandmeesters",
+          "@id": "/cookiebeleid/#richSnippet",
+          "isPartOf": {
+            "@id": "/cookiebeleid/#webpage"
+          },
+          "image": {
+            "@id": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm­afbeelding-2025-05-27-om-17.38.00-e1748360306236-836x1024.jpg"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/cookiebeleid/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Cookiebeleid wandmeesters"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat zijn cookies?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Cookieoverzicht"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Bewaartermijn en actieve cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Functionele cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Analytische cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Google Analytics"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Tracking cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Tracking cookies aan- en uitzetten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Sociale media cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Recht op inzage, correcties, recht op bezwaar en recht op dataportabiliteit"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onvoorziene cookies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Hoe wordt de verzamelde informatie beveiligd?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Hoe wordt de verzamelde informatie gedeeld?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Cookiebeleid Kinderen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Zeggenschapswijziging"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wijzigingen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Contact"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Overzicht cookies in gebruik"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dit is het cookiebeleid van wandmeesters (hierna te noemen “wandmeesters”,”wij,” “ons” of “onze”), een onderneming met adres Zwaluwtong 112 1141KS, monnickendam. wandmeesters is ingeschreven bij de Kamer van Koophandel onder nummer 93832125."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dit cookiebeleid legt uit hoe wij cookies gebruiken en hoe wij uw gegevens delen en beschermen in relatie tot onze website (de “Website”). Het plaatsen van cookies en het verwerken van persoonsgegevens gebeurt op een wijze die in overeenstemming is met de Algemene Verordening Gegevensbescherming, inclusief uitvoeringswet van deze verordening, of de voorafgaande wetgeving van de Wet Bescherming Persoonsgegevens en eventuele toekomstige wijzigingen (de “AVG”), de telecommunicatiewet en alle overige privacywetgeving zoals die op dit moment geldt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cookies zijn eenvoudige tekstbestanden die op uw computer, tablet, telefoon of smartwatch worden opgeslagen, wanneer u onze Website bezoekt. Cookies kunnen uw computer, tablet of telefoon niet beschadigen. De opgeslagen informatie kan bij een volgend bezoek weer naar onze servers worden teruggestuurd. De cookies zijn noodzakelijk om u een prettige ervaring op de Website te geven."
+    },
+    {
+      "type": "paragraph",
+      "text": "Op de website van wandmeesters maken wij gebruik van verschillende soorten cookies. Deze cookies helpen ons om de website goed te laten functioneren, statistieken bij te houden en gepersonaliseerde inhoud en advertenties aan te bieden. In totaal worden er op 14 verschillende cookies gebruikt. Deze cookies kunnen bij een bezoek aan onze website op jouw apparaat worden geplaatst. In onderstaande tabel vind je een overzicht van de cookies die wij gebruiken, inclusief hun type, doel en bewaartermijn. Gezien deze verouderd kan zijn kunt u via onze cookiebanner (popup) een actueel en volledig overzicht van de cookies die wij gebruiken. U kunt daar uw voorkeuren aangeven en wijzigen. Deze popup is toegankelijk via de knop “Cookie-instellingen” onderaan elke pagina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze cookies kunnen periodiek worden gewijzigd. Wij raden aan om dit cookiebeleid regelmatig te controleren, zodat je altijd op de hoogte bent van eventuele updates. De link naar de cookieprovider is te vinden in de cookiebot-popup op onze website."
+    },
+    {
+      "type": "paragraph",
+      "text": "Functionele cookies zijn cookies die noodzakelijk zijn om onze Website goed en veilig te laten werken. Zonder deze cookies kan onze Website niet goed functioneren. U kunt deze cookies dan ook niet uitzetten. Er bestaat een onderscheid tussen permanente functionele cookies en sessie cookies. De sessie cookies worden direct na uw bezoek van onze site verwijderd. De permanente cookies worden bewaard om te voorkomen dat u telkens opnieuw dezelfde actie moet uitvoeren. Denk hierbij bijvoorbeeld aan het automatisch inloggen op websites of aankopen die in een winkelwagen van een webshop voor u bewaard worden. Wij delen de gegevens die wij inwinnen via deze cookies dan ook niet met derden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analytische cookies helpen ons inzicht te krijgen in hoe bezoekers onze website gebruiken. Ze meten bijvoorbeeld welke pagina’s vaak worden bezocht, hoe lang bezoekers blijven, en of foutmeldingen optreden. Deze informatie helpt ons om de prestaties en gebruikerservaring te verbeteren. Sommige analytische cookies mogen zonder toestemming worden geplaatst als ze geen of geringe gevolgen hebben voor de privacy, mits geanonimiseerd. Voor overige analytische cookies vragen wij om uw toestemming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor onze analytische diensten maken we gebruik van Google Analytics van het Amerikaanse bedrijf Google. Wij gebruiken deze dienst om bij te houden en rapportages te ontvangen over hoe bezoekers onze Website gebruiken. Google Analytics plaatst een permanente cookie om uw webbrowser te identificeren. Hierdoor worden uw gegevens gedeeld met Google. Wij delen alleen gegevens met Google die wij op basis van de AVG met Google mogen delen. Wij gebruiken deze informatie met informatie van andere gebruikers. Hierdoor is het voor ons niet mogelijk om u als individu te kunnen identificeren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij hebben Google geen toestemming gegeven om uw gegevens te delen met derden. U kunt volledig voorkomen dat Google Analytics u herkent door de cookies uit te schakelen in uw browser. Google kan wel verplicht worden de gegevens aan derden te verschaffen indien Google daartoe wettelijk verplicht wordt. De informatie die Google verzamelt, wordt zo veel mogelijk geanonimiseerd. Uw IP-adres wordt nadrukkelijk niet meegegeven, overeenkomstig de ‘Handleiding privacyvriendelijk instellen van Google Analytics’ van de Autoriteit Persoonsgegevens. De informatie wordt door Google opgeslagen op servers in de Verenigde Staten. Sinds de ongeldigverklaring van het Privacy Shield beroepen wij ons op Standard Contractual C l a u s e s ( S C C ’ s ) e n a a n v u l l e n d e m a a t r e g e l e n o m e e n p a s s e n d beschermingsniveau te waarborgen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tracking cookies zijn cookies die noodzakelijk zijn om de Website prettig voor u te laten werken. Voor deze cookies vragen wij uw toestemming. Zonder toestemming worden deze cookies niet geplaatst. Dankzij tracking cookies kunnen wij de inhoud van de Website op uw interesses en voorkeuren afstemmen. Bovendien kunnen wij dankzij tracking cookies ervoor zorgen dat u op onze Website en op andere sites alleen relevante advertenties ziet. Dankzij deze cookies kunnen wij er ten slotte voor zorgen dat uw bezoek aan onze Website gratis is en zal blijven. Met onze tracking cookies kunnen wij niet uw naam, adres en e-mailadres achterhalen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij plaatsen alleen tracking cookies als u ons daar toestemming voor hebt gegeven. Als u eenmaal uw toestemming hebt gegeven, kunt u deze te allen tijde intrekken op dezelfde manier als waarop u uw toestemming hebt gegeven. Wij wijzen u er wel op dat onze site minder goed kan werken voor u op het moment dat u uw toestemming intrekt. Nadat u uw toestemming hebt ingetrokken, verwijderen wij alle gegevens die wij dankzij de tracking cookies hebben verzameld. Als u ons weer toestemming geeft om tracking cookies te plaatsen, zullen wij deze tracking cookies opnieuw plaatsen. U kunt uw voorkeuren op elk gewenst moment aanpassen of intrekken via de knop “Cookie-instellingen” onderaan onze website. Deze instellingen zijn altijd toegankelijk. Na het intrekken van uw toestemming worden de bijbehorende cookies verwijderd en worden geen gegevens meer verzameld."
+    },
+    {
+      "type": "paragraph",
+      "text": "Op deze pagina zijn buttons van sociale netwerken als Facebook en Twitter opgenomen. Deze buttons werken door stukjes code die van deze netwerken zelf afkomstig zijn. Door middel van deze code worden cookies op de Website geplaatst. Wij hebben daar geen invloed op. Leest u de privacyverklaring van het respectievelijke sociale mediabedrijf (welke regelmatig kunnen wijzigen) om te lezen wat zij met uw (persoons)gegevens doen die zij via deze cookies Cookiebeleid verwerken. De informatie die ze verzamelen wordt zo veel mogelijk geanonimiseerd. Google en andere dienstverleners verwerken gegevens op basis van contractuele waarborgen zoals Standard Contractual Clauses (SCC’s), in combinatie met aanvullende beveiligingsmaatregelen. Daarmee wordt een passend beschermingsniveau nagestreefd in overeenstemming met de AVG."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wanneer u inzage wil in uw persoonsgegevens, als u uw gegevens wil wijzigingen of verwijderen of als u uw persoonsgegevens geheel of gedeeltelijk wil laten overdragen aan u of aan een derde, dan kunt u contact opnemen met wandmeesters door een e-mail te sturen naar info@wandmeesters.nl of een brief sturen aan:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Om misbruik te voorkomen kunnen wij u vragen om u te identificeren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij proberen een zo goed mogelijk overzicht te houden over de cookies op onze Website. Het kan voorkomen dat derden cookies plaatsen op onze Website. In dat geval vindt u deze cookies niet terug in dit overzicht. Het gaat dan met name om embedded elementen. Hier is bijvoorbeeld sprake van als een video die op YouTube is opgeslagen op onze Website wordt gedeeld. Komt u op onze Website een cookie tegen die niet in dit overzicht staat? Dan verzoeken wij u contact op te nemen met ons door een mail te sturen naar info@wandmeesters.nl."
+    },
+    {
+      "type": "paragraph",
+      "text": "wandmeesters heeft passende technische en organisatorische maatregelen genomen om uw gegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking. Wij gebruiken veiligheidsmaatregelen om te zorgen dat informatie via de Website wordt beveiligd (zoals het aanvragen van een uniek wachtwoord). Echter, wandmeesters kan niet verzekeren dat de informatie op de Website niet wordt geopend, onthuld, veranderd of vernietigd. U bent te allen tijde verantwoordelijk voor het handhaven van uw unieke wachtwoord en accountinformatie en voor het beheren van de e-mails tussen u en wandmeesters. wandmeesters is niet verantwoordelijk of aansprakelijk voor het cookiegebruik van derden waarnaar de gebruiker via onze Website naar kan doorlinken waaronder – maar niet uitsluitend – YouTube, Facebook, Twitter en LinkedIn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Informatie verzameld met functionele cookies delen wij niet met derden. Informatie verkregen met analytische cookies delen wij zonder uw toestemming alleen met derden nadat wij deze gegevens hebben geanonimiseerd of nadat wij voor het delen van uw gegevens uw toestemming hebben gekregen. Informatie verkregen met tracking cookies delen wij alleen met derden indien wij daartoe uw toestemming hebben gekregen. wandmeesters selecteert derden zorgvuldig en maakt waar mogelijk afspraken over gegevensverwerking. Toch hebben wij geen controle over het cookiegebruik van derden zoals YouTube, Facebook of LinkedIn. Voor informatie over hoe zij omgaan met gegevens verwijzen wij u naar hun eigen privacyverklaringen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onze Website plaatst niet bewust cookies wanneer de computer, tablet of mobiel wordt gebruikt door iemand die jonger is dan 16 jaar (“Kinderen”). Indien wij erachter komen dat wij persoonlijke gegevens hebben verzameld van Kinderen zonder toestemming van hun ouder of voogd, dan zullen wij stappen ondernemen om deze gegevens te verwijderen van onze servers. Als u vermoedens heeft dat uw kind zonder uw toestemming persoonsgegevens heeft verstrekt aan ons, dan kunt u contact met ons opnemen via info@wandmeesters.nl. Indien wij van u de persoonsgegevens hebben verkregen toen u een kind was, dan zullen wij ons inspannen op uw verzoek deze persoonsgegevens verwijderen. Als u het vermoeden heeft dat u als kind persoonsgegevens aan ons heeft verstrekt, dan kunt u contact met ons opnemen via info@wandmeesters.nl."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wanneer wandmeesters, of een deel daarvan, wordt verkocht, overgedragen of een onze activa bij een andere organisatie terecht komt (bijvoorbeeld als gevolg van een fusie, overname, faillissement, ontbinding of liquidatie), dan kunnen gegevens die via de Website zijn verzameld onder de verkochte of overgedragen zaken vallen. De koper of verkrijger zal de afspraken in dit Cookiebeleid moeten opvolgen."
+    },
+    {
+      "type": "paragraph",
+      "text": "wandmeesters kan van tijd tot tijd dit Cookiebeleid aanpassen of updaten. U wordt daarom geadviseerd om dit Cookiebeleid regelmatig te raadplegen. Aanpassingen van dit Cookiebeleid treden in werking op het moment dat deze zijn gepubliceerd op deze pagina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wanneer u vragen heeft over dit Cookiebeleid, dan kunt u contact opnemen met wandmeesters door een e-mail te sturen naar info@wandmeesters.nl of tel: +31 6 36306402."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "wandmeesters",
+        "Zwaluwtong 112 1141KS, monnickendam",
+        "info@wandmeesters.nl",
+        "Tel: +31 6 36306402",
+        "KVK: 93832125"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm%C2%ADafbeelding-2025-05-27-om-17.38.00-e1748360306236.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://placeholderstwo.concepten-mhsmedia.nl/wp-content/uploads/2025/05/Scherm%C2%ADafbeelding-2025-05-27-om-17.39.08.jpg",
+      "alt": ""
+    }
+  ],
+  "migrated_from": "cookiebeleid/index.html"
+}

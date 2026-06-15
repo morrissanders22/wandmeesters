@@ -1,0 +1,248 @@
+{
+  "slug": "diensten/stucwerk",
+  "title": "Stucwerk",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.941990Z",
+  "updated_at": "2026-06-01T15:01:32.941990Z",
+  "published_at": "2026-06-01T15:01:32.941990Z",
+  "meta": {
+    "title": "Stucwerk - Wandmeesters",
+    "description": "Specialist in stucwerk voor muren en plafonds. Strak en professioneel resultaat in woningen en bedrijfspanden.",
+    "canonical": "https://wandmeesters.nl/diensten/stucwerk/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stucwerk - Wandmeesters",
+    "og_description": "Specialist in stucwerk Wandmeesters zorgt voor strak en professioneel stucwerk op muren en plafonds, zowel in woningen als bedrijfspanden. Onze ervaren stukadoors leveren snel en netjes werk, volledig afgestemd op uw wensen. Wandmeesters Op zoek naar professioneel stucwerk? Kies voor vakkundig aangebracht stucwerk en geniet van perfect gladde wanden en plafonds. Duurzaam afgewerkt, klaar voor […]",
+    "og_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "url": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "width": "1536",
+          "height": "2048",
+          "caption": "stucwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stucwerk/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stucwerk/",
+                "name": "Stucwerk"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stucwerk/#webpage",
+          "url": "/diensten/stucwerk/",
+          "name": "Stucwerk - Wandmeesters",
+          "datePublished": "2026-02-27T11:21:52+00:00",
+          "dateModified": "2026-05-05T11:49:56+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stucwerk/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stucwerk - Wandmeesters",
+          "keywords": "stucwerk",
+          "datePublished": "2026-02-27T11:21:52+00:00",
+          "dateModified": "2026-05-05T11:49:56+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wandmeesters zorgt voor strak en professioneel stucwerk op muren en plafonds, zowel in woningen als bedrijfspanden. Onze ervaren stukadoors leveren snel en netjes werk, volledig afgestemd op uw wensen.",
+          "name": "Stucwerk - Wandmeesters",
+          "@id": "/diensten/stucwerk/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stucwerk/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stucwerk/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Specialist in stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Op zoek naar professioneel stucwerk?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Professioneel stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Vakkundig stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Complete stucwerkservices"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak afgewerkt stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Vakwerk dat blijft"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw partner voor complete stucwerk en schilderdiensten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specialist in stucwerk Wandmeesters zorgt voor strak en professioneel stucwerk op muren en plafonds, zowel in woningen als bedrijfspanden. Onze ervaren stukadoors leveren snel en netjes werk, volledig afgestemd op uw wensen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kies voor vakkundig aangebracht stucwerk en geniet van perfect gladde wanden en plafonds. Duurzaam afgewerkt, klaar voor schilderwerk of verdere wandafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is uw specialist in strak en professioneel stucwerk voor woningen en bedrijfspanden. Onze ervaren stukadoors werken wanden en plafonds vakkundig af, waarbij alle oneffenheden worden verwijderd. Samen stemmen we de gewenste afwerking en kleur af voor een perfect resultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect gladde wanden en plafonds voor een hoogwaardige afwerking. Professioneel aangebracht stucwerk met oog voor detail en een strak eindresultaat. Geschikt voor zowel nieuwbouw als renovatieprojecten. De ideale basis voor schilderwerk, latexverfspuiten of verdere wandafwerking. Stucwerk Complete stucwerkservices Of het nu gaat om een huis of kantoor, wij behandelen elke muur met zorg. Bij sterke beschadigingen gebruiken we raapwerk als basis, terwijl bij lichte scheuren een dunne pleisterlaag vaak volstaat. Ook daarvoor kunt u bij ons terecht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onze snelle en nauwkeurige werkwijze zorgt ervoor dat uw muren direct klaar zijn voor afwerking met latexverf. Zo creëert u snel een frisse, comfortabele ruimte. Wij maken samen met u een duidelijk plan en leveren kwaliteit binnen de afgesproken tijd. Wandmeesters staat voor vakmanschap en betrouwbaarheid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goed stucwerk vraagt om ervaring en precisie. Wij werken strak, egaal en met oog voor detail, zodat wanden en plafonds perfect klaar zijn voor schilderwerk of verdere afwerking. Geen oneffenheden of lapwerk, maar duurzaam stucwerk dat jarenlang mooi blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters biedt op maat gemaakte stuc- en verfoplossingen, van nieuwbouw tot renovatie. Wij combineren stucwerk en schilderwerk in één vast team. Dat betekent korte lijnen, duidelijke afspraken en een strak afgewerkt resultaat zonder tussenpartijen."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Stucwerk"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect gladde wanden en plafonds voor een hoogwaardige afwerking.",
+        "Professioneel aangebracht stucwerk met oog voor detail en een strak eindresultaat.",
+        "Geschikt voor zowel nieuwbouw als renovatieprojecten.",
+        "De ideale basis voor schilderwerk, latexverfspuiten of verdere wandafwerking."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stucwerk/index.html"
+}

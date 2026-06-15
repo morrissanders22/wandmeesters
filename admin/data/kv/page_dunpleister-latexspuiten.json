@@ -1,0 +1,266 @@
+{
+  "slug": "dunpleister-latexspuiten",
+  "title": "Dunpleisterwerk + latex spuiten",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.855765Z",
+  "updated_at": "2026-06-01T15:03:34.855765Z",
+  "published_at": "2026-06-01T15:03:34.855765Z",
+  "meta": {
+    "title": "Dunpleisterwerk + latex spuiten - Wandmeesters",
+    "description": "Combipakket dunpleister + latex spuiten. Strak, glad en direct sausklaar — perfect voor nieuwbouw en renovatie.",
+    "canonical": "https://wandmeesters.nl/dunpleister-latexspuiten/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Dunpleisterwerk + latex spuiten - Wandmeesters",
+    "og_description": "Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie. Wandmeesters Wilt u supergladde wanden met dunpleister en latex spuiten? Wij zorgen voor een strak eindresultaat, snel en vakkundig uitgevoerd. Vraag direct uw offerte […]",
+    "og_image": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1-576x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1-576x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1.webp",
+          "url": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1.webp",
+          "width": "1440",
+          "height": "2560",
+          "caption": "dunpleisterwerk + latex spuiten",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/dunpleister-latexspuiten/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/dunpleister-latexspuiten/",
+                "name": "Dunpleisterwerk + latex spuiten"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/dunpleister-latexspuiten/#webpage",
+          "url": "/dunpleister-latexspuiten/",
+          "name": "Dunpleisterwerk + latex spuiten - Wandmeesters",
+          "datePublished": "2026-03-19T11:05:35+00:00",
+          "dateModified": "2026-05-26T15:09:16+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/dunpleister-latexspuiten/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Dunpleisterwerk + latex spuiten - Wandmeesters",
+          "keywords": "dunpleisterwerk + latex spuiten",
+          "datePublished": "2026-03-19T11:05:35+00:00",
+          "dateModified": "2026-05-26T15:09:16+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie.",
+          "name": "Dunpleisterwerk + latex spuiten - Wandmeesters",
+          "@id": "/dunpleister-latexspuiten/#richSnippet",
+          "isPartOf": {
+            "@id": "/dunpleister-latexspuiten/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/DJI_20260204074701_0060_D-frame-at-0m3s-1.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/dunpleister-latexspuiten/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Dunpleisterwerk + latex spuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u supergladde wanden met dunpleister en latex spuiten?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Waarom dunpleisterwerk en latex spuiten combineren?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Snel en strak afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voordelen combipakket"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Ideaal voor nieuwbouw en renovatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Kies voor een strak eindresultaat zonder concessies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw specialist in dunpleisterwerk en latexverf spuiten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleisterwerk + latex spuiten Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zorgen voor een strak eindresultaat, snel en vakkundig uitgevoerd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleisterwerk is een dunne afwerklaag die zorgt voor volledig egale en gladde wanden. In combinatie met latex spuiten ontstaat een naadloos en strak eindresultaat zonder strepen of banen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door deze technieken te combineren, worden wanden eerst perfect glad gemaakt en daarna machinaal gespoten met latexverf. Dit zorgt voor een hoogwaardige afwerking die met traditioneel schilderwerk moeilijk te evenaren is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect gladde wanden Streeploos resultaat door latex spuittechniek Ideaal voor nieuwbouw en renovatie Snelle en efficiënte werkwijze Direct klaar voor gebruik Dunpleisterwerk + latex spuiten Voordelen combipakket De combinatie van dunpleister en latex spuiten biedt een totaaloplossing voor wandafwerking. U bespaart tijd, voorkomt dubbele werkzaamheden en bent verzekerd van een consistent eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doordat wij het volledige traject verzorgen – van het egaliseren tot het spuiten – sluiten alle stappen perfect op elkaar aan. Dit voorkomt zichtbare overgangen en zorgt voor een strak geheel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daarnaast is latex spuiten sneller dan traditioneel schilderen en levert het een egaler eindresultaat op, vooral bij grotere oppervlakken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze combinatie is perfect voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nieuwbouwwoningen Renovatieprojecten Grote wand- en plafondoppervlakken Woningen met een strak en modern interieur Dunpleisterwerk + latex spuiten Kies voor een strak eindresultaat zonder concessies Met dunpleisterwerk en latex spuiten van Wandmeesters kiest u voor kwaliteit, snelheid en een perfect afgewerkte woning. Vraag vandaag nog een offerte aan en ontdek de voordelen van dit combipakket."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is dé specialist in dunpleisterwerk en latex spuiten voor zowel nieuwbouw als renovatie. Met deze combinatie realiseren wij ultradunne, perfect egale wanden die strak en streeploos worden afgewerkt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door dunpleister aan te brengen als gladde basis en deze vervolgens professioneel te spuiten met latexverf, ontstaat een hoogwaardige en duurzame afwerking zonder zichtbare banen of overgangen. Ideaal voor wie kiest voor een strak, modern en tot in detail afgewerkt interieur."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Dunpleisterwerk + latex spuiten"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect gladde wanden",
+        "Streeploos resultaat door latex spuittechniek",
+        "Ideaal voor nieuwbouw en renovatie",
+        "Snelle en efficiënte werkwijze",
+        "Direct klaar voor gebruik"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Nieuwbouwwoningen",
+        "Renovatieprojecten",
+        "Grote wand- en plafondoppervlakken",
+        "Woningen met een strak en modern interieur"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "dunpleister-latexspuiten/index.html"
+}

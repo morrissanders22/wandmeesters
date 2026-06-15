@@ -1,0 +1,10 @@
+# Files not deployed to Vercel
+server.py
+admin/data/
+__pycache__/
+*.pyc
+.git/
+node_modules/
+*.zip
+*.log
+.DS_Store

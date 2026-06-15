@@ -1,0 +1,215 @@
+{
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.870583Z",
+  "updated_at": "2026-06-01T15:03:34.870583Z",
+  "published_at": "2026-06-01T15:03:34.870583Z",
+  "meta": {
+    "title": "Privacy Policy - Wandmeesters",
+    "description": "Privacybeleid van Wandmeesters: hoe wij persoonsgegevens verwerken en beschermen.",
+    "canonical": "https://wandmeesters.nl/privacy-policy/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Privacy Policy - Wandmeesters",
+    "og_description": "Privacy Policy Wij hechten veel waarde aan de bescherming van uw persoonsgegevens. In dit privacybeleid leggen we uit welke gegevens we verzamelen, waarom we dat doen en hoe we uw privacy waarborgen. 1. Verzamelen van Persoonsgegevens Wij verzamelen uitsluitend gegevens die u zelf aan ons verstrekt via bijvoorbeeld het contactformulier, e-mail, telefoon of bij het […]",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/privacy-policy/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/privacy-policy/",
+                "name": "Privacy Policy"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/privacy-policy/#webpage",
+          "url": "/privacy-policy/",
+          "name": "Privacy Policy - Wandmeesters",
+          "datePublished": "2025-05-26T11:18:35+00:00",
+          "dateModified": "2026-02-27T09:05:12+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/privacy-policy/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/",
+          "url": "/author/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "inLanguage": "nl-NL"
+          },
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Privacy Policy - Wandmeesters",
+          "datePublished": "2025-05-26T11:18:35+00:00",
+          "dateModified": "2026-02-27T09:05:12+00:00",
+          "author": {
+            "@id": "/author/"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wij hechten veel waarde aan de bescherming van uw persoonsgegevens. In dit privacybeleid leggen we uit welke gegevens we verzamelen, waarom we dat doen en hoe we uw privacy waarborgen.",
+          "name": "Privacy Policy - Wandmeesters",
+          "@id": "/privacy-policy/#richSnippet",
+          "isPartOf": {
+            "@id": "/privacy-policy/#webpage"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/privacy-policy/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Privacy Policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij hechten veel waarde aan de bescherming van uw persoonsgegevens. In dit privacybeleid leggen we uit welke gegevens we verzamelen, waarom we dat doen en hoe we uw privacy waarborgen."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Verzamelen van Persoonsgegevens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij verzamelen uitsluitend gegevens die u zelf aan ons verstrekt via bijvoorbeeld het contactformulier, e-mail, telefoon of bij het aanvragen van een offerte. Dit kunnen de volgende gegevens zijn:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Naam Telefoonnummer E-mailadres Adresgegevens Projectinformatie"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Doeleinden van Gegevensverwerking"
+    },
+    {
+      "type": "paragraph",
+      "text": "De persoonsgegevens worden uitsluitend gebruikt voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Het beantwoorden van vragenHet opstellen en versturen van offertes en facturen Het uitvoeren van overeengekomen werkzaamheden Administratieve doeleinden Wettelijke verplichtingen"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Bewaartermijn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uw gegevens worden niet langer bewaard dan noodzakelijk is voor de bovengenoemde doeleinden of zoals wettelijk verplicht."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Delen van Gegevens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij verstrekken uw gegevens nooit aan derden zonder uw uitdrukkelijke toestemming, tenzij dit wettelijk verplicht is of noodzakelijk voor de uitvoering van de overeenkomst (bijvoorbeeld inhuur van een onderaannemer)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Beveiliging"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij nemen passende technische en organisatorische maatregelen om uw gegevens te beschermen tegen verlies, ongeautoriseerde toegang of enige andere vorm van onrechtmatige verwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Uw Rechten"
+    },
+    {
+      "type": "paragraph",
+      "text": "U heeft recht op inzage, correctie of verwijdering van uw persoonsgegevens. U kunt een verzoek hiervoor indienen via e-mail of schriftelijk. Wij reageren binnen 30 dagen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onze website maakt mogelijk gebruik van functionele cookies om de gebruiksvriendelijkheid te verbeteren. Deze cookies verzamelen geen persoonlijke gegevens."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Wijzigingen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij behouden ons het recht voor om dit privacybeleid te wijzigen. De meest actuele versie is altijd beschikbaar op onze website."
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e-1024x207.webp",
+      "alt": ""
+    }
+  ],
+  "migrated_from": "privacy-policy/index.html"
+}
