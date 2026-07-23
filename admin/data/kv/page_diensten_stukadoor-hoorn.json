@@ -1,0 +1,426 @@
+{
+  "slug": "diensten/stukadoor-hoorn",
+  "title": "Stukadoor in Hoorn voor muren &amp; plafonds",
+  "status": "published",
+  "template": "stukadoor-stad",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.841253Z",
+  "updated_at": "2026-06-01T15:03:34.841253Z",
+  "published_at": "2026-06-01T15:03:34.841253Z",
+  "meta": {
+    "title": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters",
+    "description": "Complete wand- en plafondafwerking in Hoorn met strak stucwerk en latex spuitwerk. ✓ 15+ jaar ervaring ✓ Transparante prijzen ✓ Gratis offerte aanvragen.",
+    "canonical": "https://wandmeesters.nl/diensten/stukadoor-hoorn/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters",
+    "og_description": "Complete wand- en plafondafwerking in Hoorn met strak stucwerk en latex spuitwerk. ✓ 15+ jaar ervaring ✓ Transparante prijzen ✓ Gratis offerte aanvragen.",
+    "og_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e-768x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "url": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp",
+          "width": "1536",
+          "height": "2048",
+          "caption": "stucwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stukadoor-hoorn/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stukadoor-hoorn/",
+                "name": "Stukadoor Hoorn"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stukadoor-hoorn/#webpage",
+          "url": "/diensten/stukadoor-hoorn/",
+          "name": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters",
+          "datePublished": "2026-05-27T10:30:07+00:00",
+          "dateModified": "2026-05-27T13:22:44+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stukadoor-hoorn/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters",
+          "keywords": "stukadoor in hoorn",
+          "datePublished": "2026-05-27T10:30:07+00:00",
+          "dateModified": "2026-05-27T13:22:44+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Complete wand- en plafondafwerking in Hoorn met strak stucwerk en latex spuitwerk. ✓ 15+ jaar ervaring ✓ Transparante prijzen ✓ Gratis offerte aanvragen.",
+          "name": "Stukadoor in Hoorn voor muren &amp; plafonds | Wandmeesters",
+          "@id": "/diensten/stukadoor-hoorn/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stukadoor-hoorn/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/a3505ec4-9458-48bf-b505-e94f71d32a3e.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stukadoor-hoorn/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Stukadoor Hoorn"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Strakke oplevering"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Transparante werkwijze"
+    },
+    {
+      "type": "heading-h4",
+      "text": "15+ jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Professioneel stucwerk in Hoorn nodig?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stukadoorsbedrijf in Hoorn"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Volledige wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wandmeesters diensten voor iedere ruimte"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Latex verfspuiten combineren met stucwerk"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister & latex verfspuiten combineren"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat kost een stukadoor in Hoorn?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Complete wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Hoorn Ben je op zoek naar een ervaren stukadoor in Hoorn met bewezen resultaat en liefde voor het vak? Bij Wandmeesters zorgen we voor een strak eindresultaat dat perfect aansluit bij de uitstraling van jouw woning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strakke oplevering Glad afgewerkte muren zonder zichtbare naden of banen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heldere offertes en duidelijke afspraken vooraf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professionals met liefde voor het vak"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters helpt woningbezitters in Hoorn met complete wand- en plafondafwerking voor zowel nieuwbouw als renovatieprojecten. Vraag een gratis offerte aan en ontdek hoe wij je kunnen ontzrogen!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Klanten kiezen voor Wandmeesters, omdat we doen wat we zeggen en onze afspraken nakomen. Wij vinden het eindresultaat en een tevreden klant het allerbelangrijkste. Kies je voor Wandmeesters, dan kies je voor volledige ontzorging van A tot Z. Daarbij kijken wij altijd naar de juiste technische oplossing voor de ondergrond én het gewenste eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professionele afwerking voor nieuwbouw en renovatie Complete afwerking van plafonds, muren en woonruimtes. Nieuwbouwwanden direct schilderklaar gemaakt Glad pleisterwerk met strak en duurzaam resultaat Wat we voor u kunnen doen Wandmeesters diensten voor iedere ruimte Voor iedere ruimte bieden wij een passende oplossing op het gebied. Bekijk hieronder onze diensten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Steeds meer woningbezitters kiezen ervoor om stucwerk direct te combineren met latex verfspuiten. Deze combinatie zorgt voor een compleet afgewerkte ruimte waarbij muren en plafonds strak, egaal en direct klaar voor gebruik worden opgeleverd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Na het aanbrengen van glad stucwerk of dunpleister werken wij de oppervlakken professioneel af met latex spuitwerk. Hierdoor ontstaat een egale afwerking zonder zichtbare rollerbanen, strepen of structuurverschillen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wil je profiteren van een efficiënte totaalafwerking? Bekijk dan ook onze dunpleister en latex spuiten combideal voor nieuwbouwwoningen en moderne renovaties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister en latex verfspuiten vormen samen een populaire afwerking voor nieuwbouwwoningen en strak gerenoveerde interieurs. Eerst maken we de muren volledig glad met dunpleister, waarna latex spuitwerk zorgt voor een egaal resultaat zonder zichtbare banen of structuur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze combinatie is ideaal voor behangklare nieuwbouwwanden die nog kleine oneffenheden of naden bevatten. Het resultaat is een rustige, moderne uitstraling die perfect past bij hedendaagse woonstijlen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meer weten over deze afwerking? Bekijk onze dunpleister en latex spuiten oplossing voor nieuwbouw en renovatieprojecten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij werken altijd met een duidelijke offerte op maat, zodat je vooraf precies weet waar je aan toe bent. Geen verborgen kosten, maar heldere afspraken en transparante communicatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor woningen ouder dan 2 jaar geldt in veel gevallen het 9% btw-tarief op stucwerk. Bij nieuwbouw geldt doorgaans 21% btw."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zijn actief in Hoorn en omliggende plaatsen zoals Zwaag, Blokker, Enkhuizen en Medemblik. Van appartementen in het centrum tot moderne nieuwbouwwoningen verzorgen wij complete wand- en plafondafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Veelgestelde vragen Werken jullie alleen in regio Hoorn? Naast Noord-Holland werken wij ook door de rest van het land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij woningen ouder dan 2 jaar geldt vaak het verlaagde btw-tarief van 9%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor nieuwbouwwoningen geldt meestal het 21% btw-tarief. Tijdens het offertetraject geven wij altijd helder aan welk btw-percentage van toepassing is op jouw woning of project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ja, latex spuiten is juist ideaal voor plafonds vanwege het strakke en egale resultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zo snel mogelijk. Vraag vrijblijvend een offerte aan en we bespreken direct de mogelijkheden en beschikbare startmomenten voor jouw woning in Hoorn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dat hangt af van ventilatie, temperatuur en laagdikte. Wij adviseren altijd wanneer verdere afwerking mogelijk is. Ook laten we vooraf het project alles aan je weten, zodat je niet verrast wordt"
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Dé specialist volledige wand- en platfondafwerking",
+        "Al 15+ jaar helpen wij tevreden klanten",
+        "Altijd eerlijk advies en geen verborgen kosten"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Professionele afwerking voor nieuwbouw en renovatie",
+        "Complete afwerking van plafonds, muren en woonruimtes.",
+        "Nieuwbouwwanden direct schilderklaar gemaakt",
+        "Glad pleisterwerk met strak en duurzaam resultaat"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "Stucwerk in Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+      "alt": "Stukadoor Wandmeesters"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": "Stucwerk Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister"
+    },
+    {
+      "type": "faq-group",
+      "items": [
+        {
+          "question": "Werken jullie alleen in regio Hoorn?",
+          "answer": "Naast Noord-Holland werken wij ook door de rest van het land."
+        },
+        {
+          "question": "Geldt het 9% btw-tarief ook voor stucwerk ook in Hoorn?",
+          "answer": "Bij woningen ouder dan 2 jaar geldt vaak het verlaagde btw-tarief van 9%.Voor nieuwbouwwoningen geldt meestal het 21% btw-tarief. Tijdens het offertetraject geven wij altijd helder aan welk btw-percentage van toepassing is op jouw woning of project."
+        },
+        {
+          "question": "Kan latex spuiten ook op plafonds?",
+          "answer": "Ja, latex spuiten is juist ideaal voor plafonds vanwege het strakke en egale resultaat."
+        },
+        {
+          "question": "Hoe snel kunnen jullie starten in Hoorn?",
+          "answer": "Zo snel mogelijk. Vraag vrijblijvend een offerte aan en we bespreken direct de mogelijkheden en beschikbare startmomenten voor jouw woning in Hoorn."
+        },
+        {
+          "question": "Hoe lang moet stucwerk drogen?",
+          "answer": "Dat hangt af van ventilatie, temperatuur en laagdikte. Wij adviseren altijd wanneer verdere afwerking mogelijk is. Ook laten we vooraf het project alles aan je weten, zodat je niet verrast wordt"
+        }
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stukadoor-hoorn/index.html"
+}

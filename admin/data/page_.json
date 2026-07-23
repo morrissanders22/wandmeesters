@@ -1,0 +1,519 @@
+{
+  "slug": "",
+  "title": "Homepagina",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.984454Z",
+  "updated_at": "2026-06-01T15:01:32.984454Z",
+  "published_at": "2026-06-01T15:01:32.984454Z",
+  "meta": {
+    "title": "Homepagina - Wandmeesters",
+    "description": "Bij Wandmeesters verzorgen wij complete wand- en plafondafwerking, van dunpleister tot latex spuitwerk. Vraag een vrijblijvende offerte aan.",
+    "canonical": "https://wandmeesters.nl/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Homepagina - Wandmeesters",
+    "og_description": "Bij Wandmeesters verzorgen wij complete wand- en plafondafwerking, van dunpleister tot latex spuitwerk. Vraag een vrijblijvende offerte aan.",
+    "og_image": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "https://wandmeesters.nl",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "https://wandmeesters.nl",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp",
+          "url": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp",
+          "width": "1200",
+          "height": "630",
+          "caption": "Wandmeesters logo",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/#webpage",
+          "url": "/",
+          "name": "Homepagina - Wandmeesters",
+          "datePublished": "2024-06-19T14:56:22+00:00",
+          "dateModified": "2026-05-05T11:57:03+00:00",
+          "about": {
+            "@id": "/#organization"
+          },
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            "https://wandmeesters.nl"
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Homepagina - Wandmeesters",
+          "keywords": "wand- en plafondafwerking",
+          "datePublished": "2024-06-19T14:56:22+00:00",
+          "dateModified": "2026-05-05T11:57:03+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Bij Wandmeesters verzorgen wij complete wand- en plafondafwerking, van dunpleister tot latex spuitwerk. Vraag een vrijblijvende offerte aan.",
+          "name": "Homepagina - Wandmeesters",
+          "@id": "/#richSnippet",
+          "isPartOf": {
+            "@id": "/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/Untitled-design-2026-04-24T162535.099.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Perfect gladde muren en plafonds"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Vakmanschap"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Van A tot Z"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Heldere communicatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Experts in wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Benieuwd hoe wij te werk gaan?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "15+"
+    },
+    {
+      "type": "heading-h2",
+      "text": "jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Specialist in wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Partners waar we trots op zijn"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Totaaloplossingen voor wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Alles onder één dak"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Efficiënte planning"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Ervaren specialisten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze diensten voor wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze stappen naar topkwaliteit"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Contact & advies"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Offerte op maat"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Planning & voorbereiding"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Uitvoering en evaluatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze projecten: succesvol en inspirerend"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Benieuwd geworden?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "De nieuwste updates"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Ons verhaal"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Maak kennis met ons team"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister uitgelegd"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Klanten aan het woord"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specialist in wand- en plafondafwerking Perfect gladde muren en plafonds Wil je strak afgewerkte wanden en plafonds? Bij Wandmeesters verzorgen wij complete wand- en plafondafwerking, van dunpleister tot latex spuitwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vakmanschap Professioneel stucwerk en verfspuiten met een duurzaam eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stucwerk en schilderwerk in eigen beheer voor een complete afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Snelle communicatie en betrouwbare uitvoering."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wil je gladde muren en plafonds in je woning? Wij ontzorgen je in de complete wand- en plafondafwerking, van dunpleisterwerk en latex spuitwerk tot houtschilderwerk. Zo ben je verzekerd van een strak, sausklaar en egaal eindresultaat, ideaal voor nieuwbouw en renovatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "In deze video krijg je een goed beeld van onze werkwijze en het eindresultaat. Zo weet je precies wat je kunt verwachten van Wandmeesters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring 15+ jaar ervaring 15+ jaar ervaring Specialist in wand- en plafondafwerking Bij Wandmeesters verzorgen wij professionele afwerkingen van wanden en plafonds, of het nu gaat om dunpleisteren, stucwerk of latex spuiten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Partners waar we trots op zijn Meer dan 15 jaar ervaring 0 + Meer dan 530 voltooide projecten 0 + 7 dagen per week bereikbaar 0 Werkzaam in 12 provincies 0 Wat ons uniek maakt Totaaloplossingen voor wand- en plafondafwerking Bij Wandmeesters combineren wij verschillende technieken voor de afwerking van wanden en plafonds in eigen beheer. Daardoor werken wij efficiënter, communiceren we helder en leveren we een strak en duurzaam eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jarenlange ervaring in stucwerk én schilderwerk en verfspuiten voor complete wand- en plafondafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij ontzorgen u voor het gehele traject met korte lijnen, strakke afspraken en een mooier eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eerlijkheid en oprechtheid vinden wij belangrijk: klanten weten bij ons precies waar ze aan toe zijn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jarenlange ervaring in wand- en plafondafwerking voor nieuwbouw en renovatie met precisie en vakmanschap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters biedt een breed scala aan diensten voor wand- en plafondafwerking, perfect afgestemd op de unieke eisen en wensen van uw project, met focus op precisie en kwaliteit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister is een verfijnde afwerkingstechniek waarbij een dunne laag pleister zorgt voor strak en egaal afgewerkte wanden en plafonds. Ideaal voor nieuwbouw en een moderne, naadloze uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex verfspuiten is een professionele techniek waarbij verf egaal wordt aangebracht op wanden en plafonds. Het zorgt voor een strak, streeploos resultaat en een moderne, naadloze uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij ons staan kwaliteit en precisie centraal in elk project. Wij zorgen voor gladde, naadloze wanden en plafonds die de perfecte basis vormen voor verf, behang of andere afwerkingen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Professioneel schilderwerk voor houtwerk. Van kozijnen en deuren tot trappen en plinten: wij zorgen voor een strakke, duurzame afwerking en optimale bescherming van uw houten interieur. Vakkundig voorbereid, netjes afgewerkt en langdurig mooi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Een moderne, naadloze afwerking voor wanden en vloeren. Betoncire is waterdicht, onderhoudsvriendelijk en ideaal voor badkamers, keukens en woonruimtes. Strak aangebracht voor een duurzaam en luxe eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij werken uw zolder professioneel af voor een strak en duurzaam resultaat. Gaatjes, naden en kieren worden zorgvuldig afgewerkt, gevolgd door primer en een schrobvaste latex (klasse 1) voor een egale en goed reinigbare afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete wand- en plafondafwerking in één pakket. Van voorbereiding en stucwerk tot strak gespoten latex in uw gewenste RAL-kleur. Netjes afgeplakt, vakkundig uitgevoerd en perfect afgewerkt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor nieuwbouwwoningen verzorgen wij gladde wanden met dunpleister en strak gespoten latex in uw gewenste RAL-kleur. Vakkundig voorbereid, egaal geschuurd en bezemschoon opgeleverd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij werken volgens een duidelijk stappenplan waarbij kwaliteit, planning en een strak eindresultaat centraal staan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact & advies Neem contact met ons op via telefoon, WhatsApp of e-mail. Samen nemen we uw wensen door."
+    },
+    {
+      "type": "paragraph",
+      "text": "Offerte op maat Op basis van uw situatie ontvangt u een duidelijke en vrijblijvende offerte met heldere afspraken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planning & voorbereiding Na akkoord plannen wij het werk zorgvuldig in en bereiden alles voor conform de afspraak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uitvoering en evaluatie Na oplevering lopen we samen het resultaat na. U betaalt het volledige bedrag pas na afloop."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verken ons indrukwekkende portfolio van projecten die onze expertise en toewijding aan uitmuntendheid weerspiegelen, met als resultaat blije klanten en perfect afgewerkte ruimtes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bekijk meer projecten Dit waren alle projecten. Wandmeesters in beeld Benieuwd geworden? Vraag vrijblijvend een offerte aan voor jouw project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij delen praktijkvoorbeelden, handige tips en inzichten uit ons vak. Zo weet u precies wat mogelijk is voor uw woning of project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ontdek hoe Wandmeesters is ontstaan en hoe wij zijn uitgegroeid tot specialist in strak en duurzaam stucwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leer de vakmensen achter Wandmeesters kennen en ontdek wat ons drijft in stuc- en schilderwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lees onze praktische dunpleisterwerk tips en aandachtspunten voor een strak, egaal en duurzaam eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lees wat onze klanten zeggen over hun ervaringen met Wand Meesters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeer tevreden met het werk, professioneel gedaan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Top werk geleverd. Zeer tevreden!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geweldige resultaten, zou ze aan iedereen aanraden!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect afgewerkt, zeer professioneel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aanrader: snel en strak werk!"
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/80b958d8-74be-46ac-901a-dc94107584e4.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/30650318-c10c-4e74-a33a-3daed6b02489.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/e512ae46-343b-47b7-a084-e7e05859a392.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/Untitled-design-2026-03-19T093852.114.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/804b4d21-5b49-481f-89b3-b84193e9a60c.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/951f2d18-ae63-4c5c-8536-73b1726c6316.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/0357f117-845a-4fc6-bffa-3d7138ecf4e8.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/unnamed-3.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": "dunpleisterwerk"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "latexverfspuiten"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-472x1024.webp",
+      "alt": "stucwerk"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/02/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": "betoncire"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": "stucwerk en latex verfspuiten"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/04/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister en latex. verfspuiten"
+    }
+  ],
+  "migrated_from": "index.html"
+}

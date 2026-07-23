@@ -1,0 +1,142 @@
+{
+  "slug": "bedankpagina",
+  "title": "Bedankpagina",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.801217Z",
+  "updated_at": "2026-06-01T15:03:34.801217Z",
+  "published_at": "2026-06-01T15:03:34.801217Z",
+  "meta": {
+    "title": "Bedankpagina - Wandmeesters",
+    "description": "Bedankt voor je offerte aanvraag bij Wandmeesters. We nemen binnen 1 werkdag contact met je op.",
+    "canonical": "https://wandmeesters.nl/bedankpagina/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Bedankpagina - Wandmeesters",
+    "og_description": "Bedankt voor de aanvraag! We hebben het formulier in goede orde ontvangen, we zullen zo snel mogelijk contact met je opnemen. Terugkeren naar de homepagina",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/bedankpagina/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/bedankpagina/",
+                "name": "Bedankpagina"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/bedankpagina/#webpage",
+          "url": "/bedankpagina/",
+          "name": "Bedankpagina - Wandmeesters",
+          "datePublished": "2024-11-13T08:19:07+00:00",
+          "dateModified": "2026-02-27T09:05:14+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/bedankpagina/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/",
+          "url": "/author/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "inLanguage": "nl-NL"
+          },
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bedankpagina - Wandmeesters",
+          "datePublished": "2024-11-13T08:19:07+00:00",
+          "dateModified": "2026-02-27T09:05:14+00:00",
+          "author": {
+            "@id": "/author/"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "We hebben het formulier in goede orde ontvangen, we zullen zo snel mogelijk contact met je opnemen.",
+          "name": "Bedankpagina - Wandmeesters",
+          "@id": "/bedankpagina/#richSnippet",
+          "isPartOf": {
+            "@id": "/bedankpagina/#webpage"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/bedankpagina/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Bedankt voor de aanvraag!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We hebben het formulier in goede orde ontvangen, we zullen zo snel mogelijk contact met je opnemen."
+    }
+  ],
+  "migrated_from": "bedankpagina/index.html"
+}

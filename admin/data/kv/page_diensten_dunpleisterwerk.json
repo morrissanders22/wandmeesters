@@ -1,0 +1,276 @@
+{
+  "slug": "diensten/dunpleisterwerk",
+  "title": "Dunpleisterwerk",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.814007Z",
+  "updated_at": "2026-06-01T15:03:34.814007Z",
+  "published_at": "2026-06-01T15:03:34.814007Z",
+  "meta": {
+    "title": "Dunpleisterwerk - Wandmeesters",
+    "description": "Dunpleisterwerk voor perfect gladde muren en plafonds. Strak, sausklaar en ideaal als basis voor latex spuitwerk.",
+    "canonical": "https://wandmeesters.nl/diensten/dunpleisterwerk/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Dunpleisterwerk - Wandmeesters",
+    "og_description": "Dunpleisterwerk voor gladde muren en plafonds Wil je gladde muren en plafonds? Met dunpleisterwerk creëren we een strak en sausklaar resultaat, perfect als basis voor latex spuitwerk. Wandmeesters Dunpleisterwerk Wilt u supergladde wanden met dunpleister? Kies voor strak aangebracht dunpleisterwerk en geniet van perfect gladde wanden die direct klaar zijn voor latex spuitwerk of schilderwerk […]",
+    "og_image": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp",
+          "url": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp",
+          "width": "1070",
+          "height": "1920",
+          "caption": "dunpleisterwerk",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/dunpleisterwerk/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/dunpleisterwerk/",
+                "name": "Dunpleisterwerk"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/dunpleisterwerk/#webpage",
+          "url": "/diensten/dunpleisterwerk/",
+          "name": "Dunpleisterwerk - Wandmeesters",
+          "datePublished": "2025-09-05T12:28:05+00:00",
+          "dateModified": "2026-05-12T15:55:46+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/dunpleisterwerk/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Dunpleisterwerk - Wandmeesters",
+          "keywords": "dunpleisterwerk",
+          "datePublished": "2025-09-05T12:28:05+00:00",
+          "dateModified": "2026-05-12T15:55:46+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wil je gladde muren en plafonds? Met dunpleisterwerk creëren we een strak en sausklaar resultaat, perfect als basis voor latex spuitwerk.",
+          "name": "Dunpleisterwerk - Wandmeesters",
+          "@id": "/diensten/dunpleisterwerk/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/dunpleisterwerk/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/IMG_1709-frame-at-0m19s-e1776855522343.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/dunpleisterwerk/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Dunpleisterwerk voor gladde muren en plafonds"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u supergladde wanden met dunpleister?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat is dunpleisterwerk en hoe werkt het?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak en modern afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voordelen van dunpleister voor gladde muren"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister voor nieuwbouw"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Vakwerk dat blijft staan"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw specialist in dunpleisterwerk"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleisterwerk voor gladde muren en plafonds Wil je gladde muren en plafonds? Met dunpleisterwerk creëren we een strak en sausklaar resultaat, perfect als basis voor latex spuitwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kies voor strak aangebracht dunpleisterwerk en geniet van perfect gladde wanden die direct klaar zijn voor latex spuitwerk of schilderwerk met een strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleister is een dunne laag die speciaal wordt gebruikt voor het glad maken van nieuwbouwwanden. In tegenstelling tot traditioneel stucwerk, waarbij dikkere lagen worden aangebracht, wordt dunpleister juist heel dun verwerkt. Hierdoor is het een snelle en efficiënte manier om muren strak en saus klaar te maken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Het resultaat van dunpleister is een gladde wand zonder zichtbare structuur. Dit wordt ook wel sausklare afwerking genoemd. Hierdoor kan de muur direct worden geschilderd of gespoten met latex spuitwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect gladde wanden, ideaal voor nieuwbouwwoningen. Dunpleister wordt machinaal aangebracht voor een strak en egaal resultaat. Snelle verwerking met minimale droogtijd, waardoor u sneller verder kunt met schilderwerk. De ideale basis voor latexverfspuiten of verdere wandafwerking. Dunpleisterwerk Voordelen van dunpleister voor gladde muren Dunpleister heeft verschillende voordelen ten opzichte van traditioneel stucwerk. Een belangrijk voordeel is dat het snel kan worden aangebracht. Omdat de laag dun is, kunnen wij vaak een complete woning binnen korte tijd voorzien van strak pleisterwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daarnaast zorgt dunpleister voor een perfect glad resultaat. De muren zijn na het pleisteren volledig egaal en klaar voor schilderwerk. Dit geeft een woning direct een nette en moderne uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ook is dunpleisterwerk een efficiënte oplossing voor nieuwbouwwoningen. Omdat de muren vaak al vlak zijn, is een dunne pleisterlaag voldoende om kleine oneffenheden weg te werken. Hierdoor blijft het proces snel en efficiënt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleisterwerk wordt voornamelijk toegepast in nieuwbouwwoningen. De muren in nieuwbouw zijn vaak al vlak en recht genoeg, waardoor een dunne afwerklaag voldoende is om een strak en glad eindresultaat te realiseren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters hebben wij ruime ervaring met het dunpleisteren van nieuwbouwwoningen. Dankzij onze expertise weten wij precies hoe we wanden perfect strak en egaal kunnen afwerken, zodat ze direct klaar zijn voor schilder- of sauswerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voordat wij beginnen met het aanbrengen van dunpleister, controleren wij altijd eerst de ondergrond zorgvuldig. Hierbij kijken we of de wanden schoon, droog en voldoende vlak zijn en of er eventuele oneffenheden of beschadigingen aanwezig zijn. Indien nodig herstellen of behandelen wij de ondergrond eerst, zodat het dunpleister optimaal kan hechten en het beste eindresultaat wordt bereikt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunpleisterwerk lijkt misschien eenvoudig, maar echt vakwerk maak je met precisie, ervaring en oog voor detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters nemen we geen shortcuts: elke wand wordt strak, egaal en perfect vlak afgewerkt, klaar om direct te schilderen of te behangen. Geen oneffenheden, geen lapwerk, alleen kwaliteit die blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij luisteren naar je wensen, beantwoorden al je vragen en nemen pas afscheid als het resultaat écht goed is. Dat is het vakmanschap waarop je kunt rekenen – en dat is precies wat wij leveren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is dé expert in dunpleisterwerk voor zowel nieuwbouw als renovatie. Met deze moderne techniek realiseren wij ultradunne, egale en direct overschilderbare wanden. Ideaal voor een strakke, hoogwaardige afwerking zonder onnodig dikke lagen. Dankzij onze ervaring en precisie bent u verzekerd van een perfect eindresultaat."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Dunpleisterwerk"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect gladde wanden, ideaal voor nieuwbouwwoningen.",
+        "Dunpleister wordt machinaal aangebracht voor een strak en egaal resultaat.",
+        "Snelle verwerking met minimale droogtijd, waardoor u sneller verder kunt met schilderwerk.",
+        "De ideale basis voor latexverfspuiten of verdere wandafwerking."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "diensten/dunpleisterwerk/index.html"
+}

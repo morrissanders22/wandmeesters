@@ -1,0 +1,270 @@
+{
+  "slug": "stucwerk-latexspuiten",
+  "title": "Stucwerk + latex spuiten",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.995700Z",
+  "updated_at": "2026-06-01T15:01:32.995700Z",
+  "published_at": "2026-06-01T15:01:32.995700Z",
+  "meta": {
+    "title": "Stucwerk + latex spuiten - Wandmeesters",
+    "description": "Combipakket stucwerk + latex spuiten. Strak, egaal en direct afgewerkt resultaat in één traject.",
+    "canonical": "https://wandmeesters.nl/stucwerk-latexspuiten/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stucwerk + latex spuiten - Wandmeesters",
+    "og_description": "Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie. Wandmeesters Wilt u supergladde wanden met stucwerk en latex spuiten? Wij zorgen voor een strak eindresultaat, snel en vakkundig uitgevoerd. Vraag direct uw offerte […]",
+    "og_image": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp",
+          "url": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp",
+          "width": "996",
+          "height": "778",
+          "caption": "stucwerk + latex spuiten",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/stucwerk-latexspuiten/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/stucwerk-latexspuiten/",
+                "name": "Stucwerk + latex spuiten"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/stucwerk-latexspuiten/#webpage",
+          "url": "/stucwerk-latexspuiten/",
+          "name": "Stucwerk + latex spuiten - Wandmeesters",
+          "datePublished": "2026-03-19T11:20:21+00:00",
+          "dateModified": "2026-05-05T11:54:07+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/stucwerk-latexspuiten/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stucwerk + latex spuiten - Wandmeesters",
+          "keywords": "stucwerk + latex spuiten",
+          "datePublished": "2026-03-19T11:20:21+00:00",
+          "dateModified": "2026-05-05T11:54:07+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie.",
+          "name": "Stucwerk + latex spuiten - Wandmeesters",
+          "@id": "/stucwerk-latexspuiten/#richSnippet",
+          "isPartOf": {
+            "@id": "/stucwerk-latexspuiten/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-17.09.12.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/stucwerk-latexspuiten/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Stucwerk + latex spuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u supergladde wanden met stucwerk en latex spuiten?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Waarom stucwerk en latex spuiten combineren?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Snel en strak afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stucwerk en latex spuiten in één totaaloplossing"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Ideaal voor nieuwbouw en renovatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Kies voor een strak eindresultaat zonder concessies"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw specialist in stucwerk en latex spuiten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stucwerk + latex spuiten Wilt u perfect gladde muren zonder strepen of structuur? Met de combinatie van dunpleisterwerk en latexverf spuiten realiseert Wandmeesters een strak, egaal en direct afgewerkt resultaat. Ideaal voor nieuwbouw en renovatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zorgen voor een strak eindresultaat, snel en vakkundig uitgevoerd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door stucwerk en latex spuiten te combineren, ontstaat een perfect gladde basis met een strak en streeploos eindresultaat. Het stucwerk zorgt voor egale wanden, waarna de latexverf machinaal wordt aangebracht voor een naadloze afwerking zonder banen of aanzetten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze combinatie garandeert een hoogwaardige en consistente afwerking die met traditioneel schilderwerk lastig te bereiken is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perfect gladde wanden Streeploos resultaat door latex spuittechniek Ideaal voor nieuwbouw en renovatie Snelle en efficiënte werkwijze Direct klaar voor gebruik Stucwerk + latex spuiten Stucwerk en latex spuiten in één totaaloplossing Door stucwerk en latex spuiten te combineren, bent u verzekerd van een strak en egaal eindresultaat zonder dubbele werkzaamheden. Wij verzorgen het volledige proces, waardoor alles perfect op elkaar aansluit en zichtbare overgangen worden voorkomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuiten is bovendien sneller dan traditioneel schilderen en zorgt voor een streeploze afwerking, ideaal voor grotere oppervlakken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze combinatie is perfect voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nieuwbouwwoningen Renovatieprojecten Grote wand- en plafondoppervlakken Woningen met een strak en modern interieur Met stucwerk creëren we een egale basis, waarna latex spuiten zorgt voor een strak en streeploos eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Met stucwerk en latex spuiten van Wandmeesters kiest u voor een complete wandafwerking waarbij alles perfect op elkaar aansluit. Van het egaliseren tot het spuiten: wij verzorgen het volledige traject voor een strak, duurzaam en professioneel eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bespaar tijd, voorkom dubbele werkzaamheden en geniet van een woning die tot in detail is afgewerkt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is specialist in stucwerk en latex spuiten voor zowel nieuwbouw als renovatie. Met deze combinatie zorgen wij voor perfect egale wanden en plafonds met een strak, streeploos eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door eerst een gladde en verzorgde basis aan te brengen met stucwerk en deze vervolgens professioneel af te werken met latex spuiten, ontstaat een duurzame afwerking die direct mooi oogt en lang meegaat. Zo bent u verzekerd van kwaliteit, efficiëntie en een resultaat dat tot in detail klopt."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Stucwerk + latex spuiten"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Perfect gladde wanden",
+        "Streeploos resultaat door latex spuittechniek",
+        "Ideaal voor nieuwbouw en renovatie",
+        "Snelle en efficiënte werkwijze",
+        "Direct klaar voor gebruik"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Nieuwbouwwoningen",
+        "Renovatieprojecten",
+        "Grote wand- en plafondoppervlakken",
+        "Woningen met een strak en modern interieur"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "stucwerk-latexspuiten/index.html"
+}

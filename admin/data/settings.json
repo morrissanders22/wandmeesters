@@ -1,0 +1,46 @@
+{
+  "smtp": {
+    "host": "smtp.strato.com",
+    "port": 587,
+    "user": "email@mhsmedia.email",
+    "password": "",
+    "from_email": "email@mhsmedia.email",
+    "from_name": "Wandmeesters",
+    "use_tls": true
+  },
+  "company_email": "info@wandmeesters.nl",
+  "company_bcc": "marjolein@mhsmedia.nl, julian@mhsmedia.nl",
+  "company_reply_to": "[field id=\"field_574f21f\"]",
+  "template_company": {
+    "subject": "Nieuwe offerte aanvraag van [field id=\"name\"]",
+    "body": "[all-fields]",
+    "content_type": "html"
+  },
+  "customer_to": "[field id=\"field_574f21f\"]",
+  "customer_bcc": "marjolein@mhsmedia.nl",
+  "customer_reply_to": "info@wandmeesters.nl",
+  "template_customer": {
+    "subject": "We hebben je offerte aanvraag ontvangen!",
+    "body": "Hoi [field id=\"name\"],<br><br>We hebben uw aanvraag succesvol ontvangen. Op basis van de aangeleverde informatie zullen wij zo snel mogelijk contact met u opnemen om uw vraag te bespreken en om te kijken hoe wij u verder van dienst kunnen zijn.<br><br>Met vriendelijke groet,<br><br>Wandmeesters<br><br><b>Overzicht aanvraag:</b><br>[all-fields]",
+    "content_type": "html"
+  },
+  "brand": {
+    "logo_url": "/wp-content/uploads/logo.png",
+    "primary": "#0a5cad",
+    "accent": "#347677",
+    "font": "Poppins"
+  },
+  "ai": {
+    "provider": "anthropic",
+    "api_key": "",
+    "model": "claude-sonnet-4-5",
+    "max_tokens": 4096
+  },
+  "locale_default": "nl",
+  "integrations": {
+    "blob_token_ok": false,
+    "kv_ok": true,
+    "gsc_property": null,
+    "ga_property_id": null
+  }
+}

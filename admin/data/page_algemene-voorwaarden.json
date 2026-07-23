@@ -1,0 +1,383 @@
+{
+  "slug": "algemene-voorwaarden",
+  "title": "Algemene Voorwaarden",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.912517Z",
+  "updated_at": "2026-06-01T15:01:32.912517Z",
+  "published_at": "2026-06-01T15:01:32.912517Z",
+  "meta": {
+    "title": "Algemene Voorwaarden - Wandmeesters",
+    "description": "De algemene voorwaarden van Wandmeesters voor stucadoorswerk, schilderwerk en wandafwerking.",
+    "canonical": "https://wandmeesters.nl/algemene-voorwaarden/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Algemene Voorwaarden - Wandmeesters",
+    "og_description": "Algemene voorwaarden wandmeesters Artikel 1 – Definities In deze algemene voorwaarden wordt verstaan onder: Opdrachtnemer: wandmeesters, gevestigd te Zwaluwtong 112 1141KS, monnickendam, ingeschreven bij de Kamer van Koophandel onder nummer 93832125 en BTW nummer NL866543880B01. Opdrachtgever: de natuurlijke persoon of rechtspersoon die een overeenkomst sluit met de opdrachtnemer. Overeenkomst: iedere afspraak tussen opdrachtgever en opdrachtnemer […]",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/algemene-voorwaarden/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/algemene-voorwaarden/",
+                "name": "Algemene Voorwaarden"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/algemene-voorwaarden/#webpage",
+          "url": "/algemene-voorwaarden/",
+          "name": "Algemene Voorwaarden - Wandmeesters",
+          "datePublished": "2025-05-27T09:16:13+00:00",
+          "dateModified": "2026-02-27T09:05:10+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/algemene-voorwaarden/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/",
+          "url": "/author/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g",
+            "inLanguage": "nl-NL"
+          },
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Algemene Voorwaarden - Wandmeesters",
+          "datePublished": "2025-05-27T09:16:13+00:00",
+          "dateModified": "2026-02-27T09:05:10+00:00",
+          "author": {
+            "@id": "/author/"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "In deze algemene voorwaarden wordt verstaan onder:",
+          "name": "Algemene Voorwaarden - Wandmeesters",
+          "@id": "/algemene-voorwaarden/#richSnippet",
+          "isPartOf": {
+            "@id": "/algemene-voorwaarden/#webpage"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/algemene-voorwaarden/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Algemene voorwaarden wandmeesters"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 1 – Definities"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 2 – Toepasselijkheid"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 3 – Offertes en aanbiedingen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 4 – Totstandkoming van de overeenkomst"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 5 – Uitvoering van de overeenkomst"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 6 – Levering en uitvoeringstermijnen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 7 – Prijzen en betaling"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 8 – Aansprakelijkheid"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 9 – Overmacht"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 10 – Intellectueel eigendom"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 11 – Klachten en geschillen"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Artikel 12 – Contactgegevens"
+    },
+    {
+      "type": "paragraph",
+      "text": "In deze algemene voorwaarden wordt verstaan onder:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtnemer: wandmeesters, gevestigd te Zwaluwtong 112 1141KS, monnickendam, ingeschreven bij de Kamer van Koophandel onder nummer 93832125 en BTW nummer NL866543880B01."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtgever: de natuurlijke persoon of rechtspersoon die een overeenkomst sluit met de opdrachtnemer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overeenkomst: iedere afspraak tussen opdrachtgever en opdrachtnemer tot het verlenen van diensten of levering van producten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze algemene voorwaarden zijn van toepassing op alle aanbiedingen, offertes, overeenkomsten en leveringen van opdrachtnemer, tenzij schriftelijk anders is overeengekomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eventuele algemene voorwaarden van de opdrachtgever worden uitdrukkelijk van de hand gewezen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alle offertes en aanbiedingen van opdrachtnemer zijn vrijblijvend, tenzij uitdrukkelijk anders vermeld."
+    },
+    {
+      "type": "paragraph",
+      "text": "Een offerte is maximaal 30 dagen geldig, tenzij anders aangegeven."
+    },
+    {
+      "type": "paragraph",
+      "text": "De overeenkomst komt tot stand op het moment dat de opdrachtgever schriftelijk of mondeling akkoord geeft op de offerte of opdrachtbevestiging van opdrachtnemer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtnemer zal de overeenkomst naar beste inzicht en vermogen uitvoeren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtgever draagt er zorg voor dat alle gegevens waarvan opdrachtnemer aangeeft dat deze noodzakelijk zijn, tijdig worden verstrekt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opgegeven leveringstermijnen zijn indicatief en geven opdrachtgever bij overschrijding geen recht op schadevergoeding of ontbinding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levering vindt plaats op het moment dat het product of de dienst door opdrachtnemer aan opdrachtgever is overgedragen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alle vermelde prijzen zijn exclusief BTW en andere heffingen van overheidswege."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betaling dient te geschieden binnen 14 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij niet-tijdige betaling is opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtnemer is niet aansprakelijk voor schade, van welke aard ook, ontstaan doordat opdrachtnemer is uitgegaan van door de opdrachtgever verstrekte onjuiste of onvolledige gegevens."
+    },
+    {
+      "type": "paragraph",
+      "text": "De aansprakelijkheid van opdrachtnemer is in elk geval beperkt tot het bedrag dat door de aansprakelijkheidsverzekering wordt uitgekeerd, dan wel tot het factuurbedrag van de overeenkomst."
+    },
+    {
+      "type": "paragraph",
+      "text": "In geval van overmacht is opdrachtnemer gerechtigd de uitvoering van de overeenkomst op te schorten of de overeenkomst geheel of gedeeltelijk te ontbinden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onder overmacht wordt onder andere verstaan: storingen in de energie- of materiaalaanvoer, overheidsmaatregelen, ziekte, brand, stakingen of andere onvoorziene omstandigheden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alle door opdrachtnemer verstrekte stukken, ontwerpen, programma’s of andere materialen blijven eigendom van opdrachtnemer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opdrachtgever verkrijgt uitsluitend een niet-exclusief en niet-overdraagbaar gebruiksrecht, tenzij anders overeengekomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Klachten over de uitvoering van de overeenkomst dienen binnen 7 dagen na ontdekking schriftelijk en gemotiveerd bij opdrachtnemer te worden ingediend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Op deze overeenkomst is uitsluitend Nederlands recht van toepassing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alle geschillen zullen worden voorgelegd aan de bevoegde rechter in het arrondissement waarin wandmeesters is gevestigd."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor vragen of opmerkingen kunt u contact opnemen via:"
+    },
+    {
+      "type": "paragraph",
+      "text": "E-mail: info@wandmeesters.nl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Telefoon: +31 6 36306402"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adres: Zwaluwtong 112 1141KS, monnickendam"
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Opdrachtnemer: wandmeesters, gevestigd te Zwaluwtong 112 1141KS, monnickendam, ingeschreven bij de Kamer van Koophandel onder nummer 93832125 en BTW nummer NL866543880B01.",
+        "Opdrachtgever: de natuurlijke persoon of rechtspersoon die een overeenkomst sluit met de opdrachtnemer.",
+        "Overeenkomst: iedere afspraak tussen opdrachtgever en opdrachtnemer tot het verlenen van diensten of levering van producten."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Deze algemene voorwaarden zijn van toepassing op alle aanbiedingen, offertes, overeenkomsten en leveringen van opdrachtnemer, tenzij schriftelijk anders is overeengekomen.",
+        "Eventuele algemene voorwaarden van de opdrachtgever worden uitdrukkelijk van de hand gewezen."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Alle offertes en aanbiedingen van opdrachtnemer zijn vrijblijvend, tenzij uitdrukkelijk anders vermeld.",
+        "Een offerte is maximaal 30 dagen geldig, tenzij anders aangegeven."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Opdrachtnemer zal de overeenkomst naar beste inzicht en vermogen uitvoeren.",
+        "Opdrachtgever draagt er zorg voor dat alle gegevens waarvan opdrachtnemer aangeeft dat deze noodzakelijk zijn, tijdig worden verstrekt."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Opgegeven leveringstermijnen zijn indicatief en geven opdrachtgever bij overschrijding geen recht op schadevergoeding of ontbinding.",
+        "Levering vindt plaats op het moment dat het product of de dienst door opdrachtnemer aan opdrachtgever is overgedragen."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Alle vermelde prijzen zijn exclusief BTW en andere heffingen van overheidswege.",
+        "Betaling dient te geschieden binnen 14 dagen na factuurdatum, tenzij schriftelijk anders overeengekomen.",
+        "Bij niet-tijdige betaling is opdrachtgever van rechtswege in verzuim en is wettelijke rente verschuldigd."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Opdrachtnemer is niet aansprakelijk voor schade, van welke aard ook, ontstaan doordat opdrachtnemer is uitgegaan van door de opdrachtgever verstrekte onjuiste of onvolledige gegevens.",
+        "De aansprakelijkheid van opdrachtnemer is in elk geval beperkt tot het bedrag dat door de aansprakelijkheidsverzekering wordt uitgekeerd, dan wel tot het factuurbedrag van de overeenkomst."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "In geval van overmacht is opdrachtnemer gerechtigd de uitvoering van de overeenkomst op te schorten of de overeenkomst geheel of gedeeltelijk te ontbinden.",
+        "Onder overmacht wordt onder andere verstaan: storingen in de energie- of materiaalaanvoer, overheidsmaatregelen, ziekte, brand, stakingen of andere onvoorziene omstandigheden."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Alle door opdrachtnemer verstrekte stukken, ontwerpen, programma’s of andere materialen blijven eigendom van opdrachtnemer.",
+        "Opdrachtgever verkrijgt uitsluitend een niet-exclusief en niet-overdraagbaar gebruiksrecht, tenzij anders overeengekomen."
+      ]
+    },
+    {
+      "type": "list-ol",
+      "items": [
+        "Klachten over de uitvoering van de overeenkomst dienen binnen 7 dagen na ontdekking schriftelijk en gemotiveerd bij opdrachtnemer te worden ingediend.",
+        "Op deze overeenkomst is uitsluitend Nederlands recht van toepassing.",
+        "Alle geschillen zullen worden voorgelegd aan de bevoegde rechter in het arrondissement waarin wandmeesters is gevestigd."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "E-mail: info@wandmeesters.nl",
+        "Telefoon: +31 6 36306402",
+        "Adres: Zwaluwtong 112 1141KS, monnickendam"
+      ]
+    }
+  ],
+  "migrated_from": "algemene-voorwaarden/index.html"
+}

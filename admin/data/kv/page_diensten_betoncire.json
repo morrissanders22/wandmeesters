@@ -1,0 +1,283 @@
+{
+  "slug": "diensten/betoncire",
+  "title": "Betoncire",
+  "status": "published",
+  "template": "dienst",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:03:34.811462Z",
+  "updated_at": "2026-06-01T15:03:34.811462Z",
+  "published_at": "2026-06-01T15:03:34.811462Z",
+  "meta": {
+    "title": "Betoncire - Wandmeesters",
+    "description": "Betoncire voor strakke, naadloze wanden, vloeren of badkamers met een industriële, eigentijdse uitstraling.",
+    "canonical": "https://wandmeesters.nl/diensten/betoncire/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Betoncire - Wandmeesters",
+    "og_description": "Op zoek naar een moderne en waterdichte afwerking? Met betoncire creëert Wandmeesters een strak, naadloos en duurzaam oppervlak voor wanden, vloeren en badkamers. Wandmeesters Wilt u betoncire laten aanbrengen door een specialist? Bij Wandmeesters zorgen we voor een strak en naadloos eindresultaat. Vraag direct uw offerte aan Wat is betoncire? Betoncire is een sterke en […]",
+    "og_image": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp",
+          "url": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp",
+          "width": "1920",
+          "height": "1440",
+          "caption": "betoncire",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/betoncire/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/betoncire/",
+                "name": "Betoncire"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/betoncire/#webpage",
+          "url": "/diensten/betoncire/",
+          "name": "Betoncire - Wandmeesters",
+          "datePublished": "2026-03-19T12:39:59+00:00",
+          "dateModified": "2026-05-05T11:47:25+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/betoncire/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Betoncire - Wandmeesters",
+          "keywords": "betoncire",
+          "datePublished": "2026-03-19T12:39:59+00:00",
+          "dateModified": "2026-05-05T11:47:25+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Op zoek naar een moderne en waterdichte afwerking? Met betoncire creëert Wandmeesters een strak, naadloos en duurzaam oppervlak voor wanden, vloeren en badkamers.",
+          "name": "Betoncire - Wandmeesters",
+          "@id": "/diensten/betoncire/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/betoncire/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/7b2f7745-992d-4638-a5f7-b7a6f7535736.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/betoncire/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wilt u betoncire laten aanbrengen door een specialist?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat is betoncire?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Strak en modern afgewerkt"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voordelen van betoncire"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Betoncire voor nieuwbouw en renovatie"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Voor welke toepassingen is betoncire geschikt?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Uw specialist in betoncire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Betoncire Op zoek naar een moderne en waterdichte afwerking? Met betoncire creëert Wandmeesters een strak, naadloos en duurzaam oppervlak voor wanden, vloeren en badkamers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters zorgen we voor een strak en naadloos eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betoncire is een sterke en waterdichte afwerklaag op basis van cement, die zorgt voor een strak en naadloos oppervlak zonder voegen. Het wordt veel toegepast op wanden, vloeren en in badkamers voor een moderne en luxe uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters brengen wij betoncire vakkundig aan op diverse ondergronden. Door onze nauwkeurige werkwijze ontstaat een egaal, slijtvast en duurzaam eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Naadloze afwerking zonder voegen Waterdicht en ideaal voor badkamers Slijtvast en duurzaam Moderne, luxe uitstraling Geschikt voor wanden en vloeren Betoncire Voordelen van betoncire Betoncire combineert een strakke uitstraling met praktische voordelen. Doordat het naadloos wordt aangebracht, is het eenvoudig schoon te houden en zeer geschikt voor vochtige ruimtes zoals badkamers en keukens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daarnaast is betoncire sterk en slijtvast, waardoor het langdurig mooi blijft. Het geeft uw interieur een moderne en minimalistische uitstraling die perfect past bij zowel nieuwbouw als renovatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betoncire is een moderne afwerking die zowel in nieuwbouw als bij renovatie zorgt voor een strak en naadloos eindresultaat. In nieuwbouwwoningen geeft het direct een luxe en eigentijdse uitstraling, terwijl het bij renovatie ideaal is om bestaande oppervlakken te vernieuwen zonder ingrijpende verbouwingen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij Wandmeesters combineren wij vakmanschap met hoogwaardige materialen. We zorgen voor een correcte opbouw en voorbereiding van de ondergrond, zodat de betoncire optimaal hecht en langdurig mooi blijft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of het nu gaat om een badkamer, keuken of woonruimte, wij realiseren een strakke en duurzame afwerking die perfect aansluit bij uw interieur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betoncire is een veelzijdige afwerking die geschikt is voor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Badkamers en douches Keukens en achterwanden Wanden en vloeren Toiletruimtes Moderne woonruimtes Dankzij de naadloze en waterdichte eigenschappen is betoncire ideaal voor ruimtes waar uitstraling en gebruiksgemak samenkomen. Het resultaat is een strak, onderhoudsvriendelijk oppervlak dat perfect past in een modern interieur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wandmeesters is dé specialist in het aanbrengen van betoncire voor zowel nieuwbouw als renovatie. Met onze ervaring en precisie realiseren wij naadloze, strakke oppervlakken met een hoogwaardige en duurzame afwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Door te werken met de juiste opbouw en materialen zorgen wij voor een waterdicht en slijtvast resultaat dat bestand is tegen intensief gebruik en langdurig mooi blijft."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Betoncire"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Naadloze afwerking zonder voegen",
+        "Waterdicht en ideaal voor badkamers",
+        "Slijtvast en duurzaam",
+        "Moderne, luxe uitstraling",
+        "Geschikt voor wanden en vloeren"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Badkamers en douches",
+        "Keukens en achterwanden",
+        "Wanden en vloeren",
+        "Toiletruimtes",
+        "Moderne woonruimtes"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    }
+  ],
+  "migrated_from": "diensten/betoncire/index.html"
+}

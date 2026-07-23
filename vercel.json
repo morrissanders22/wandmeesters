@@ -1,0 +1,163 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "functions": {
+    "api/index.py": {
+      "excludeFiles": "{wp-content,wp-includes,project,projecten,diensten,over-ons,contact,author,category,bedankpagina,cookiebeleid,algemene-voorwaarden,privacy-policy,dunpleister-latexspuiten,stucwerk-latexspuiten}/**"
+    }
+  },
+  "redirects": [
+    { "source": "/hallo-wereld",  "destination": "/", "permanent": true },
+    { "source": "/hallo-wereld/", "destination": "/", "permanent": true },
+    { "source": "/project/:slug",  "destination": "/projecten/", "permanent": true },
+    { "source": "/project/:slug/", "destination": "/projecten/", "permanent": true }
+  ],
+  "rewrites": [
+    { "source": "/inloggen",         "destination": "/api/index" },
+    { "source": "/inloggen/",        "destination": "/api/index" },
+    { "source": "/uitloggen",        "destination": "/api/index" },
+    { "source": "/uitloggen/",       "destination": "/api/index" },
+    { "source": "/admin",            "destination": "/api/index" },
+    { "source": "/admin/",           "destination": "/api/index" },
+    { "source": "/admin/:path*",     "destination": "/api/index" },
+    { "source": "/api/submit",       "destination": "/api/index" },
+    { "source": "/api/submit/",      "destination": "/api/index" },
+    { "source": "/api/track",        "destination": "/api/index" },
+    { "source": "/api/track/",       "destination": "/api/index" },
+    { "source": "/api/chat",         "destination": "/api/index" },
+    { "source": "/api/chat/",        "destination": "/api/index" },
+    { "source": "/api/leads",        "destination": "/api/index" },
+    { "source": "/api/leads/",       "destination": "/api/index" },
+    { "source": "/api/leads/:id",    "destination": "/api/index" },
+    { "source": "/api/leads/:id/",   "destination": "/api/index" },
+    { "source": "/api/settings",     "destination": "/api/index" },
+    { "source": "/api/settings/",    "destination": "/api/index" },
+    { "source": "/api/smtp-test",    "destination": "/api/index" },
+    { "source": "/api/smtp-test/",   "destination": "/api/index" },
+    { "source": "/api/meta",         "destination": "/api/index" },
+    { "source": "/api/meta/",        "destination": "/api/index" },
+    { "source": "/api/pages",        "destination": "/api/index" },
+    { "source": "/api/pages/",       "destination": "/api/index" },
+    { "source": "/api/pages/(.*)",   "destination": "/api/index" },
+    { "source": "/api/sitemap",      "destination": "/api/index" },
+    { "source": "/api/sitemap/",     "destination": "/api/index" },
+    { "source": "/api/media",        "destination": "/api/index" },
+    { "source": "/api/media/",       "destination": "/api/index" },
+    { "source": "/api/media/(.*)",   "destination": "/api/index" },
+    { "source": "/api/menus",                       "destination": "/api/index" },
+    { "source": "/api/menus/",                      "destination": "/api/index" },
+    { "source": "/api/menus/:name",                 "destination": "/api/index" },
+    { "source": "/api/page-autocomplete",           "destination": "/api/index" },
+    { "source": "/api/page-autocomplete/",          "destination": "/api/index" },
+    { "source": "/api/page-chat",                   "destination": "/api/index" },
+    { "source": "/api/page-chat/",                  "destination": "/api/index" },
+    { "source": "/api/page-chat/apply",             "destination": "/api/index" },
+    { "source": "/api/page-chat/apply/",            "destination": "/api/index" },
+    { "source": "/api/dashboard/stats",             "destination": "/api/index" },
+    { "source": "/api/dashboard/stats/",            "destination": "/api/index" },
+    { "source": "/api/integrations/health",         "destination": "/api/index" },
+    { "source": "/api/integrations/health/",        "destination": "/api/index" },
+    { "source": "/api/ai-test",                     "destination": "/api/index" },
+    { "source": "/api/ai-test/",                    "destination": "/api/index" },
+    { "source": "/api/audit-log",                   "destination": "/api/index" },
+    { "source": "/api/audit-log/",                  "destination": "/api/index" },
+    { "source": "/api/blocks/library",              "destination": "/api/index" },
+    { "source": "/api/blocks/library/",             "destination": "/api/index" },
+    { "source": "/api/links/audit",                 "destination": "/api/index" },
+    { "source": "/api/links/audit/",                "destination": "/api/index" },
+    { "source": "/api/media/stats",                 "destination": "/api/index" },
+    { "source": "/api/media/stats/",                "destination": "/api/index" },
+    { "source": "/api/media/upload",                "destination": "/api/index" },
+    { "source": "/api/media/upload/",               "destination": "/api/index" },
+    { "source": "/api/admin/pages",                 "destination": "/api/index" },
+    { "source": "/api/admin/pages/",                "destination": "/api/index" },
+    { "source": "/api/admin/pages/(.*)",            "destination": "/api/index" },
+    { "source": "/api/admin/media",                 "destination": "/api/index" },
+    { "source": "/api/admin/media/",                "destination": "/api/index" },
+    { "source": "/api/admin/media/(.*)",            "destination": "/api/index" },
+    { "source": "/api/admin/dienst-template",        "destination": "/api/index" },
+    { "source": "/api/admin/dienst-template/",       "destination": "/api/index" },
+    { "source": "/api/admin/dienst-template/(.*)",   "destination": "/api/index" },
+    { "source": "/api/admin/locatie-template",       "destination": "/api/index" },
+    { "source": "/api/admin/locatie-template/",      "destination": "/api/index" },
+    { "source": "/api/admin/locatie-template/(.*)",  "destination": "/api/index" },
+    { "source": "/api/admin/dienst-html",            "destination": "/api/index" },
+    { "source": "/api/admin/dienst-html/(.*)",       "destination": "/api/index" },
+    { "source": "/review",                          "destination": "/api/index" },
+    { "source": "/review/",                         "destination": "/api/index" },
+    { "source": "/api/review-config",               "destination": "/api/index" },
+    { "source": "/api/review-config/",              "destination": "/api/index" },
+    { "source": "/api/review-feedback",             "destination": "/api/index" },
+    { "source": "/api/review-feedback/",            "destination": "/api/index" },
+    { "source": "/api/admin/review-feedback",       "destination": "/api/index" },
+    { "source": "/api/admin/review-feedback/",      "destination": "/api/index" },
+    { "source": "/api/leads/:id/send-review-request", "destination": "/api/index" },
+    { "source": "/api/leads/:id/send-review-request/", "destination": "/api/index" },
+    { "source": "/api/admin/invoices",              "destination": "/api/index" },
+    { "source": "/api/admin/invoices/",             "destination": "/api/index" },
+    { "source": "/api/admin/invoices/(.*)",         "destination": "/api/index" },
+    { "source": "/api/admin/leads/(.*)",            "destination": "/api/index" },
+    { "source": "/diensten/:slug",                  "destination": "/api/index" },
+    { "source": "/diensten/:slug/",                 "destination": "/api/index" },
+    { "source": "/diensten/(.*)/",                  "destination": "/api/index" },
+    { "source": "/diensten/(.*)",                   "destination": "/api/index" }
+  ],
+  "headers": [
+    {
+      "source": "/admin(.*)",
+      "headers": [
+        { "key": "Content-Security-Policy", "value": "default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' https: data:; img-src 'self' https: data: blob:; connect-src 'self' https:; frame-src https:; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'" },
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|otf)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/wp-content/(.*)\\.(css|js)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=2592000" }
+      ]
+    },
+    {
+      "source": "/wp-includes/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/wp-content/(.*)\\.(js|css|woff|woff2|ttf|otf)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/((?!admin|api/admin).*)",
+      "headers": [
+        { "key": "Content-Security-Policy", "value": "default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' https: data: blob:; connect-src 'self' https:; frame-src https://www.youtube.com https://*.google.com; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'" }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        { "key": "Permissions-Policy", "value": "geolocation=(), camera=(), microphone=(), interest-cohort=()" },
+        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains; preload" },
+        { "key": "Cross-Origin-Opener-Policy", "value": "same-origin" }
+      ]
+    }
+  ]
+}

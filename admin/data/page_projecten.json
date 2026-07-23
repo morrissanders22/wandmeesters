@@ -1,0 +1,204 @@
+{
+  "slug": "projecten",
+  "title": "Projecten",
+  "status": "published",
+  "template": "basic-page",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.992850Z",
+  "updated_at": "2026-06-01T15:01:32.992850Z",
+  "published_at": "2026-06-01T15:01:32.992850Z",
+  "meta": {
+    "title": "Projecten - Wandmeesters",
+    "description": "Recente projecten van Wandmeesters: stuc-, latex- en betoncirewerk in heel Nederland.",
+    "canonical": "https://wandmeesters.nl/projecten/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Projecten - Wandmeesters",
+    "og_description": "Bekijk ons uitgebreide portfolio van afgeronde projecten, waar we met trots onze expertise in stuc- en schilderwerk tonen. wandmeesters Pagina Wat we al hebben gedaan Onze projecten: van visie naar realiteit Duik in ons uitgebreide portfolio en ontdek hoe onze expertise en op maat gemaakte oplossingen bijdragen aan het realiseren van de ambities van onze […]",
+    "og_image": "",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/projecten/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/projecten/",
+                "name": "Projecten"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/projecten/#webpage",
+          "url": "/projecten/",
+          "name": "Projecten - Wandmeesters",
+          "datePublished": "2024-06-23T12:36:31+00:00",
+          "dateModified": "2026-05-05T11:57:45+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/projecten/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Projecten - Wandmeesters",
+          "keywords": "projecten",
+          "datePublished": "2024-06-23T12:36:31+00:00",
+          "dateModified": "2026-05-05T11:57:45+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Bekijk ons uitgebreide portfolio van afgeronde projecten, waar we met trots onze expertise in stuc- en schilderwerk tonen.",
+          "name": "Projecten - Wandmeesters",
+          "@id": "/projecten/#richSnippet",
+          "isPartOf": {
+            "@id": "/projecten/#webpage"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/projecten/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h2",
+      "text": "Projecten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze projecten: van visie naar realiteit"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Onze stappen naar topkwaliteit"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Contact & advies"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Offerte op maat"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Planning & voorbereiding"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Uitvoering en evaluatie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Projecten Bekijk ons uitgebreide portfolio van afgeronde projecten, waar we met trots onze expertise in stuc- en schilderwerk tonen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duik in ons uitgebreide portfolio en ontdek hoe onze expertise en op maat gemaakte oplossingen bijdragen aan het realiseren van de ambities van onze klanten, wat resulteert in een reeks van succesvolle projecten die onze toewijding aan kwaliteit en innovatie benadrukken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onze werkwijze Onze stappen naar topkwaliteit Wij werken volgens een duidelijk stappenplan waarbij kwaliteit, planning en een strak eindresultaat centraal staan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact & advies Neem contact met ons op via telefoon, WhatsApp of e-mail. Samen nemen we uw wensen door."
+    },
+    {
+      "type": "paragraph",
+      "text": "Offerte op maat Op basis van uw situatie ontvangt u een duidelijke en vrijblijvende offerte met heldere afspraken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planning & voorbereiding Na akkoord plannen wij het werk zorgvuldig in en bereiden alles voor conform de afspraak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uitvoering en evaluatie Wij voeren het werk netjes en vakkundig uit. Na afronding lopen we samen het resultaat na."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Wandmeesters",
+        "Projecten"
+      ]
+    }
+  ],
+  "migrated_from": "projecten/index.html"
+}

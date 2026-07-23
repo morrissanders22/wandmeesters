@@ -1,0 +1,444 @@
+{
+  "slug": "diensten/stukadoor-almere",
+  "title": "Stukadoor in Almere | Voor muren &amp; plafonds",
+  "status": "published",
+  "template": "stukadoor-stad",
+  "locale": "nl",
+  "parent": null,
+  "menu_position": 0,
+  "scheduled_publish_at": null,
+  "author": "migration",
+  "created_at": "2026-06-01T15:01:32.950887Z",
+  "updated_at": "2026-06-01T15:01:32.950887Z",
+  "published_at": "2026-06-01T15:01:32.950887Z",
+  "meta": {
+    "title": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters",
+    "description": "Strakke muren zonder naden of banen? Kies voor professioneel stucwerk en latex spuiten door Wandmeesters. Al 15 jaar dé stukadoor in Almere!",
+    "canonical": "https://wandmeesters.nl/diensten/stukadoor-almere/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og_title": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters",
+    "og_description": "Strakke muren zonder naden of banen? Kies voor professioneel stucwerk en latex spuiten door Wandmeesters. Al 15 jaar dé stukadoor in Almere!",
+    "og_image": "/wp-content/uploads/2026/04/IMG_0160-768x1024.webp",
+    "twitter_card": "summary_large_image",
+    "twitter_image": "/wp-content/uploads/2026/04/IMG_0160-768x1024.webp",
+    "hreflang": [],
+    "keyword": "",
+    "schema_jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "/#organization",
+          "name": "Wandmeesters",
+          "url": "",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "/#logo",
+            "url": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "contentUrl": "/wp-content/uploads/2026/02/image-f7a8b908-7c2f-41ab-8cfd-ab773849947e.webp",
+            "caption": "Wandmeesters",
+            "inLanguage": "nl-NL",
+            "width": "2963",
+            "height": "598"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "/#website",
+          "url": "",
+          "name": "Wandmeesters",
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "/wp-content/uploads/2026/04/IMG_0160.webp",
+          "url": "/wp-content/uploads/2026/04/IMG_0160.webp",
+          "width": "1536",
+          "height": "2048",
+          "caption": "stucwerk in regio Noord-Holland",
+          "inLanguage": "nl-NL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "/diensten/stukadoor-almere/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/diensten/",
+                "name": "Diensten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/diensten/stukadoor-almere/",
+                "name": "Stukadoor Almere"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "/diensten/stukadoor-almere/#webpage",
+          "url": "/diensten/stukadoor-almere/",
+          "name": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters",
+          "datePublished": "2026-05-27T07:29:05+00:00",
+          "dateModified": "2026-05-27T13:09:01+00:00",
+          "isPartOf": {
+            "@id": "/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "/wp-content/uploads/2026/04/IMG_0160.webp"
+          },
+          "inLanguage": "nl-NL",
+          "breadcrumb": {
+            "@id": "/diensten/stukadoor-almere/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "/author/admin/",
+          "name": "admin",
+          "url": "/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7d0d352f0d155f85e4175bb8c52df0ab914cced78657959b7a8881a1eab4e1ac?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "nl-NL"
+          },
+          "sameAs": [
+            ""
+          ],
+          "worksFor": {
+            "@id": "/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters",
+          "keywords": "stukadoor in almere",
+          "datePublished": "2026-05-27T07:29:05+00:00",
+          "dateModified": "2026-05-27T13:09:01+00:00",
+          "author": {
+            "@id": "/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "/#organization"
+          },
+          "description": "Strakke muren zonder naden of banen? Kies voor professioneel stucwerk en latex spuiten door Wandmeesters. Al 15 jaar dé stukadoor in Almere!",
+          "name": "Stukadoor in Almere | Voor muren &amp; plafonds | Wandmeesters",
+          "@id": "/diensten/stukadoor-almere/#richSnippet",
+          "isPartOf": {
+            "@id": "/diensten/stukadoor-almere/#webpage"
+          },
+          "image": {
+            "@id": "/wp-content/uploads/2026/04/IMG_0160.webp"
+          },
+          "inLanguage": "nl-NL",
+          "mainEntityOfPage": {
+            "@id": "/diensten/stukadoor-almere/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "content_blocks": [
+    {
+      "type": "heading-h1",
+      "text": "Stukadoor Almere"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Gladde afwerking"
+    },
+    {
+      "type": "heading-h4",
+      "text": "Alles onder één plek"
+    },
+    {
+      "type": "heading-h4",
+      "text": "15+ jaar ervaring"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Profesioneel stucwerk of houtschilderwerk in Almere nodig?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stukadoorsbedrijf in Almere"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Gladde muren & plafonds"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Bekijk onze diensten voor wand- en plafondafwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleisterwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Houtschilderwerk"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Betoncire"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Zolderplaat afwerking"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Stucwerk & latex verfspuiten"
+    },
+    {
+      "type": "heading-h3",
+      "text": "Dunpleister & latex verfspuiten"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Combi-deal: latex spuiten en stucwerk combineren"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Dunpleister & latex verfspuiten combineren"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Wat kost een stukadoor in Almere?"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Stucwerk en schilderdiensten in Almere"
+    },
+    {
+      "type": "heading-h2",
+      "text": "Veelgestelde vragen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Almere Wandmeesters verzorgt professioneel stucwerk in Almere voor nieuwbouw, renovaties en complete wandafwerking met een modern eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gladde afwerking Vakwerk met oog voor detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stucwerk én afwerking geregeld."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vakmanschap opgebouwd door jaren ervaring."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stukadoor Almere Heb je een stukadoor nodig in Almere? Wandmeesters zijn dé partij voor nieuwbouw, renovaties en complete wandafwerking met strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kies voor professioneel stucwerk en geniet van strak afgewerkte muren en plafonds met een glad en modern resultaat. Perfect voorbereid voor schilderwerk of verdere wandafwerking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goed stucwerk bepaalt voor een groot deel de uitstraling van een woning. Oneffen muren, beschadigingen of zichtbaar structuurwerk kunnen een ruimte onrustig laten ogen. Met professioneel stucwerk creëren we gladde wanden en plafonds die zorgen voor een moderne, rustige uitstraling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doordat wij meerdere werkzaamheden combineren, hoeven klanten niet verschillende partijen in te schakelen. Dat werkt efficiënter en zorgt voor een mooier eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glad afgewerkte wanden en plafonds met een strak eindresultaat. Hoogwaardig stucwerk uitgevoerd met precisie en vakkennis. Perfect voor zowel moderne nieuwbouw als renovatiewoningen. Een ideale ondergrond voor latex spuiten of schilderwerk. Wat we voor u kunnen doen Bekijk onze diensten voor wand- en plafondafwerking Van glad stucwerk tot latex spuitwerk: Wandmeesters verzorgt complete wand en plafondafwerking. Bekijk hieronder onze diensten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bekijk onze interessante combi-deal voor latex spuiten en stucwerk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze methode zorgt voor een strak en egaal eindresultaat zonder strepen of rollerbanen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij traditionele verfrollers blijven vaak lichte structuurverschillen zichtbaar. Vooral bij veel daglicht of grote wandoppervlakken valt dat snel op."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latex spuiten geeft juist een rustige en egale uitstraling:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Een egaal resultaat Geen strepen of banen Ideaal voor plafonds Strakke afwerking Snel resultaat Stucwerk Dunpleister & latex verfspuiten combineren Dunpleister in combinatie met latex verfspuiten wordt veel gekozen bij nieuwbouwwoningen en moderne renovaties. Deze werkwijze is ideaal voor muren die al vrij vlak zijn, maar nog niet strak genoeg om direct af te werken met verf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Met dunpleister egaliseren we kleine oneffenheden en zorgen we voor een glad oppervlak. Vervolgens werken we de muren en plafonds strak af met latex spuitwerk voor een egaal resultaat zonder strepen of banen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vooral in nieuwbouw is deze combinatie populair. Nieuwbouwwanden worden vaak behangklaar opgeleverd, maar bevatten in de praktijk regelmatig lichte structuurverschillen, kleine beschadigingen of zichtbare aansluitingen."
+    },
+    {
+      "type": "paragraph",
+      "text": "De prijs van een stukadoor is afhankelijk van de woning, de conditie van de muren en het soort afwerking dat nodig is. Iedere situatie is anders, daarom ontvang je bij Wandmeesters altijd een vrijblijvende offerte met direct duidelijk inzicht in de kosten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voor woningen ouder dan 2 jaar geldt in veel gevallen het verlaagde btw-tarief van 9% op stucwerk. Bij nieuwbouwwoningen is doorgaans het 21% btw-tarief van toepassing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij zijn actief in Almere en omliggende plaatsen zoals Lelystad, Zeewolde, Huizen, Naarden, Bussum en ’t Gooi. Van appartementen in het centrum van Almere tot moderne nieuwbouwwoningen in Almere Poort, Almere Buiten en Almere Haven verzorgen wij complete wand- en plafondafwerking met een strak eindresultaat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expertise Kwaliteit Ervaring Veelgestelde vragen Kunnen jullie ook buiten Almere ingeschakeld worden Ja. Wij zijn actief in heel Nederland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij bestaande woningen ouder dan 2 jaar geldt het verlaagde btw-tarief van 9% op stucwerkzaamheden. Voor nieuwbouwwoningen geldt doorgaans het standaardtarief van 21% btw. Benieuwd naar de voorwaarden of heb je andere vragen? Twijfel dan niet om contact met ons op te nemen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ja, wij werken zowel muren als plafonds strak af met professioneel stucwerk. Vooral een glad plafond zorgt voor meer rust, licht en een verzorgde uitstraling in de ruimte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten in regio Almere."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dat hangt af van de grootte van het project en de gekozen afwerking. Een losse ruimte kan relatief snel worden afgewerkt, terwijl een complete woning meerdere werkdagen nodig heeft. Tijdens het offertetraject geven wij altijd een duidelijke planning."
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Al 15 jaar expert in strak stucwerk en dunpleister",
+        "Duidelijke afspraken, geen verborgen kosten",
+        "Eerlijk en persoonlijk advies afgestemd op de woning"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Glad afgewerkte wanden en plafonds met een strak eindresultaat.",
+        "Hoogwaardig stucwerk uitgevoerd met precisie en vakkennis.",
+        "Perfect voor zowel moderne nieuwbouw als renovatiewoningen.",
+        "Een ideale ondergrond voor latex spuiten of schilderwerk."
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Een egaal resultaat",
+        "Geen strepen of banen",
+        "Ideaal voor plafonds",
+        "Strakke afwerking",
+        "Snel resultaat"
+      ]
+    },
+    {
+      "type": "list-ul",
+      "items": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.11.57.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/Screenshot-2026-04-14-at-11.14.28.webp",
+      "alt": "Stucwerk in Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/eec82bd0-efc3-46e9-a38c-a17f5fd007a4-e1776158235704.webp",
+      "alt": "Stukadoor Wandmeesters"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/deuren-overschilderen.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/98251f56-a491-48c2-a312-eb603efc509d.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/8379406c-cf22-4c56-bf14-3eeb48f16cb2-768x1024.webp",
+      "alt": "Stucwerk Noord-Holland"
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/145f4683-ffd1-4c30-963a-c955115a9208-1024x768.webp",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/05/c446e2dc-f117-460f-8c6c-c764d34985bb.webp",
+      "alt": "dunpleister"
+    },
+    {
+      "type": "faq-group",
+      "items": [
+        {
+          "question": "Kunnen jullie ook buiten Almere ingeschakeld worden",
+          "answer": "Ja. Wij zijn actief in heel Nederland."
+        },
+        {
+          "question": "Betaal ik het 9% btw-tarief ook voor stucwerk ook in Almere?",
+          "answer": "Bij bestaande woningen ouder dan 2 jaar geldt het verlaagde btw-tarief van 9% op stucwerkzaamheden. Voor nieuwbouwwoningen geldt doorgaans het standaardtarief van 21% btw. Benieuwd naar de voorwaarden of heb je andere vragen? Twijfel dan niet om contact met ons op te nemen."
+        },
+        {
+          "question": "Stuccen jullie ook platfonds?",
+          "answer": "Ja, wij werken zowel muren als plafonds strak af met professioneel stucwerk. Vooral een glad plafond zorgt voor meer rust, licht en een verzorgde uitstraling in de ruimte."
+        },
+        {
+          "question": "Hoe snel kunnen jullie starten in Almere?",
+          "answer": "Zo snel mogelijk. Vraag eerst een gratis offerte aan. Na contact bespreken we direct de mogelijkheden en beschikbare startmomenten in regio Almere."
+        },
+        {
+          "question": "Hoe lang duurt stucwerk gemiddeld?",
+          "answer": "Dat hangt af van de grootte van het project en de gekozen afwerking. Een losse ruimte kan relatief snel worden afgewerkt, terwijl een complete woning meerdere werkdagen nodig heeft. Tijdens het offertetraject geven wij altijd een duidelijke planning."
+        }
+      ]
+    }
+  ],
+  "migrated_from": "diensten/stukadoor-almere/index.html"
+}

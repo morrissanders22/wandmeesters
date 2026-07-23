@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g stroke-width="2" transform="translate(0, 0)"><rect data-color="color-2" x="22" y="20" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="20" height="24" stroke-linejoin="miter"></rect>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	2,20 12,20 12,44 2,44 " stroke-linejoin="miter"></polyline>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	62,20 52,20 52,44 62,44 " stroke-linejoin="miter"></polyline>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M57,56H7
+	c-2.761,0-5-2.239-5-5V13c0-2.761,2.239-5,5-5h50c2.761,0,5,2.239,5,5v38C62,53.761,59.761,56,57,56z" stroke-linejoin="miter"></path></g></svg>

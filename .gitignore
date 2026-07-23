@@ -1,0 +1,5 @@
+.vercel
+.env*
+
+# PII — niet in git
+admin/data/leads.json
